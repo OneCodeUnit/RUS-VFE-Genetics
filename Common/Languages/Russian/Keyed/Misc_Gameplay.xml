@@ -13,7 +13,8 @@
   <TentacleGrowth>Trimmable tentacle growth</TentacleGrowth>
   <JellyGrowthEldritch>Eldritch jelly fullness</JellyGrowthEldritch>
   <ChocolateEgg>Chocolate egg growth</ChocolateEgg>
-  <Cryofuel>Deepchem production</Cryofuel>
+  <Cryofuel>Производство сгущёного химтоплива</Cryofuel>
+  <!-- EN:Deepchem production -->
   <ChemfuelProd>Chemfuel production</ChemfuelProd>
   <NeutroglycerinProd>Neutroglycerin production</NeutroglycerinProd>
   <ComponentIndustrialDesc>Industrial Component production</ComponentIndustrialDesc>
