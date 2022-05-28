@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Legs -->
+
+  <GR_BearLeg.label>протез для животного: медвежья лапа</GR_BearLeg.label>
+  <!-- EN:animal Implant: bear leg -->
+  <GR_BearLeg.description>Изготовить протез ноги, усиленный мышечной тканью медведя и оснащённый мощной медвежьей лапой. Даёт возможность наносить сокрушающие удары в ближнем бою.</GR_BearLeg.description>
+  <!-- EN:Craft a prosthetic animal leg strengthened with bear muscles, and ending in sharp bear claws that add a powerful melee attack. -->
+  <GR_BearLeg.jobString>Изготавливает имплантируемую медвежью лапу</GR_BearLeg.jobString>
+  <!-- EN:Making bear leg implant. -->
+
+  <GR_LizardLeg.label>протез для животного: нога ящера</GR_LizardLeg.label>
+  <!-- EN:animal Implant: bionic lizard leg -->
+  <GR_LizardLeg.description>Изготовить бионическую ногу, усиленную прочной чешуёй рептилии</GR_LizardLeg.description>
+  <!-- EN:Craft a bionic animal leg reinforced with tough lizard skin. -->
+  <GR_LizardLeg.jobString>Изготавливает бионическую ногу ящера</GR_LizardLeg.jobString>
+  <!-- EN:Making lizard leg implant. -->
+
+  <GR_ThrumboLeg.label>протез для животного: бионическая слоновая нога</GR_ThrumboLeg.label>
+  <!-- EN:animal Implant: bionic elephant leg -->
+  <GR_ThrumboLeg.description>Изготовить бионический протез ноги, усиленный мышечными волокнами слона</GR_ThrumboLeg.description>
+  <!-- EN:Craft a bionic animal leg reinforced with muscle tissue from a powerful elephant. -->
+  <GR_ThrumboLeg.jobString>Изготавливает бионическую слоновую ногу</GR_ThrumboLeg.jobString>
+  <!-- EN:Making bionic elephant leg implant. -->
+
+
+  <!-- Tail -->
+
+  <GR_CatTail.label>протез для животного: кошачий хвост</GR_CatTail.label>
+  <!-- EN:animal Implant: cat tail -->
+  <GR_CatTail.description>Изготовить востовой имплант, в котором используются кошачий генетический материал. Может служить заменой повреждённому или утраченному хвосту. Этот имплант не может заместить здоровый хвост. Следует также отметить, что он может быть имплантирован только животному, у которого уже был хвост.</GR_CatTail.description>
+  <!-- EN:Craft a tail implant that uses genetic splicing with feline genes to substitute a broken or missing tail. This implant is not meant to replace a healthy tail. Note that only creatures with a natural tail can use this. -->
+  <GR_CatTail.jobString>Изготавливает протез кошачьего хвоста</GR_CatTail.jobString>
+  <!-- EN:Making cat tail implant. -->
+
+  <GR_ScytherTail.label>протез для животного: хвост жнеца</GR_ScytherTail.label>
+  <!-- EN:animal Implant: scyther tail -->
+  <GR_ScytherTail.description>Изготовить хвост жнеца, присоединив клинок жнеца к хвосту животного. Так, стоп... А куда подевались все клинки, оставшиеся от жнецов? Вы поспрашивали по окрестным поселениям, но их больше никто не продаёт. Чтож, придётся изготовить их самостоятельно, с помощью чудес генной инженерии. Следует заметить, что они могут быть вживлены только существу, у которого есть, или уже когда-то был хвост.</GR_ScytherTail.description>
+  <!-- EN:Craft a scyther tail by attaching a scyther blade to an animal's tail. Uhmmm... where did you put all those old scyther blades? You asked around and no caravans seem to be trading them nowadays... Well, you will have to manufacture one using a cocktail of different genes. Note that only creatures with a natural tail can use this. -->
+  <GR_ScytherTail.jobString>Изготавливает протез хвоста жнеца</GR_ScytherTail.jobString>
+  <!-- EN:Making scyther tail implant. -->
+
+  <GR_MechaTail.label>протез для животного: усиленный хвост</GR_MechaTail.label>
+  <!-- EN:animal Implant: reinforced tail -->
+  <GR_MechaTail.description>Изготовить улучшенный хвост, значительно сильнее обычного. Следует также отметить, что он может быть имплантирован только животному, у которого уже был хвост.</GR_MechaTail.description>
+  <!-- EN:Craft an advanced animal tail, even more powerful than a natural one. Note that only creatures with a natural tail can use this. -->
+  <GR_MechaTail.jobString>Изготавливает усиленный хвост</GR_MechaTail.jobString>
+  <!-- EN:Making reinforced tail implant. -->
+
+
+  <!-- Eyes -->
+
+  <GR_CanidEye.label>протез для животного: собачий глаз</GR_CanidEye.label>
+  <!-- EN:animal Implant: canid eye -->
+  <GR_CanidEye.description>Изготовить зрительный имплант, основанный на использовании генетического материала псовых. Служит заменой повреждённого или утраченного глаза, но не здорового органа зрения.</GR_CanidEye.description>
+  <!-- EN: Craft an eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes. -->
+  <GR_CanidEye.jobString>Изготавливает собачий глаз</GR_CanidEye.jobString>
+  <!-- EN:Making canid eye implant. -->
+
+  <GR_InsectileEye.label>протез для животного: глаз насекомого</GR_InsectileEye.label>
+  <!-- EN:animal Implant: insectile eye -->
+  <GR_InsectileEye.description>Изготовить бионический имплант, представляющий собой фасеточный глаз насекомого. По сравнению с обычным глазом, фасеточные глаза предоставляют больший угол зрения и могут отслеживать быстро движущиеся объекты.</GR_InsectileEye.description>
+  <!-- EN:Craft a bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement. -->
+  <GR_InsectileEye.jobString>Изготавливает бионический глаз насекомого</GR_InsectileEye.jobString>
+  <!-- EN:Making insectile eye implant. -->
+
+  <GR_ThrumboEye.label>протез для животного: бионический глаз трумбо</GR_ThrumboEye.label>
+  <!-- EN:animal Implant: bionic thrumbo eye -->
+  <GR_ThrumboEye.description>Создать бионический глаз, оснащённый особыми фоторецепторами, присутствующими в зрительных органах трумбо.</GR_ThrumboEye.description>
+  <!-- EN:Craft a bionic eye reinforced with specialized photoreceptors from a powerful thrumbo. -->
+  <GR_ThrumboEye.jobString>Изготавливает бионический глаз трумбо.</GR_ThrumboEye.jobString>
+  <!-- EN:Making thrumbo eye implant. -->
+
+
+  <!-- Ears -->
+
+  <GR_RodentEar.label>протез для животного: ухо грызуна</GR_RodentEar.label>
+  <!-- EN:animal Implant: rodent ear -->
+  <GR_RodentEar.description>Создать слуховой имплант, в основе которого заложен генетический материал грызунов. Используется для замены повреждённого или утраченного уха. Не может быть использован для замены здорового слухового органа.</GR_RodentEar.description>
+  <!-- EN:Craft an ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears. -->
+  <GR_RodentEar.jobString>Изготавливает слуховой орган грызуна</GR_RodentEar.jobString>
+  <!-- EN:Making rodent ear implant. -->
+
+  <GR_MothTympanalOrgan.label>протез для животного: тимпанальный орган мотылька</GR_MothTympanalOrgan.label>
+  <!-- EN:animal Implant: moth tympanal organ -->
+  <GR_MothTympanalOrgan.description>Изготовить бионический имплант, добавляющий тимпанальный орган мотылька в ухо животного. Мотыльки способны воспринимать крайне высокочастотные звуки, например даже выше чем те, которые издают летучие мыши.</GR_MothTympanalOrgan.description>
+  <!-- EN:Craft a bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce. -->
+  <GR_MothTympanalOrgan.jobString>Изготавливает тимпанальный орган мотылька.</GR_MothTympanalOrgan.jobString>
+  <!-- EN:Making moth tympanal organ implant. -->
+
+  <GR_MechaReceptors.label>протез для животного: слуховой орган слона</GR_MechaReceptors.label>
+  <!-- EN:animal Implant: elephant auditory receptor -->
+  <GR_MechaReceptors.description>Создать слуховой орган слона, способный улавливать широкий диапазон частот.</GR_MechaReceptors.description>
+  <!-- EN:Craft an elephant auditory receptor that can scan a really wide band of frequencies. -->
+  <GR_MechaReceptors.jobString>Изготавливает слуховой орган слона</GR_MechaReceptors.jobString>
+  <!-- EN:Making elephant auditory receptor implant. -->
+
+
+  <!-- Noses -->
+
+  <GR_RodentNose.label>протез для животного: нос грызуна</GR_RodentNose.label>
+  <!-- EN:animal Implant: rodent nose -->
+  <GR_RodentNose.description>Изготовить имплант, в основе которого лежит генетический материал грызуна. Позволяет вернуть утраченный или повреждённый орган восприятия запахов. Не может служить заменой здорового органа. Не может быть вживлён птицам и насекомым.</GR_RodentNose.description>
+  <!-- EN:Craft an implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects. -->
+  <GR_RodentNose.jobString>Изготавливает нос грызуна</GR_RodentNose.jobString>
+  <!-- EN:Making rodent nose implant. -->
+
+  <GR_InsectoidPheromones.label>протез для животного: феромоны насекомых</GR_InsectoidPheromones.label>
+  <!-- EN:animal Implant: insectoid pheromones -->
+  <GR_InsectoidPheromones.description>Создать имплант, в основе которого находится генетический материал насекомых, улучшающий обоняние рецепиента. Не может быть имплантирован птицам и (что иронично) насекомым.</GR_InsectoidPheromones.description>
+  <!-- EN:Craft an implant that uses genetic splicing with insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects. -->
+  <GR_InsectoidPheromones.jobString>Изготавливает имплант с феромонами насекомых</GR_InsectoidPheromones.jobString>
+  <!-- EN:Making insectoid pheromones implant. -->
+
+  <GR_MiniatureThrumboHorn.label>протез для животного: миниатюрный рог трумбо</GR_MiniatureThrumboHorn.label>
+  <!-- EN:animal Implant: miniature thrumbo horn -->
+  <GR_MiniatureThrumboHorn.description>Создать бионический имплант, представляющий собой уменьшеннную копию рога трумбо. Имплантируется на место носа животного. Данный имплант позволяет существу дышать и обладает обонятельными рецепторами и позволяет наносить удары в ближнем бою. Птицам, насекомым и существам, уже обладающим аналогичным рогом нельзя вживить данный имплант.</GR_MiniatureThrumboHorn.description>
+  <!-- EN:Craft a bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant. -->
+  <GR_MiniatureThrumboHorn.jobString>Изготавливает протез для животного: миниатюрный рог трумбо</GR_MiniatureThrumboHorn.jobString>
+  <!-- EN:Making miniature thrumbo horn implant. -->
+
+
+  <!-- Jaws -->
+
+  <GR_WolfJaws.label>протез для животного: волчьи клыки</GR_WolfJaws.label>
+  <!-- EN:animal Implant: wolf fangs -->
+  <GR_WolfJaws.description>Создать имплант, в основе которого лежит генетический материал волка. Может быть использован для замены повреждённой или утраченной челюсти на волчью. Не может быть использован для замены здоровой части тела.</GR_WolfJaws.description>
+  <!-- EN:Craft an implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws. -->
+  <GR_WolfJaws.jobString>Изготавливает имплант с волчьими клыками</GR_WolfJaws.jobString>
+  <!-- EN:Making wolf fangs implant. -->
+
+  <GR_InsectMandibles.label>протез для животного: жвалы насекомого</GR_InsectMandibles.label>
+  <!-- EN:animal Implant: insect mandibles -->
+  <GR_InsectMandibles.description>Создать бионические жвалы, подобные тем, что можно увидеть у насекомых. Влияют на способность к взаимодействию с предметами и на скорость поглощения еды, а также являются грозным оружием.</GR_InsectMandibles.description>
+  <!-- EN:Craft a bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offensive weapon -->
+  <GR_InsectMandibles.jobString>Изготавливает имплант жвалами насекомого</GR_InsectMandibles.jobString>
+  <!-- EN:Making insect mandibles implant. -->
+
+  <GR_ThrumboJaws.label>протез для животного: бионические челюсти трумбо</GR_ThrumboJaws.label>
+  <!-- EN:animal Implant: bionic thrumbo jaws -->
+  <GR_ThrumboJaws.description>Создать бионические челюсти трумбо. Эти существа питаются деревьями, что само по себе уже говорит о силе их челюстей.</GR_ThrumboJaws.description>
+  <!-- EN:Craft a bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task. -->
+  <GR_ThrumboJaws.jobString>Изготавливает бионические челюсти трумбо</GR_ThrumboJaws.jobString>
+  <!-- EN:Making bionic thrumbo jaws implant. -->
+
+
+  <!-- Spines -->
+
+  <GR_MuffaloSpine.label>протез для животного: хребет муффало</GR_MuffaloSpine.label>
+  <!-- EN:animal Implant: muffalo spine -->
+  <GR_MuffaloSpine.description>Создать протез позвоночника, в основе которого лежит генетический материал муффало. Позволяет обеспечить нормальное функционирование утраченного или повреждённого позвоночника. Не может служить заменой здоровому органу.</GR_MuffaloSpine.description>
+  <!-- EN:Craft a spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines. -->
+  <GR_MuffaloSpine.jobString>Изготавливает искусственный хребет муффало</GR_MuffaloSpine.jobString>
+  <!-- EN:Making muffalo spine implant. -->
+
+  <GR_CrocodileSpine.label>протез для животного: позвоночник крокодила</GR_CrocodileSpine.label>
+  <!-- EN:animal Implant: crocodile spine -->
+  <GR_CrocodileSpine.description>Создать протез позвоночника, в основе которого лежит генетический материал муффало. Позволяет обеспечить нормальное функционирование утраченного или повреждённого позвоночника. Не может служить заменой здоровому органу.</GR_CrocodileSpine.description>
+  <!-- EN:Craft a bionic implant adding a sturdy crocodile spine to the creature's skeletal system. -->
+  <GR_CrocodileSpine.jobString>Изготавливает бионический протез крокодильего позвоночника</GR_CrocodileSpine.jobString>
+  <!-- EN:Making crocodile spine implant. -->
+
+  <GR_MechaSpine.label>протез для животного: укреплённый бионический позвоночник</GR_MechaSpine.label>
+  <!-- EN:animal Implant: reinforced bionic spine -->
+  <GR_MechaSpine.description>Создать бионический позвоночник, структурно укреплённый пласталью и оснащённый активными механитами.</GR_MechaSpine.description>
+  <!-- EN:Craft a bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system. -->
+  <GR_MechaSpine.jobString>Изготавливает укреплённый бионический позвоночник</GR_MechaSpine.jobString>
+  <!-- EN:Making reinforced bionic spine implant. -->
+
+
+  <!-- Brain -->
+
+  <GR_ChickenBrains.label>имплант для животного: мозг курицы</GR_ChickenBrains.label>
+  <!-- EN:animal Implant: chicken brains -->
+  <GR_ChickenBrains.description>Создать имплант использующий мозговые клетки курицы для восстановления повреждённых нейронных связей. Предназначен для созданий по каким-либор причинам лишённых мозга.</GR_ChickenBrains.description>
+  <!-- EN:Craft an implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures. -->
+  <GR_ChickenBrains.jobString>Изготавливает куриный мозг</GR_ChickenBrains.jobString>
+  <!-- EN:Making chicken brains implant. -->
+
+  <GR_MonitorLizardBrain.label>имплант для животного: мозг варана</GR_MonitorLizardBrain.label>
+  <!-- EN:animal Implant: monitor lizard brain -->
+  <GR_MonitorLizardBrain.description>Создать мозговой имплант, в основе которого находятся нейронные цепочки из мозга варана. Эта высокоразвитая рептилия обладает крайне высокой скоростью рефлексов</GR_MonitorLizardBrain.description>
+  <!-- EN:Craft a bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes. -->
+  <GR_MonitorLizardBrain.jobString>Изготавливает имплантируемый мозг варана</GR_MonitorLizardBrain.jobString>
+  <!-- EN:Making monitor lizard brain implant. -->
+
+  <GR_ThrumboBrain.label>имплант для животного: искусственный мозг трумбо</GR_ThrumboBrain.label>
+  <!-- EN:animal Implant: bionic thrumbo brain -->
+  <GR_ThrumboBrain.description>Создать мозговой имплант, в основе которого находятся нейронные цепочки из мозга трумбо. Потрясающий интеллект и скорость рефлексов.</GR_ThrumboBrain.description>
+  <!-- EN:Craft a bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes. -->
+  <GR_ThrumboBrain.jobString>Изготавливает имплантируемый мозг трумбо</GR_ThrumboBrain.jobString>
+  <!-- EN:Making bionic thrumbo brain implant. -->
+
+
+  <!-- Hearts -->
+
+  <GR_BoomalopeHeart.label>имплант для животного: сердце бумалопы</GR_BoomalopeHeart.label>
+  <!-- EN:animal Implant: boomalope heart -->
+  <GR_BoomalopeHeart.description>Создать имплант, использующий химтопливо для циркуляции крови в теле животного. Предназначен для замены больного сердца, поскольку он менее эффективен, нежели здоровое сердце..</GR_BoomalopeHeart.description>
+  <!-- EN:Craft an implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart. -->
+  <GR_BoomalopeHeart.jobString>изготавливает имплантируемое сердце бумалопы</GR_BoomalopeHeart.jobString>
+  <!-- EN:Making boomalope heart implant. -->
+
+  <GR_ChitinousHeart.label>имплант для животного: хитиновое сердце</GR_ChitinousHeart.label>
+  <!-- EN:animal Implant: chitinous heart -->
+  <GR_ChitinousHeart.description>Изготовить бионическое сердце, оснащённое хитиновой оболочкой для защиты от внешних воздействий. Это сердце способно выдержать не один удар, прошу прощения за каламбур. Это последний. Честно..</GR_ChitinousHeart.description>
+  <!-- EN:Craft a bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise. -->
+  <GR_ChitinousHeart.jobString>изготавливает хитиновое сердце</GR_ChitinousHeart.jobString>
+  <!-- EN:Making chitinous heart implant. -->
+
+  <GR_MechaHeart.label>имплант для животного: усиленное бионическое сердце</GR_MechaHeart.label>
+  <!-- EN:animal Implant: reinforced bionic heart -->
+  <GR_MechaHeart.description>Создать бионический протез сердца, усиленный активными механитами.</GR_MechaHeart.description>
+  <!-- EN:Craft a bionic heart strengthened by the action of active mechanites. -->
+  <GR_MechaHeart.jobString>Создаёт усиленное бионическое сердце</GR_MechaHeart.jobString>
+  <!-- EN:Making reinforced bionic heart implant. -->
+
+
+  <!-- Lungs -->
+
+  <GR_MuffaloLung.label>имплант для животного: лёгкое муффало</GR_MuffaloLung.label>
+  <!-- EN:animal Implant: muffalo lung -->
+  <GR_MuffaloLung.description>Создать имплант, в основе которого заложен генетический материал муффало. Улучшает способность существа к дыханию.</GR_MuffaloLung.description>
+  <!-- EN:Craft an implant that uses muffalo genes to increase breathing capacity. -->
+  <GR_MuffaloLung.jobString>Создаёт имплантируемое лёгкое муффало</GR_MuffaloLung.jobString>
+  <!-- EN:Making muffalo lung implant. -->
+
+
+  <!-- Liver -->
+
+  <GR_BearLiver.label>имплант для животного: медвежья печень</GR_BearLiver.label>
+  <!-- EN:animal Implant: bear liver -->
+  <GR_BearLiver.description>Создать имплант, в основе которого находятся гены медведя, позволяющие усилить функцию печени. Особенно полезен для этих куриц-алкоголиков.</GR_BearLiver.description>
+  <!-- EN:Craft an implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens. -->
+  <GR_BearLiver.jobString>Создаёт имплантируемую медвежью печень</GR_BearLiver.jobString>
+  <!-- EN:Making bear liver implant. -->
+
+
+  <!-- Kidney -->
+
+  <GR_ChickenKidney.label>имплант для животного: куриная почка</GR_ChickenKidney.label>
+  <!-- EN:animal Implant: chicken kidney -->
+  <GR_ChickenKidney.description>Создать имплант, в основе которого находится генетический материал курицы. Улучшает функцию печени. У птиц большая печень. Ага. Теперь вы знаете больше.</GR_ChickenKidney.description>
+  <!-- EN:Craft an implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today. -->
+  <GR_ChickenKidney.jobString>Создаёт имплантируемую куриную почку</GR_ChickenKidney.jobString>
+  <!-- EN:Making chicken kidney implant. -->
+
+
+  <!-- Stomach -->
+
+  <GR_BoomalopeStomach.label>имплант для животного: желудок бумалопы</GR_BoomalopeStomach.label>
+  <!-- EN:animal Implant: boomalope stomach -->
+  <GR_BoomalopeStomach.description>Создать имплант, в основе которого находится генетический материал бумалопы. что позволяет улучшить функцию желудка у животного.</GR_BoomalopeStomach.description>
+  <!-- EN:Craft an implant that uses boomalope genes to improve function of the stomach. -->
+  <GR_BoomalopeStomach.jobString>Создаёт имплантируемый желудок бумалопы</GR_BoomalopeStomach.jobString>
+  <!-- EN:Making boomalope stomach implant. -->
+
+
+
+</LanguageData>

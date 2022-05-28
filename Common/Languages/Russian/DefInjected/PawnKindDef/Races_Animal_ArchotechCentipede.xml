@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ArchotechCentipede -->
+
+  <GR_ArchotechCentipede.label>архосентипеда</GR_ArchotechCentipede.label>
+  <!-- EN:archocentipede -->
+  <GR_ArchotechCentipede.labelPlural>архосентипеды</GR_ArchotechCentipede.labelPlural>
+  <!-- EN:archocentipedes -->
+  <GR_ArchotechCentipede.labelMale>архосентипеда-самец</GR_ArchotechCentipede.labelMale>
+  <!-- EN:male archocentipede -->
+  <GR_ArchotechCentipede.labelMalePlural>архосентипеды-самцы</GR_ArchotechCentipede.labelMalePlural>
+  <!-- EN:male archocentipedes -->
+  <GR_ArchotechCentipede.labelFemale>архосентипеда-самка</GR_ArchotechCentipede.labelFemale>
+  <!-- EN:female archocentipede -->
+  <GR_ArchotechCentipede.labelFemalePlural>архосентипеды-самки</GR_ArchotechCentipede.labelFemalePlural>
+  <!-- EN:female archocentipedes -->
+
+
+</LanguageData>

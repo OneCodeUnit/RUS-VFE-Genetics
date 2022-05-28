@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wolf - Bear -->
+
+  <GR_Wolfbear.label>медвеволк</GR_Wolfbear.label>
+  <!-- EN:wolfbear -->
+  <GR_Wolfbear.labelPlural>медвеволки</GR_Wolfbear.labelPlural>
+  <!-- EN:wolfbears -->
+  <GR_Wolfbear.lifeStages.0.label>щенок медвеволка</GR_Wolfbear.lifeStages.0.label>
+  <!-- EN:wolfbear puppy -->
+  <GR_Wolfbear.lifeStages.0.labelPlural>щенки медвеволка</GR_Wolfbear.lifeStages.0.labelPlural>
+  <!-- EN:wolfbear puppies -->
+  <GR_Wolfbear.lifeStages.0.labelMale>щенок медвеволка-самец</GR_Wolfbear.lifeStages.0.labelMale>
+  <!-- EN:male wolfbear puppy -->
+  <GR_Wolfbear.lifeStages.0.labelMalePlural>щенки медвеволка-самцы</GR_Wolfbear.lifeStages.0.labelMalePlural>
+  <!-- EN:male wolfbear puppies -->
+  <GR_Wolfbear.lifeStages.0.labelFemale>щенок медвеволка-самка</GR_Wolfbear.lifeStages.0.labelFemale>
+  <!-- EN:female wolfbear puppy -->
+  <GR_Wolfbear.lifeStages.0.labelFemalePlural>щенки медвеволка-самки</GR_Wolfbear.lifeStages.0.labelFemalePlural>
+  <!-- EN:female wolfbear puppies -->
+  <GR_Wolfbear.lifeStages.1.label>молодой медвеволк</GR_Wolfbear.lifeStages.1.label>
+  <!-- EN:wolfbear -->
+  <GR_Wolfbear.lifeStages.1.labelPlural>молодые медвеволки</GR_Wolfbear.lifeStages.1.labelPlural>
+  <!-- EN:wolfbear -->
+  <GR_Wolfbear.lifeStages.1.labelMale>молодой медвеволк</GR_Wolfbear.lifeStages.1.labelMale>
+  <!-- EN:male wolfbear -->
+  <GR_Wolfbear.lifeStages.1.labelMalePlural>молодые медвеволки</GR_Wolfbear.lifeStages.1.labelMalePlural>
+  <!-- EN:male wolfbears -->
+  <GR_Wolfbear.lifeStages.1.labelFemale>молодая медвеволчица</GR_Wolfbear.lifeStages.1.labelFemale>
+  <!-- EN:female wolfbear -->
+  <GR_Wolfbear.lifeStages.1.labelFemalePlural>молодые медвеволчицы</GR_Wolfbear.lifeStages.1.labelFemalePlural>
+  <!-- EN:female wolfbears -->
+  <GR_Wolfbear.lifeStages.2.label>медвеволк</GR_Wolfbear.lifeStages.2.label>
+  <!-- EN:wolfbear -->
+  <GR_Wolfbear.lifeStages.2.labelPlural>медвеволки</GR_Wolfbear.lifeStages.2.labelPlural>
+  <!-- EN:wolfbear -->
+  <GR_Wolfbear.lifeStages.2.labelMale>медвеволк</GR_Wolfbear.lifeStages.2.labelMale>
+  <!-- EN:male wolfbear -->
+  <GR_Wolfbear.lifeStages.2.labelMalePlural>медвеволки</GR_Wolfbear.lifeStages.2.labelMalePlural>
+  <!-- EN:male wolfbears -->
+  <GR_Wolfbear.lifeStages.2.labelFemale>медвеволчица</GR_Wolfbear.lifeStages.2.labelFemale>
+  <!-- EN:female wolfbear -->
+  <GR_Wolfbear.lifeStages.2.labelFemalePlural>медвеволчицы</GR_Wolfbear.lifeStages.2.labelFemalePlural>
+  <!-- EN:female wolfbears -->
+  <GR_Wolfbear.labelMale>медвеволк</GR_Wolfbear.labelMale>
+  <!-- EN:male wolfbear -->
+  <GR_Wolfbear.labelMalePlural>медвеволки</GR_Wolfbear.labelMalePlural>
+  <!-- EN:male wolfbears -->
+  <GR_Wolfbear.labelFemale>медвеволчица</GR_Wolfbear.labelFemale>
+  <!-- EN:female wolfbear -->
+  <GR_Wolfbear.labelFemalePlural>медвеволчицы</GR_Wolfbear.labelFemalePlural>
+  <!-- EN:female wolfbears -->
+
+
+  <!-- Wolf - Boomalope -->
+
+  <GR_Wolfalope.label>волколопа</GR_Wolfalope.label>
+  <!-- EN:wolfalope -->
+  <GR_Wolfalope.labelPlural>волколопа</GR_Wolfalope.labelPlural>
+  <!-- EN:wolfalopes -->
+  <GR_Wolfalope.lifeStages.0.label>волколопчонок</GR_Wolfalope.lifeStages.0.label>
+  <!-- EN:wolfalope puppy -->
+  <GR_Wolfalope.lifeStages.0.labelPlural>волколопчата</GR_Wolfalope.lifeStages.0.labelPlural>
+  <!-- EN:wolfalope puppies -->
+  <GR_Wolfalope.lifeStages.0.labelMale>волколопчонок-самец</GR_Wolfalope.lifeStages.0.labelMale>
+  <!-- EN:male wolfalope puppy -->
+  <GR_Wolfalope.lifeStages.0.labelMalePlural>волколопчата-самцы</GR_Wolfalope.lifeStages.0.labelMalePlural>
+  <!-- EN:male wolfalope puppies -->
+  <GR_Wolfalope.lifeStages.0.labelFemale>волколопчонок-самка</GR_Wolfalope.lifeStages.0.labelFemale>
+  <!-- EN:female wolfalope puppy -->
+  <GR_Wolfalope.lifeStages.0.labelFemalePlural>волколопчата-самки</GR_Wolfalope.lifeStages.0.labelFemalePlural>
+  <!-- EN:female wolfalope puppies -->
+  <GR_Wolfalope.lifeStages.1.label>молодая волколопа</GR_Wolfalope.lifeStages.1.label>
+  <!-- EN:wolfalope -->
+  <GR_Wolfalope.lifeStages.1.labelPlural>молодые волколопы</GR_Wolfalope.lifeStages.1.labelPlural>
+  <!-- EN:wolfalope -->
+  <GR_Wolfalope.lifeStages.1.labelMale>молодая волколопа-самец</GR_Wolfalope.lifeStages.1.labelMale>
+  <!-- EN:male wolfalope -->
+  <GR_Wolfalope.lifeStages.1.labelMalePlural>молодые волколопы-самцы</GR_Wolfalope.lifeStages.1.labelMalePlural>
+  <!-- EN:male wolfalopes -->
+  <GR_Wolfalope.lifeStages.1.labelFemale>молодая волколопа-самка</GR_Wolfalope.lifeStages.1.labelFemale>
+  <!-- EN:female wolfalope -->
+  <GR_Wolfalope.lifeStages.1.labelFemalePlural>молодые волколопы-самки</GR_Wolfalope.lifeStages.1.labelFemalePlural>
+  <!-- EN:female wolfalopes -->
+  <GR_Wolfalope.lifeStages.2.label>волколопа</GR_Wolfalope.lifeStages.2.label>
+  <!-- EN:wolfalope -->
+  <GR_Wolfalope.lifeStages.2.labelPlural>волколопы</GR_Wolfalope.lifeStages.2.labelPlural>
+  <!-- EN:wolfalope -->
+  <GR_Wolfalope.lifeStages.2.labelMale>волколопа-самец</GR_Wolfalope.lifeStages.2.labelMale>
+  <!-- EN:male wolfalope -->
+  <GR_Wolfalope.lifeStages.2.labelMalePlural>волколопы-самцы</GR_Wolfalope.lifeStages.2.labelMalePlural>
+  <!-- EN:male wolfalopes -->
+  <GR_Wolfalope.lifeStages.2.labelFemale>волколопа-самка</GR_Wolfalope.lifeStages.2.labelFemale>
+  <!-- EN:female wolfalope -->
+  <GR_Wolfalope.lifeStages.2.labelFemalePlural>волколопы-самки</GR_Wolfalope.lifeStages.2.labelFemalePlural>
+  <!-- EN:female wolfalopes -->
+  <GR_Wolfalope.labelMale>волколопа-самец</GR_Wolfalope.labelMale>
+  <!-- EN:male wolfalope -->
+  <GR_Wolfalope.labelMalePlural>волколопы-самцы</GR_Wolfalope.labelMalePlural>
+  <!-- EN:male wolfalopes -->
+  <GR_Wolfalope.labelFemale>волколопа-самка</GR_Wolfalope.labelFemale>
+  <!-- EN:female wolfalope -->
+  <GR_Wolfalope.labelFemalePlural>волколопа-самка</GR_Wolfalope.labelFemalePlural>
+  <!-- EN:female wolfalopes -->
+
+
+  <!-- Wolf - Chicken -->
+
+  <GR_Wolfchicken.label>волкоцып</GR_Wolfchicken.label>
+  <!-- EN:wolfchicken -->
+  <GR_Wolfchicken.labelPlural>волкоцыпы</GR_Wolfchicken.labelPlural>
+  <!-- EN:wolfchickens -->
+  <GR_Wolfchicken.lifeStages.0.label>щенок волкоцыпа</GR_Wolfchicken.lifeStages.0.label>
+  <!-- EN:wolfchicken puppy -->
+  <GR_Wolfchicken.lifeStages.0.labelPlural>щенки волкоцыпа</GR_Wolfchicken.lifeStages.0.labelPlural>
+  <!-- EN:wolfchicken puppies -->
+  <GR_Wolfchicken.lifeStages.0.labelMale>щенок волкоцыпа-самец</GR_Wolfchicken.lifeStages.0.labelMale>
+  <!-- EN:male wolfchicken puppy -->
+  <GR_Wolfchicken.lifeStages.0.labelMalePlural>щенки волкоцыпа-самцы</GR_Wolfchicken.lifeStages.0.labelMalePlural>
+  <!-- EN:male wolfchicken puppies -->
+  <GR_Wolfchicken.lifeStages.0.labelFemale>щенок волкоцыпа-самка</GR_Wolfchicken.lifeStages.0.labelFemale>
+  <!-- EN:female wolfchicken puppy -->
+  <GR_Wolfchicken.lifeStages.0.labelFemalePlural>щенки волкоцыпа-самки</GR_Wolfchicken.lifeStages.0.labelFemalePlural>
+  <!-- EN:female wolfchicken puppies -->
+  <GR_Wolfchicken.lifeStages.1.label>молодой волкоцып</GR_Wolfchicken.lifeStages.1.label>
+  <!-- EN:wolfchicken -->
+  <GR_Wolfchicken.lifeStages.1.labelPlural>молодые волкоцыпы</GR_Wolfchicken.lifeStages.1.labelPlural>
+  <!-- EN:wolfchicken -->
+  <GR_Wolfchicken.lifeStages.1.labelMale>молодой волкоцып-самец</GR_Wolfchicken.lifeStages.1.labelMale>
+  <!-- EN:male wolfchicken -->
+  <GR_Wolfchicken.lifeStages.1.labelMalePlural>молодые волкоцыпы-самцы</GR_Wolfchicken.lifeStages.1.labelMalePlural>
+  <!-- EN:male wolfchickens -->
+  <GR_Wolfchicken.lifeStages.1.labelFemale>молодая самка волкоцыпа</GR_Wolfchicken.lifeStages.1.labelFemale>
+  <!-- EN:female wolfchicken -->
+  <GR_Wolfchicken.lifeStages.1.labelFemalePlural>молодые волкоцыпы-самки</GR_Wolfchicken.lifeStages.1.labelFemalePlural>
+  <!-- EN:female wolfchickens -->
+  <GR_Wolfchicken.lifeStages.2.label>волкоцып</GR_Wolfchicken.lifeStages.2.label>
+  <!-- EN:wolfchicken -->
+  <GR_Wolfchicken.lifeStages.2.labelPlural>волкоцыпы</GR_Wolfchicken.lifeStages.2.labelPlural>
+  <!-- EN:wolfchicken -->
+  <GR_Wolfchicken.lifeStages.2.labelMale>волкоцып-самец</GR_Wolfchicken.lifeStages.2.labelMale>
+  <!-- EN:male wolfchicken -->
+  <GR_Wolfchicken.lifeStages.2.labelMalePlural>волкоцыпы-самцы</GR_Wolfchicken.lifeStages.2.labelMalePlural>
+  <!-- EN:male wolfchickens -->
+  <GR_Wolfchicken.lifeStages.2.labelFemale>волкоцып-самка</GR_Wolfchicken.lifeStages.2.labelFemale>
+  <!-- EN:female wolfchicken -->
+  <GR_Wolfchicken.lifeStages.2.labelFemalePlural>волкоцыпы-самки</GR_Wolfchicken.lifeStages.2.labelFemalePlural>
+  <!-- EN:female wolfchickens -->
+  <GR_Wolfchicken.labelMale>волкоцып-самец</GR_Wolfchicken.labelMale>
+  <!-- EN:male wolfchicken -->
+  <GR_Wolfchicken.labelMalePlural>волкоцыпы-самцы</GR_Wolfchicken.labelMalePlural>
+  <!-- EN:male wolfchickens -->
+  <GR_Wolfchicken.labelFemale>волкоцып-самка</GR_Wolfchicken.labelFemale>
+  <!-- EN:female wolfchicken -->
+  <GR_Wolfchicken.labelFemalePlural>волкоцыпы-самки</GR_Wolfchicken.labelFemalePlural>
+  <!-- EN:female wolfchickens -->
+
+
+  <!-- Wolf - Muffalo -->
+
+  <GR_Wolffalo.label>волфалло</GR_Wolffalo.label>
+  <!-- EN:wolffalo  -->
+  <GR_Wolffalo.labelPlural>волфалло</GR_Wolffalo.labelPlural>
+  <!-- EN:wolffalos -->
+  <GR_Wolffalo.lifeStages.0.label>щенок волфалло</GR_Wolffalo.lifeStages.0.label>
+  <!-- EN:wolffalo puppy  -->
+  <GR_Wolffalo.lifeStages.0.labelPlural>щенки волфалло</GR_Wolffalo.lifeStages.0.labelPlural>
+  <!-- EN:wolffalo puppies  -->
+  <GR_Wolffalo.lifeStages.0.labelMale>щенок волфалло-самец</GR_Wolffalo.lifeStages.0.labelMale>
+  <!-- EN:male wolffalo puppy  -->
+  <GR_Wolffalo.lifeStages.0.labelMalePlural>щенки волфалло-самцы</GR_Wolffalo.lifeStages.0.labelMalePlural>
+  <!-- EN:male wolffalo puppies  -->
+  <GR_Wolffalo.lifeStages.0.labelFemale>щенок волфалло-самка</GR_Wolffalo.lifeStages.0.labelFemale>
+  <!-- EN:female wolffalo puppy  -->
+  <GR_Wolffalo.lifeStages.0.labelFemalePlural>щенки волфалло-самки</GR_Wolffalo.lifeStages.0.labelFemalePlural>
+  <!-- EN:female wolffalo puppies  -->
+  <GR_Wolffalo.lifeStages.1.label>молодой волфалло</GR_Wolffalo.lifeStages.1.label>
+  <!-- EN:wolffalo  -->
+  <GR_Wolffalo.lifeStages.1.labelPlural>молодые волфалло</GR_Wolffalo.lifeStages.1.labelPlural>
+  <!-- EN:wolffalo  -->
+  <GR_Wolffalo.lifeStages.1.labelMale>молодой самец волфалло</GR_Wolffalo.lifeStages.1.labelMale>
+  <!-- EN:male wolffalo  -->
+  <GR_Wolffalo.lifeStages.1.labelMalePlural>молодые самцы волфалло</GR_Wolffalo.lifeStages.1.labelMalePlural>
+  <!-- EN:male wolffalos  -->
+  <GR_Wolffalo.lifeStages.1.labelFemale>молодая самка волфалло</GR_Wolffalo.lifeStages.1.labelFemale>
+  <!-- EN:female wolffalo  -->
+  <GR_Wolffalo.lifeStages.1.labelFemalePlural>молодые самки волфалло</GR_Wolffalo.lifeStages.1.labelFemalePlural>
+  <!-- EN:female wolffalos  -->
+  <GR_Wolffalo.lifeStages.2.label>волфалло</GR_Wolffalo.lifeStages.2.label>
+  <!-- EN:wolffalo  -->
+  <GR_Wolffalo.lifeStages.2.labelPlural>волфалло</GR_Wolffalo.lifeStages.2.labelPlural>
+  <!-- EN:wolffalo  -->
+  <GR_Wolffalo.lifeStages.2.labelMale>самец волфалло</GR_Wolffalo.lifeStages.2.labelMale>
+  <!-- EN:male wolffalo  -->
+  <GR_Wolffalo.lifeStages.2.labelMalePlural>самцы волфалло</GR_Wolffalo.lifeStages.2.labelMalePlural>
+  <!-- EN:male wolffalos  -->
+  <GR_Wolffalo.lifeStages.2.labelFemale>самка волфалло</GR_Wolffalo.lifeStages.2.labelFemale>
+  <!-- EN:female wolffalo  -->
+  <GR_Wolffalo.lifeStages.2.labelFemalePlural>самки волфалло</GR_Wolffalo.lifeStages.2.labelFemalePlural>
+  <!-- EN:female wolffalos  -->
+  <GR_Wolffalo.labelMale>самец волфалло</GR_Wolffalo.labelMale>
+  <!-- EN:male wolffalo  -->
+  <GR_Wolffalo.labelMalePlural>самцы волфалло</GR_Wolffalo.labelMalePlural>
+  <!-- EN:male wolffalos  -->
+  <GR_Wolffalo.labelFemale>самка волфалло</GR_Wolffalo.labelFemale>
+  <!-- EN:female wolffalo  -->
+  <GR_Wolffalo.labelFemalePlural>самки волфалло</GR_Wolffalo.labelFemalePlural>
+  <!-- EN:female wolffalos  -->
+
+
+  <!-- Wolf - Rodent -->
+
+  <GR_Wolfbeaver.label>волкобобр</GR_Wolfbeaver.label>
+  <!-- EN: wolfbeaver -->
+  <GR_Wolfbeaver.labelPlural>волкобобры</GR_Wolfbeaver.labelPlural>
+  <!-- EN: wolfbeavers -->
+  <GR_Wolfbeaver.lifeStages.0.label>волкобобрёнок</GR_Wolfbeaver.lifeStages.0.label>
+  <!-- EN:wolfbeaver puppy -->
+  <GR_Wolfbeaver.lifeStages.0.labelPlural>волкобобрята</GR_Wolfbeaver.lifeStages.0.labelPlural>
+  <!-- EN:wolfbeaver puppies -->
+  <GR_Wolfbeaver.lifeStages.0.labelMale>волкобобрёнок-самец</GR_Wolfbeaver.lifeStages.0.labelMale>
+  <!-- EN:male wolfbeaver puppy -->
+  <GR_Wolfbeaver.lifeStages.0.labelMalePlural>волкобобрята-самцы</GR_Wolfbeaver.lifeStages.0.labelMalePlural>
+  <!-- EN:male wolfbeaver puppies-->
+  <GR_Wolfbeaver.lifeStages.0.labelFemale>волкобобрёнок-самка</GR_Wolfbeaver.lifeStages.0.labelFemale>
+  <!-- EN:female wolfbeaver puppy -->
+  <GR_Wolfbeaver.lifeStages.0.labelFemalePlural>волкобобрята-самки</GR_Wolfbeaver.lifeStages.0.labelFemalePlural>
+  <!-- EN:female wolfbeaver puppies -->
+  <GR_Wolfbeaver.lifeStages.1.label>молодой волкобобр</GR_Wolfbeaver.lifeStages.1.label>
+  <!-- EN:wolfbeaver -->
+  <GR_Wolfbeaver.lifeStages.1.labelPlural>молодые волкобобры</GR_Wolfbeaver.lifeStages.1.labelPlural>
+  <!-- EN:wolfbeaver -->
+  <GR_Wolfbeaver.lifeStages.1.labelMale>молодой волкобобр-самец</GR_Wolfbeaver.lifeStages.1.labelMale>
+  <!-- EN:male wolfbeaver -->
+  <GR_Wolfbeaver.lifeStages.1.labelMalePlural>молодые волкобобры-самцы</GR_Wolfbeaver.lifeStages.1.labelMalePlural>
+  <!-- EN:male wolfbeavers -->
+  <GR_Wolfbeaver.lifeStages.1.labelFemale>молодая самка волкобобра</GR_Wolfbeaver.lifeStages.1.labelFemale>
+  <!-- EN:female wolfbeaver -->
+  <GR_Wolfbeaver.lifeStages.1.labelFemalePlural>молодые самки волкобобра</GR_Wolfbeaver.lifeStages.1.labelFemalePlural>
+  <!-- EN:female wolfbeavers -->
+  <GR_Wolfbeaver.lifeStages.2.label>волкобобр</GR_Wolfbeaver.lifeStages.2.label>
+  <!-- EN:wolfbeaver -->
+  <GR_Wolfbeaver.lifeStages.2.labelPlural>волкобобры</GR_Wolfbeaver.lifeStages.2.labelPlural>
+  <!-- EN:wolfbeaver -->
+  <GR_Wolfbeaver.lifeStages.2.labelMale>волкобобр-самец</GR_Wolfbeaver.lifeStages.2.labelMale>
+  <!-- EN:male wolfbeaver -->
+  <GR_Wolfbeaver.lifeStages.2.labelMalePlural>волкобобры-самцы</GR_Wolfbeaver.lifeStages.2.labelMalePlural>
+  <!-- EN:male wolfbeavers -->
+  <GR_Wolfbeaver.lifeStages.2.labelFemale>самка волкобобра</GR_Wolfbeaver.lifeStages.2.labelFemale>
+  <!-- EN:female wolfbeaver -->
+  <GR_Wolfbeaver.lifeStages.2.labelFemalePlural>самки волкобобра</GR_Wolfbeaver.lifeStages.2.labelFemalePlural>
+  <!-- EN:female wolfbeavers -->
+  <GR_Wolfbeaver.labelMale>волкобобр-самец</GR_Wolfbeaver.labelMale>
+  <!-- EN:male wolfbeaver -->
+  <GR_Wolfbeaver.labelMalePlural>волкобобры-самцы</GR_Wolfbeaver.labelMalePlural>
+  <!-- EN:male wolfbeavers -->
+  <GR_Wolfbeaver.labelFemale>самка волкобобра</GR_Wolfbeaver.labelFemale>
+  <!-- EN:female wolfbeaver -->
+  <GR_Wolfbeaver.labelFemalePlural>самки волкобобра</GR_Wolfbeaver.labelFemalePlural>
+  <!-- EN:female wolfbeavers -->
+
+
+  <!-- Wolf - Cat -->
+
+  <GR_Wolfcat.label>волкот</GR_Wolfcat.label>
+  <!-- EN:wolfcat -->
+  <GR_Wolfcat.labelPlural>волкоты</GR_Wolfcat.labelPlural>
+  <!-- EN:wolfcats -->
+  <GR_Wolfcat.lifeStages.0.label>волкотёнок</GR_Wolfcat.lifeStages.0.label>
+  <!-- EN:wolfcat puppy -->
+  <GR_Wolfcat.lifeStages.0.labelPlural>волкотята</GR_Wolfcat.lifeStages.0.labelPlural>
+  <!-- EN:wolfcat puppies -->
+  <GR_Wolfcat.lifeStages.0.labelMale>волкотёнок-самец</GR_Wolfcat.lifeStages.0.labelMale>
+  <!-- EN:male wolfcat puppy -->
+  <GR_Wolfcat.lifeStages.0.labelMalePlural>волкотята-самцы</GR_Wolfcat.lifeStages.0.labelMalePlural>
+  <!-- EN:male wolfcat puppies -->
+  <GR_Wolfcat.lifeStages.0.labelFemale>волкотёнок-самка</GR_Wolfcat.lifeStages.0.labelFemale>
+  <!-- EN:female wolfcat puppy -->
+  <GR_Wolfcat.lifeStages.0.labelFemalePlural>волкотята-самки</GR_Wolfcat.lifeStages.0.labelFemalePlural>
+  <!-- EN:female wolfcat puppies -->
+  <GR_Wolfcat.lifeStages.1.label>молодой волкот</GR_Wolfcat.lifeStages.1.label>
+  <!-- EN:wolfcat -->
+  <GR_Wolfcat.lifeStages.1.labelPlural>молодые волкоты</GR_Wolfcat.lifeStages.1.labelPlural>
+  <!-- EN:wolfcat -->
+  <GR_Wolfcat.lifeStages.1.labelMale>молодой волкот-самец</GR_Wolfcat.lifeStages.1.labelMale>
+  <!-- EN:male wolfcat -->
+  <GR_Wolfcat.lifeStages.1.labelMalePlural>молодые самцы волкота</GR_Wolfcat.lifeStages.1.labelMalePlural>
+  <!-- EN:male wolfcats -->
+  <GR_Wolfcat.lifeStages.1.labelFemale>молодая волкошка</GR_Wolfcat.lifeStages.1.labelFemale>
+  <!-- EN:female wolfcat -->
+  <GR_Wolfcat.lifeStages.1.labelFemalePlural>молодые волкошки</GR_Wolfcat.lifeStages.1.labelFemalePlural>
+  <!-- EN:female wolfcats -->
+  <GR_Wolfcat.lifeStages.2.label>волкот</GR_Wolfcat.lifeStages.2.label>
+  <!-- EN:wolfcat -->
+  <GR_Wolfcat.lifeStages.2.labelPlural>волкоты</GR_Wolfcat.lifeStages.2.labelPlural>
+  <!-- EN:wolfcat -->
+  <GR_Wolfcat.lifeStages.2.labelMale>волкот</GR_Wolfcat.lifeStages.2.labelMale>
+  <!-- EN:male wolfcat -->
+  <GR_Wolfcat.lifeStages.2.labelMalePlural>волкоты</GR_Wolfcat.lifeStages.2.labelMalePlural>
+  <!-- EN:male wolfcats -->
+  <GR_Wolfcat.lifeStages.2.labelFemale>волкошка</GR_Wolfcat.lifeStages.2.labelFemale>
+  <!-- EN:female wolfcat -->
+  <GR_Wolfcat.lifeStages.2.labelFemalePlural>волкошки</GR_Wolfcat.lifeStages.2.labelFemalePlural>
+  <!-- EN:female wolfcats -->
+  <GR_Wolfcat.labelMale>волкот</GR_Wolfcat.labelMale>
+  <!-- EN:male wolfcat -->
+  <GR_Wolfcat.labelMalePlural>волкоты</GR_Wolfcat.labelMalePlural>
+  <!-- EN:male wolfcats -->
+  <GR_Wolfcat.labelFemale>волкошка</GR_Wolfcat.labelFemale>
+  <!-- EN:female wolfcat -->
+  <GR_Wolfcat.labelFemalePlural>волкошки</GR_Wolfcat.labelFemalePlural>
+  <!-- EN:female wolfcats -->
+
+
+  <!-- Dog - Humanoid -->
+
+  <GR_Dogman.label>собаколюд</GR_Dogman.label>
+  <!-- EN:dogman -->
+  <GR_Dogman.labelPlural>собаколюды</GR_Dogman.labelPlural>
+  <!-- EN:dogmans -->
+  <GR_Dogman.lifeStages.0.label>собаколюд-щенок</GR_Dogman.lifeStages.0.label>
+  <!-- EN:dogman puppy-baby -->
+  <GR_Dogman.lifeStages.0.labelPlural>собаколюды-щенки</GR_Dogman.lifeStages.0.labelPlural>
+  <!-- EN:dogman puppy-babies -->
+  <GR_Dogman.lifeStages.0.labelMale>собаколюд-щенок самец</GR_Dogman.lifeStages.0.labelMale>
+  <!-- EN:male dogman puppy-baby -->
+  <GR_Dogman.lifeStages.0.labelMalePlural>собаколюды-щенки самцы</GR_Dogman.lifeStages.0.labelMalePlural>
+  <!-- EN:male dogman puppy-babies -->
+  <GR_Dogman.lifeStages.0.labelFemale>собаколюд-щенок самка</GR_Dogman.lifeStages.0.labelFemale>
+  <!-- EN:female dogman puppy-baby -->
+  <GR_Dogman.lifeStages.0.labelFemalePlural>собаколюды-щенки самки</GR_Dogman.lifeStages.0.labelFemalePlural>
+  <!-- EN:female dogman puppy-babies -->
+  <GR_Dogman.lifeStages.1.label>молодой собаколюд</GR_Dogman.lifeStages.1.label>
+  <!-- EN:dogman -->
+  <GR_Dogman.lifeStages.1.labelPlural>молодые собаколюды</GR_Dogman.lifeStages.1.labelPlural>
+  <!-- EN:dogman -->
+  <GR_Dogman.lifeStages.1.labelMale>молодой собаколюд</GR_Dogman.lifeStages.1.labelMale>
+  <!-- EN:dogman -->
+  <GR_Dogman.lifeStages.1.labelMalePlural>молодые собаколюды</GR_Dogman.lifeStages.1.labelMalePlural>
+  <!-- EN:male dogmans -->
+  <GR_Dogman.lifeStages.1.labelFemale>молодая самка собаколюда</GR_Dogman.lifeStages.1.labelFemale>
+  <!-- EN:dogwoman -->
+  <GR_Dogman.lifeStages.1.labelFemalePlural>молодые самки собаколюда</GR_Dogman.lifeStages.1.labelFemalePlural>
+  <!-- EN:female dogmans -->
+  <GR_Dogman.lifeStages.2.label>собаколюд</GR_Dogman.lifeStages.2.label>
+  <!-- EN:dogman -->
+  <GR_Dogman.lifeStages.2.labelPlural>собаколюды</GR_Dogman.lifeStages.2.labelPlural>
+  <!-- EN:dogman -->
+  <GR_Dogman.lifeStages.2.labelMale>собаколюд</GR_Dogman.lifeStages.2.labelMale>
+  <!-- EN:dogman -->
+  <GR_Dogman.lifeStages.2.labelMalePlural>собаколюды</GR_Dogman.lifeStages.2.labelMalePlural>
+  <!-- EN:male dogmans -->
+  <GR_Dogman.lifeStages.2.labelFemale>самка собаколюда</GR_Dogman.lifeStages.2.labelFemale>
+  <!-- EN:dogwoman -->
+  <GR_Dogman.lifeStages.2.labelFemalePlural>самки собаколюда</GR_Dogman.lifeStages.2.labelFemalePlural>
+  <!-- EN:female dogmans -->
+  <GR_Dogman.labelMale>собаколюд</GR_Dogman.labelMale>
+  <!-- EN:dogman -->
+  <GR_Dogman.labelMalePlural>собаколюды</GR_Dogman.labelMalePlural>
+  <!-- EN:dogmen -->
+  <GR_Dogman.labelFemale>самка собаколюда</GR_Dogman.labelFemale>
+  <!-- EN:dogwoman -->
+  <GR_Dogman.labelFemalePlural>самки собаколюда</GR_Dogman.labelFemalePlural>
+  <!-- EN:dogwomen -->
+
+
+</LanguageData>

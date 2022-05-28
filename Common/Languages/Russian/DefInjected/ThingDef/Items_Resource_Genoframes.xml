@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Genoframes -->
+
+  <GR_GenoframeUnfinished.label>незавершённая генооснова</GR_GenoframeUnfinished.label>
+  <!-- EN:unfinished genoframe -->
+  <GR_GenoframeUnfinished.description>Генооснова, работа над которой ещё не была завершена.</GR_GenoframeUnfinished.description>
+  <!-- EN:An unfinished genoframe of some kind. -->
+
+  <GR_GenoframeAwful.label>Генооснова (Ужасно)</GR_GenoframeAwful.label>
+  <!-- EN:Genoframe (Awful) -->
+  <GR_GenoframeAwful.description>Стабильный генетический материал, используемый в геноморфере для экспериментов над гибридами. После создания искусственной яйцеклетки генооснова опустошается и становится непригодной для дальнейшего использования.\n\nПри использовании геноосновы настолько низкого качества результат будет по всем параметрам значительно хуже обычного гибрида.</GR_GenoframeAwful.description>
+  <!-- EN:A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nAwful genoframe will result in a hybrid with greatly decreased stats over a normal hybrid. -->
+
+  <GR_GenoframePoor.label>Генооснова (Плохо)</GR_GenoframePoor.label>
+  <!-- EN:>Genoframe (Poor) -->
+  <GR_GenoframePoor.description>Стабильный генетический материал, используемый в геноморфере для экспериментов над гибридами. После создания искусственной яйцеклетки генооснова опустошается и становится непригодной для дальнейшего использования.\n\nПри использовании плохой геноосновы результат будет несколько хуже обычного гибрида</GR_GenoframePoor.description>
+  <!-- EN:A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nPoor genoframe will result in a hybrid with slightly decreased stats over a normal hybrid. -->
+
+  <GR_GenoframeNormal.label>Генооснова (Нормально)</GR_GenoframeNormal.label>
+  <!-- EN:Genoframe (Normal) -->
+  <GR_GenoframeNormal.description>Стабильный генетический материал, используемый в геноморфере для экспериментов над гибридами. После создания искусственной яйцеклетки генооснова опустошается и становится непригодной для дальнейшего использования.\n\nНормальная генооснова даст обычный, ничем не примечательный гибрид.</GR_GenoframeNormal.description>
+  <!-- EN:A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nNormal genoframe will result in a hybrid with baseline stats. -->
+
+  <GR_GenoframeGood.label>Генооснова (Хорошо)</GR_GenoframeGood.label>
+  <!-- EN:Genoframe (Good) -->
+  <GR_GenoframeGood.description>Стабильный генетический материал, используемый в геноморфере для экспериментов над гибридами. После создания искусственной яйцеклетки генооснова опустошается и становится непригодной для дальнейшего использования.\n\nИспользование хорошей геноосновы на выходе даст гибрид с характеристиками несколько превосходящими таковые у других гибридов.</GR_GenoframeGood.description>
+  <!-- EN:A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nGood genoframe will result in a hybrid with slightly improved stats over a normal hybrid. -->
+
+  <GR_GenoframeExcellent.label>Генооснова (Отлично)</GR_GenoframeExcellent.label>
+  <!-- EN:Genoframe (Excellent) -->
+  <GR_GenoframeExcellent.description>Стабильный генетический материал, используемый в геноморфере для экспериментов над гибридами. После создания искусственной яйцеклетки генооснова опустошается и становится непригодной для дальнейшего использования.\n\nИспользование отличной геноосновы позволит создать гибрид, по своим характеристикам превосходящий обычные.</GR_GenoframeExcellent.description>
+  <!-- EN:A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nExcellent genoframe will result in a hybrid with significantly improved stats over a normal hybrid. -->
+
+  <GR_GenoframeMasterwork.label>Генооснова (Шедевр)</GR_GenoframeMasterwork.label>
+  <!-- EN:Genoframe (Masterwork) -->
+  <GR_GenoframeMasterwork.description>Стабильный генетический материал, используемый в геноморфере для экспериментов над гибридами. После создания искусственной яйцеклетки генооснова опустошается и становится непригодной для дальнейшего использования.\n\nИспользование геноосновы шедеврального качества позволит создать гибридпо своим характеристикам намного превосходящий обычные</GR_GenoframeMasterwork.description>
+  <!-- EN:A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nMasterwork genoframe will result in a hybrid with superior stats over a normal hybrid. -->
+
+  <GR_GenoframeLegendary.label>Генооснова (Легенда)</GR_GenoframeLegendary.label>
+  <!-- EN:Genoframe (Legendary) -->
+  <GR_GenoframeLegendary.description>Стабильный генетический материал, используемый в геноморфере для экспериментов над гибридами. После создания искусственной яйцеклетки генооснова опустошается и становится непригодной для дальнейшего использования.\n\nИспользование легендарной геноосновы позволит создать выдающийся гибрид, способный легко затмить любое другое живое существо.</GR_GenoframeLegendary.description>
+  <!-- EN:A stable genetic material consumed by the genomorpher machine that serves as a framework for hybrid experimentation. After the framework is used to create a growthcell, the genoframe is empty and discarded.\n\nLegendary genoframe will result in an incredibly powerful hybrid that’s eclipsing normal creatures. -->
+
+
+</LanguageData>

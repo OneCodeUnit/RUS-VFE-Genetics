@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fluids etc -->
+
+  <GR_FilthMucus.label>mucus</GR_FilthMucus.label>
+
+  <GR_Filth_Fuel.label>chemfuel puddle</GR_Filth_Fuel.label>
+  <GR_Filth_Fuel.description>A puddle of flammable chemfuel.</GR_Filth_Fuel.description>
+
+
+</LanguageData>

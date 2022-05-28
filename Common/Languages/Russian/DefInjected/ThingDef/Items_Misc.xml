@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_EggBomb.label>взрывоопасное нестабильное яйцо</GR_EggBomb.label>
+  <!-- EN:detonating unstable egg -->
+  <GR_EggBomb.description>Это огромное яйцо наполнено нестабильными химическими соединениями. Оно вот-вот взорвётся!</GR_EggBomb.description>
+  <!-- EN:This huge egg is filled with unstable chemicals. It is going to explode! -->
+
+  <GR_CompressedChemfuel.label>сгущёное химтопливо</GR_CompressedChemfuel.label>
+  <!-- EN:deepchem -->
+  <GR_CompressedChemfuel.description>Крайне горючее вязкое соединение, по консистенции больше всего напоминающее дёготь. Может быть использовано в обороне, либо переработано в химтопливо.</GR_CompressedChemfuel.description>
+  <!-- EN:A very volatile sludge with a tar-like appearance. Can be used defensively or converted to regular chemfuel in a refinery. -->
+
+
+</LanguageData>

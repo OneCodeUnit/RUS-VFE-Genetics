@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bear - Horse -->
+
+  <GR_Bearhorse.label>медвелошадь</GR_Bearhorse.label>
+  <GR_Bearhorse.labelPlural>медвелошади</GR_Bearhorse.labelPlural>
+  <GR_Bearhorse.lifeStages.0.label>жеребёнок медвелошади</GR_Bearhorse.lifeStages.0.label>
+  <GR_Bearhorse.lifeStages.0.labelPlural>жеребята медвелошади</GR_Bearhorse.lifeStages.0.labelPlural>
+  <GR_Bearhorse.lifeStages.0.labelMale>жеребёнок медвелошади самец</GR_Bearhorse.lifeStages.0.labelMale>
+  <GR_Bearhorse.lifeStages.0.labelMalePlural>жеребята медвелошади самцы</GR_Bearhorse.lifeStages.0.labelMalePlural>
+  <GR_Bearhorse.lifeStages.0.labelFemale>жеребёнок медвелошади самка</GR_Bearhorse.lifeStages.0.labelFemale>
+  <GR_Bearhorse.lifeStages.0.labelFemalePlural>жеребята медвелошади самки</GR_Bearhorse.lifeStages.0.labelFemalePlural>
+  <GR_Bearhorse.lifeStages.1.label>молодая медвелошадь</GR_Bearhorse.lifeStages.1.label>
+  <GR_Bearhorse.lifeStages.1.labelPlural>молодые медвелошади</GR_Bearhorse.lifeStages.1.labelPlural>
+  <GR_Bearhorse.lifeStages.1.labelMale>молодой жеребец медвелошади</GR_Bearhorse.lifeStages.1.labelMale>
+  <GR_Bearhorse.lifeStages.1.labelMalePlural>молодые жеребцы медвелошади</GR_Bearhorse.lifeStages.1.labelMalePlural>
+  <GR_Bearhorse.lifeStages.1.labelFemale>молодая кобыла медвелошади</GR_Bearhorse.lifeStages.1.labelFemale>
+  <GR_Bearhorse.lifeStages.1.labelFemalePlural>молодые кобылы медвелошади</GR_Bearhorse.lifeStages.1.labelFemalePlural>
+  <GR_Bearhorse.lifeStages.2.label>медвелошадь</GR_Bearhorse.lifeStages.2.label>
+  <GR_Bearhorse.lifeStages.2.labelPlural>медвелошади</GR_Bearhorse.lifeStages.2.labelPlural>
+  <GR_Bearhorse.lifeStages.2.labelMale>жеребец медвелошади</GR_Bearhorse.lifeStages.2.labelMale>
+  <GR_Bearhorse.lifeStages.2.labelMalePlural>жеребцы медвелошади</GR_Bearhorse.lifeStages.2.labelMalePlural>
+  <GR_Bearhorse.lifeStages.2.labelFemale>кобыла медвелошади</GR_Bearhorse.lifeStages.2.labelFemale>
+  <GR_Bearhorse.lifeStages.2.labelFemalePlural>кобылы медвелошади</GR_Bearhorse.lifeStages.2.labelFemalePlural>
+  <GR_Bearhorse.labelMale>жеребец медвелошади</GR_Bearhorse.labelMale>
+  <GR_Bearhorse.labelMalePlural>жеребцы медвелошади</GR_Bearhorse.labelMalePlural>
+  <GR_Bearhorse.labelFemale>кобыла медвелошади</GR_Bearhorse.labelFemale>
+  <GR_Bearhorse.labelFemalePlural>кобылы медвелошади</GR_Bearhorse.labelFemalePlural>
+  <!-- EN:
+  <GR_Bearhorse.label>bearhorse</GR_Bearhorse.label>
+  <GR_Bearhorse.labelPlural>bearhorses</GR_Bearhorse.labelPlural>
+  <GR_Bearhorse.lifeStages.0.label>bearhorse foal</GR_Bearhorse.lifeStages.0.label>
+  <GR_Bearhorse.lifeStages.0.labelPlural>bearhorse foals</GR_Bearhorse.lifeStages.0.labelPlural>
+  <GR_Bearhorse.lifeStages.0.labelMale>male bearhorse foal</GR_Bearhorse.lifeStages.0.labelMale>
+  <GR_Bearhorse.lifeStages.0.labelMalePlural>male bearhorse foals</GR_Bearhorse.lifeStages.0.labelMalePlural>
+  <GR_Bearhorse.lifeStages.0.labelFemale>female bearhorse foal</GR_Bearhorse.lifeStages.0.labelFemale>
+  <GR_Bearhorse.lifeStages.0.labelFemalePlural>female bearhorse foals</GR_Bearhorse.lifeStages.0.labelFemalePlural>
+  <GR_Bearhorse.lifeStages.1.label>bearhorse</GR_Bearhorse.lifeStages.1.label>
+  <GR_Bearhorse.lifeStages.1.labelPlural>bearhorse</GR_Bearhorse.lifeStages.1.labelPlural>
+  <GR_Bearhorse.lifeStages.1.labelMale>bearhorse stallion</GR_Bearhorse.lifeStages.1.labelMale>
+  <GR_Bearhorse.lifeStages.1.labelMalePlural>male bearhorses</GR_Bearhorse.lifeStages.1.labelMalePlural>
+  <GR_Bearhorse.lifeStages.1.labelFemale>bearhorse mare</GR_Bearhorse.lifeStages.1.labelFemale>
+  <GR_Bearhorse.lifeStages.1.labelFemalePlural>female bearhorses</GR_Bearhorse.lifeStages.1.labelFemalePlural>
+  <GR_Bearhorse.lifeStages.2.label>bearhorse</GR_Bearhorse.lifeStages.2.label>
+  <GR_Bearhorse.lifeStages.2.labelPlural>bearhorse</GR_Bearhorse.lifeStages.2.labelPlural>
+  <GR_Bearhorse.lifeStages.2.labelMale>bearhorse stallion</GR_Bearhorse.lifeStages.2.labelMale>
+  <GR_Bearhorse.lifeStages.2.labelMalePlural>male bearhorses</GR_Bearhorse.lifeStages.2.labelMalePlural>
+  <GR_Bearhorse.lifeStages.2.labelFemale>bearhorse mare</GR_Bearhorse.lifeStages.2.labelFemale>
+  <GR_Bearhorse.lifeStages.2.labelFemalePlural>female bearhorses</GR_Bearhorse.lifeStages.2.labelFemalePlural>
+  <GR_Bearhorse.labelMale>bearhorse stallion</GR_Bearhorse.labelMale>
+  <GR_Bearhorse.labelMalePlural>bearhorse stallions</GR_Bearhorse.labelMalePlural>
+  <GR_Bearhorse.labelFemale>bearhorse mare</GR_Bearhorse.labelFemale>
+  <GR_Bearhorse.labelFemalePlural>bearhorse mares</GR_Bearhorse.labelFemalePlural> -->
+
+
+  <!-- Boomalope - Horse -->
+
+  <GR_Boomhorse.label>бумалошадь</GR_Boomhorse.label>
+  <GR_Boomhorse.labelPlural>бумалошади</GR_Boomhorse.labelPlural>
+  <GR_Boomhorse.lifeStages.0.label>жеребёнок бумалошади</GR_Boomhorse.lifeStages.0.label>
+  <GR_Boomhorse.lifeStages.0.labelPlural>жеребята бумалошади</GR_Boomhorse.lifeStages.0.labelPlural>
+  <GR_Boomhorse.lifeStages.0.labelMale>жеребёнок бумалошади самец</GR_Boomhorse.lifeStages.0.labelMale>
+  <GR_Boomhorse.lifeStages.0.labelMalePlural>жеребята бумалошади самцы</GR_Boomhorse.lifeStages.0.labelMalePlural>
+  <GR_Boomhorse.lifeStages.0.labelFemale>жеребёнок бумалошади самка</GR_Boomhorse.lifeStages.0.labelFemale>
+  <GR_Boomhorse.lifeStages.0.labelFemalePlural>жеребята бумалошади самки</GR_Boomhorse.lifeStages.0.labelFemalePlural>
+  <GR_Boomhorse.lifeStages.1.label>молодая бумалошадь</GR_Boomhorse.lifeStages.1.label>
+  <GR_Boomhorse.lifeStages.1.labelPlural>молодые бумалошади</GR_Boomhorse.lifeStages.1.labelPlural>
+  <GR_Boomhorse.lifeStages.1.labelMale>молодой жеребец бумалошади</GR_Boomhorse.lifeStages.1.labelMale>
+  <GR_Boomhorse.lifeStages.1.labelMalePlural>молодые жеребцы бумалошади</GR_Boomhorse.lifeStages.1.labelMalePlural>
+  <GR_Boomhorse.lifeStages.1.labelFemale>молодая бумалошадь кобыла</GR_Boomhorse.lifeStages.1.labelFemale>
+  <GR_Boomhorse.lifeStages.1.labelFemalePlural>молодые кобылы бумалошади</GR_Boomhorse.lifeStages.1.labelFemalePlural>
+  <GR_Boomhorse.lifeStages.2.label>бумалошадь</GR_Boomhorse.lifeStages.2.label>
+  <GR_Boomhorse.lifeStages.2.labelPlural>бумалошади</GR_Boomhorse.lifeStages.2.labelPlural>
+  <GR_Boomhorse.lifeStages.2.labelMale>жеребец бумалошади</GR_Boomhorse.lifeStages.2.labelMale>
+  <GR_Boomhorse.lifeStages.2.labelMalePlural>жеребцы бумалошади</GR_Boomhorse.lifeStages.2.labelMalePlural>
+  <GR_Boomhorse.lifeStages.2.labelFemale>кобыла бумалошади</GR_Boomhorse.lifeStages.2.labelFemale>
+  <GR_Boomhorse.lifeStages.2.labelFemalePlural>кобылы бумалошади</GR_Boomhorse.lifeStages.2.labelFemalePlural>
+  <GR_Boomhorse.labelMale>жеребец бумалопы</GR_Boomhorse.labelMale>
+  <GR_Boomhorse.labelMalePlural>жеребцы бумалопы</GR_Boomhorse.labelMalePlural>
+  <GR_Boomhorse.labelFemale>кобыла бумалопы</GR_Boomhorse.labelFemale>
+  <GR_Boomhorse.labelFemalePlural>кобылы бумалопы</GR_Boomhorse.labelFemalePlural>
+  <!-- EN:
+   <GR_Boomhorse.label>boomhorse</GR_Boomhorse.label>
+  <GR_Boomhorse.labelPlural>boomhorses</GR_Boomhorse.labelPlural>
+  <GR_Boomhorse.lifeStages.0.label>boomhorse foal</GR_Boomhorse.lifeStages.0.label>
+  <GR_Boomhorse.lifeStages.0.labelPlural>boomhorse foals</GR_Boomhorse.lifeStages.0.labelPlural>
+  <GR_Boomhorse.lifeStages.0.labelMale>male boomhorse foal</GR_Boomhorse.lifeStages.0.labelMale>
+  <GR_Boomhorse.lifeStages.0.labelMalePlural>male boomhorse foals</GR_Boomhorse.lifeStages.0.labelMalePlural>
+  <GR_Boomhorse.lifeStages.0.labelFemale>female boomhorse foal</GR_Boomhorse.lifeStages.0.labelFemale>
+  <GR_Boomhorse.lifeStages.0.labelFemalePlural>female boomhorse foals</GR_Boomhorse.lifeStages.0.labelFemalePlural>
+  <GR_Boomhorse.lifeStages.1.label>boomhorse</GR_Boomhorse.lifeStages.1.label>
+  <GR_Boomhorse.lifeStages.1.labelPlural>boomhorse</GR_Boomhorse.lifeStages.1.labelPlural>
+  <GR_Boomhorse.lifeStages.1.labelMale>boomhorse stallion</GR_Boomhorse.lifeStages.1.labelMale>
+  <GR_Boomhorse.lifeStages.1.labelMalePlural>male boomhorses</GR_Boomhorse.lifeStages.1.labelMalePlural>
+  <GR_Boomhorse.lifeStages.1.labelFemale>boomhorse mare</GR_Boomhorse.lifeStages.1.labelFemale>
+  <GR_Boomhorse.lifeStages.1.labelFemalePlural>female boomhorses</GR_Boomhorse.lifeStages.1.labelFemalePlural>
+  <GR_Boomhorse.lifeStages.2.label>boomhorse</GR_Boomhorse.lifeStages.2.label>
+  <GR_Boomhorse.lifeStages.2.labelPlural>boomhorse</GR_Boomhorse.lifeStages.2.labelPlural>
+  <GR_Boomhorse.lifeStages.2.labelMale>boomhorse stallion</GR_Boomhorse.lifeStages.2.labelMale>
+  <GR_Boomhorse.lifeStages.2.labelMalePlural>male boomhorses</GR_Boomhorse.lifeStages.2.labelMalePlural>
+  <GR_Boomhorse.lifeStages.2.labelFemale>boomhorse mare</GR_Boomhorse.lifeStages.2.labelFemale>
+  <GR_Boomhorse.lifeStages.2.labelFemalePlural>female boomhorses</GR_Boomhorse.lifeStages.2.labelFemalePlural>
+  <GR_Boomhorse.labelMale>boomhorse stallion</GR_Boomhorse.labelMale>
+  <GR_Boomhorse.labelMalePlural>boomhorse stallions</GR_Boomhorse.labelMalePlural>
+  <GR_Boomhorse.labelFemale>boomhorse mare</GR_Boomhorse.labelFemale>
+  <GR_Boomhorse.labelFemalePlural>boomhorse mares</GR_Boomhorse.labelFemalePlural> -->
+
+
+  <!-- Chicken - Horse -->
+
+  <GR_Chickenhorse.label>цыплошадь</GR_Chickenhorse.label>
+  <GR_Chickenhorse.labelPlural>цыплошади</GR_Chickenhorse.labelPlural>
+  <GR_Chickenhorse.lifeStages.0.label>жеребёнок цыплошади</GR_Chickenhorse.lifeStages.0.label>
+  <GR_Chickenhorse.lifeStages.0.labelPlural>жеребята цыплошади</GR_Chickenhorse.lifeStages.0.labelPlural>
+  <GR_Chickenhorse.lifeStages.0.labelMale>жеребёнок цыплошади самец</GR_Chickenhorse.lifeStages.0.labelMale>
+  <GR_Chickenhorse.lifeStages.0.labelMalePlural>жеребята цыплошади самцы</GR_Chickenhorse.lifeStages.0.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.0.labelFemale>жеребёнок цыплошади самка</GR_Chickenhorse.lifeStages.0.labelFemale>
+  <GR_Chickenhorse.lifeStages.0.labelFemalePlural>жеребята цыплошади самки</GR_Chickenhorse.lifeStages.0.labelFemalePlural>
+  <GR_Chickenhorse.lifeStages.1.label>молодая цыплошадь</GR_Chickenhorse.lifeStages.1.label>
+  <GR_Chickenhorse.lifeStages.1.labelPlural>молодые цыплошади</GR_Chickenhorse.lifeStages.1.labelPlural>
+  <GR_Chickenhorse.lifeStages.1.labelMale>молодой жеребец цыплошади</GR_Chickenhorse.lifeStages.1.labelMale>
+  <GR_Chickenhorse.lifeStages.1.labelMalePlural>молодые жеребцы цыплошади</GR_Chickenhorse.lifeStages.1.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.1.labelFemale>молодая кобыла цыплошади</GR_Chickenhorse.lifeStages.1.labelFemale>
+  <GR_Chickenhorse.lifeStages.1.labelFemalePlural>молодые кобылы цыплошади</GR_Chickenhorse.lifeStages.1.labelFemalePlural>
+  <GR_Chickenhorse.lifeStages.2.label>цыплошадь</GR_Chickenhorse.lifeStages.2.label>
+  <GR_Chickenhorse.lifeStages.2.labelPlural>цыплошади</GR_Chickenhorse.lifeStages.2.labelPlural>
+  <GR_Chickenhorse.lifeStages.2.labelMale>жеребец цыплошади</GR_Chickenhorse.lifeStages.2.labelMale>
+  <GR_Chickenhorse.lifeStages.2.labelMalePlural>жеребцы цыплошади</GR_Chickenhorse.lifeStages.2.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.2.labelFemale>кобыла цыплошади</GR_Chickenhorse.lifeStages.2.labelFemale>
+  <GR_Chickenhorse.lifeStages.2.labelFemalePlural>кобылы цыплошади</GR_Chickenhorse.lifeStages.2.labelFemalePlural>
+  <GR_Chickenhorse.labelMale>жеребец цыплошади</GR_Chickenhorse.labelMale>
+  <GR_Chickenhorse.labelMalePlural>жеребцы цыплошади</GR_Chickenhorse.labelMalePlural>
+  <GR_Chickenhorse.labelFemale>кобыла цыплошади</GR_Chickenhorse.labelFemale>
+  <GR_Chickenhorse.labelFemalePlural>кобылы цыплошади</GR_Chickenhorse.labelFemalePlural>
+  <!-- EN:
+  <GR_Chickenhorse.label>chickenhorse</GR_Chickenhorse.label>
+  <GR_Chickenhorse.labelPlural>chickenhorses</GR_Chickenhorse.labelPlural>
+  <GR_Chickenhorse.lifeStages.0.label>chickenhorse foal</GR_Chickenhorse.lifeStages.0.label>
+  <GR_Chickenhorse.lifeStages.0.labelPlural>chickenhorse foals</GR_Chickenhorse.lifeStages.0.labelPlural>
+  <GR_Chickenhorse.lifeStages.0.labelMale>male chickenhorse foal</GR_Chickenhorse.lifeStages.0.labelMale>
+  <GR_Chickenhorse.lifeStages.0.labelMalePlural>male chickenhorse foals</GR_Chickenhorse.lifeStages.0.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.0.labelFemale>female chickenhorse foal</GR_Chickenhorse.lifeStages.0.labelFemale>
+  <GR_Chickenhorse.lifeStages.0.labelFemalePlural>female chickenhorse foals</GR_Chickenhorse.lifeStages.0.labelFemalePlural>
+  <GR_Chickenhorse.lifeStages.1.label>chickenhorse</GR_Chickenhorse.lifeStages.1.label>
+  <GR_Chickenhorse.lifeStages.1.labelPlural>chickenhorse</GR_Chickenhorse.lifeStages.1.labelPlural>
+  <GR_Chickenhorse.lifeStages.1.labelMale>chickenhorse stallion</GR_Chickenhorse.lifeStages.1.labelMale>
+  <GR_Chickenhorse.lifeStages.1.labelMalePlural>male chickenhorses</GR_Chickenhorse.lifeStages.1.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.1.labelFemale>chickenhorse mare</GR_Chickenhorse.lifeStages.1.labelFemale>
+  <GR_Chickenhorse.lifeStages.1.labelFemalePlural>female chickenhorses</GR_Chickenhorse.lifeStages.1.labelFemalePlural>
+  <GR_Chickenhorse.lifeStages.2.label>chickenhorse</GR_Chickenhorse.lifeStages.2.label>
+  <GR_Chickenhorse.lifeStages.2.labelPlural>chickenhorse</GR_Chickenhorse.lifeStages.2.labelPlural>
+  <GR_Chickenhorse.lifeStages.2.labelMale>chickenhorse stallion</GR_Chickenhorse.lifeStages.2.labelMale>
+  <GR_Chickenhorse.lifeStages.2.labelMalePlural>male chickenhorses</GR_Chickenhorse.lifeStages.2.labelMalePlural>
+  <GR_Chickenhorse.lifeStages.2.labelFemale>chickenhorse mare</GR_Chickenhorse.lifeStages.2.labelFemale>
+  <GR_Chickenhorse.lifeStages.2.labelFemalePlural>female chickenhorses</GR_Chickenhorse.lifeStages.2.labelFemalePlural>
+  <GR_Chickenhorse.labelMale>chickenhorse stallion</GR_Chickenhorse.labelMale>
+  <GR_Chickenhorse.labelMalePlural>chickenhorse stallions</GR_Chickenhorse.labelMalePlural>
+  <GR_Chickenhorse.labelFemale>chickenhorse mare</GR_Chickenhorse.labelFemale>
+  <GR_Chickenhorse.labelFemalePlural>chickenhorse mares</GR_Chickenhorse.labelFemalePlural> -->
+
+
+  <!-- Cat - Horse -->
+
+  <GR_Cathorse.label>кошадь</GR_Cathorse.label>
+  <GR_Cathorse.labelPlural>кошади</GR_Cathorse.labelPlural>
+  <GR_Cathorse.lifeStages.0.label>жеребёнок кошади</GR_Cathorse.lifeStages.0.label>
+  <GR_Cathorse.lifeStages.0.labelPlural>жеребята кошади</GR_Cathorse.lifeStages.0.labelPlural>
+  <GR_Cathorse.lifeStages.0.labelMale>жеребёнок кошади самец</GR_Cathorse.lifeStages.0.labelMale>
+  <GR_Cathorse.lifeStages.0.labelMalePlural>жеребята кошади самцы</GR_Cathorse.lifeStages.0.labelMalePlural>
+  <GR_Cathorse.lifeStages.0.labelFemale>жеребёнок кошади самка</GR_Cathorse.lifeStages.0.labelFemale>
+  <GR_Cathorse.lifeStages.0.labelFemalePlural>жеребята кошади самки</GR_Cathorse.lifeStages.0.labelFemalePlural>
+  <GR_Cathorse.lifeStages.1.label>молодая кошадь</GR_Cathorse.lifeStages.1.label>
+  <GR_Cathorse.lifeStages.1.labelPlural>молодые кошади</GR_Cathorse.lifeStages.1.labelPlural>
+  <GR_Cathorse.lifeStages.1.labelMale>молодой жеребец кошади</GR_Cathorse.lifeStages.1.labelMale>
+  <GR_Cathorse.lifeStages.1.labelMalePlural>молодые жеребцы кошади</GR_Cathorse.lifeStages.1.labelMalePlural>
+  <GR_Cathorse.lifeStages.1.labelFemale>молодая кобыла кошади</GR_Cathorse.lifeStages.1.labelFemale>
+  <GR_Cathorse.lifeStages.1.labelFemalePlural>молодые кобылы кошади</GR_Cathorse.lifeStages.1.labelFemalePlural>
+  <GR_Cathorse.lifeStages.2.label>кошадь</GR_Cathorse.lifeStages.2.label>
+  <GR_Cathorse.lifeStages.2.labelPlural>кошади</GR_Cathorse.lifeStages.2.labelPlural>
+  <GR_Cathorse.lifeStages.2.labelMale>жеребец кошади</GR_Cathorse.lifeStages.2.labelMale>
+  <GR_Cathorse.lifeStages.2.labelMalePlural>жеребцы кошади</GR_Cathorse.lifeStages.2.labelMalePlural>
+  <GR_Cathorse.lifeStages.2.labelFemale>кобыла кошади</GR_Cathorse.lifeStages.2.labelFemale>
+  <GR_Cathorse.lifeStages.2.labelFemalePlural>кобылы кошади</GR_Cathorse.lifeStages.2.labelFemalePlural>
+  <GR_Cathorse.labelMale>жеребец кошади</GR_Cathorse.labelMale>
+  <GR_Cathorse.labelMalePlural>жеребцы кошади</GR_Cathorse.labelMalePlural>
+  <GR_Cathorse.labelFemale>кобыла кошади</GR_Cathorse.labelFemale>
+  <GR_Cathorse.labelFemalePlural>кобылы кошади</GR_Cathorse.labelFemalePlural>
+  <!-- EN:
+  <GR_Cathorse.label>cathorse</GR_Cathorse.label>
+  <GR_Cathorse.labelPlural>cathorses</GR_Cathorse.labelPlural>
+  <GR_Cathorse.lifeStages.0.label>cathorse foal</GR_Cathorse.lifeStages.0.label>
+  <GR_Cathorse.lifeStages.0.labelPlural>cathorse foals</GR_Cathorse.lifeStages.0.labelPlural>
+  <GR_Cathorse.lifeStages.0.labelMale>male cathorse foal</GR_Cathorse.lifeStages.0.labelMale>
+  <GR_Cathorse.lifeStages.0.labelMalePlural>male cathorse foals</GR_Cathorse.lifeStages.0.labelMalePlural>
+  <GR_Cathorse.lifeStages.0.labelFemale>female cathorse foal</GR_Cathorse.lifeStages.0.labelFemale>
+  <GR_Cathorse.lifeStages.0.labelFemalePlural>female cathorse foals</GR_Cathorse.lifeStages.0.labelFemalePlural>
+  <GR_Cathorse.lifeStages.1.label>cathorse</GR_Cathorse.lifeStages.1.label>
+  <GR_Cathorse.lifeStages.1.labelPlural>cathorse</GR_Cathorse.lifeStages.1.labelPlural>
+  <GR_Cathorse.lifeStages.1.labelMale>cathorse stallion</GR_Cathorse.lifeStages.1.labelMale>
+  <GR_Cathorse.lifeStages.1.labelMalePlural>male cathorses</GR_Cathorse.lifeStages.1.labelMalePlural>
+  <GR_Cathorse.lifeStages.1.labelFemale>cathorse mare</GR_Cathorse.lifeStages.1.labelFemale>
+  <GR_Cathorse.lifeStages.1.labelFemalePlural>female cathorses</GR_Cathorse.lifeStages.1.labelFemalePlural>
+  <GR_Cathorse.lifeStages.2.label>cathorse</GR_Cathorse.lifeStages.2.label>
+  <GR_Cathorse.lifeStages.2.labelPlural>cathorse</GR_Cathorse.lifeStages.2.labelPlural>
+  <GR_Cathorse.lifeStages.2.labelMale>cathorse stallion</GR_Cathorse.lifeStages.2.labelMale>
+  <GR_Cathorse.lifeStages.2.labelMalePlural>male cathorses</GR_Cathorse.lifeStages.2.labelMalePlural>
+  <GR_Cathorse.lifeStages.2.labelFemale>cathorse mare</GR_Cathorse.lifeStages.2.labelFemale>
+  <GR_Cathorse.lifeStages.2.labelFemalePlural>female cathorses</GR_Cathorse.lifeStages.2.labelFemalePlural>
+  <GR_Cathorse.labelMale>cathorse stallion</GR_Cathorse.labelMale>
+  <GR_Cathorse.labelMalePlural>cathorse stallions</GR_Cathorse.labelMalePlural>
+  <GR_Cathorse.labelFemale>cathorse mare</GR_Cathorse.labelFemale>
+  <GR_Cathorse.labelFemalePlural>cathorse mares</GR_Cathorse.labelFemalePlural> -->
+
+
+  <!-- Mole - Horse -->
+
+  <GR_Molehorse.label>кронь</GR_Molehorse.label>
+  <GR_Molehorse.labelPlural>крони</GR_Molehorse.labelPlural>
+  <GR_Molehorse.lifeStages.0.label>кронь-жеребёнок</GR_Molehorse.lifeStages.0.label>
+  <GR_Molehorse.lifeStages.0.labelPlural>крони-жеребята</GR_Molehorse.lifeStages.0.labelPlural>
+  <GR_Molehorse.lifeStages.0.labelMale>кронь-жеребёнок самец</GR_Molehorse.lifeStages.0.labelMale>
+  <GR_Molehorse.lifeStages.0.labelMalePlural>крони-жеребята самцы</GR_Molehorse.lifeStages.0.labelMalePlural>
+  <GR_Molehorse.lifeStages.0.labelFemale>кронь-жеребёнок самка</GR_Molehorse.lifeStages.0.labelFemale>
+  <GR_Molehorse.lifeStages.0.labelFemalePlural>крони-жеребята самки</GR_Molehorse.lifeStages.0.labelFemalePlural>
+  <GR_Molehorse.lifeStages.1.label>молодой кронь</GR_Molehorse.lifeStages.1.label>
+  <GR_Molehorse.lifeStages.1.labelPlural>молодые крони</GR_Molehorse.lifeStages.1.labelPlural>
+  <GR_Molehorse.lifeStages.1.labelMale>молодой кронь-жеребец</GR_Molehorse.lifeStages.1.labelMale>
+  <GR_Molehorse.lifeStages.1.labelMalePlural>молодые крони-жеребцы</GR_Molehorse.lifeStages.1.labelMalePlural>
+  <GR_Molehorse.lifeStages.1.labelFemale>молодая кобыла кроня</GR_Molehorse.lifeStages.1.labelFemale>
+  <GR_Molehorse.lifeStages.1.labelFemalePlural>молодые кобылы кроня</GR_Molehorse.lifeStages.1.labelFemalePlural>
+  <GR_Molehorse.lifeStages.2.label>кронь</GR_Molehorse.lifeStages.2.label>
+  <GR_Molehorse.lifeStages.2.labelPlural>крони</GR_Molehorse.lifeStages.2.labelPlural>
+  <GR_Molehorse.lifeStages.2.labelMale>кронь-жеребец</GR_Molehorse.lifeStages.2.labelMale>
+  <GR_Molehorse.lifeStages.2.labelMalePlural>крони-жеребцы</GR_Molehorse.lifeStages.2.labelMalePlural>
+  <GR_Molehorse.lifeStages.2.labelFemale>кобыла кроня</GR_Molehorse.lifeStages.2.labelFemale>
+  <GR_Molehorse.lifeStages.2.labelFemalePlural>кобылы кроня</GR_Molehorse.lifeStages.2.labelFemalePlural>
+  <GR_Molehorse.labelMale>кронь-жеребец</GR_Molehorse.labelMale>
+  <GR_Molehorse.labelMalePlural>крони-жеребцы</GR_Molehorse.labelMalePlural>
+  <GR_Molehorse.labelFemale>кобыла кроня</GR_Molehorse.labelFemale>
+  <GR_Molehorse.labelFemalePlural>кобылы кроня</GR_Molehorse.labelFemalePlural>
+  <!-- EN:<GR_Molehorse.label>molehorse</GR_Molehorse.label>
+  <GR_Molehorse.labelPlural>molehorses</GR_Molehorse.labelPlural>
+  <GR_Molehorse.lifeStages.0.label>molehorse foal</GR_Molehorse.lifeStages.0.label>
+  <GR_Molehorse.lifeStages.0.labelPlural>molehorse foals</GR_Molehorse.lifeStages.0.labelPlural>
+  <GR_Molehorse.lifeStages.0.labelMale>male molehorse foal</GR_Molehorse.lifeStages.0.labelMale>
+  <GR_Molehorse.lifeStages.0.labelMalePlural>male molehorse foals</GR_Molehorse.lifeStages.0.labelMalePlural>
+  <GR_Molehorse.lifeStages.0.labelFemale>female molehorse foal</GR_Molehorse.lifeStages.0.labelFemale>
+  <GR_Molehorse.lifeStages.0.labelFemalePlural>female molehorse foals</GR_Molehorse.lifeStages.0.labelFemalePlural>
+  <GR_Molehorse.lifeStages.1.label>molehorse</GR_Molehorse.lifeStages.1.label>
+  <GR_Molehorse.lifeStages.1.labelPlural>molehorse</GR_Molehorse.lifeStages.1.labelPlural>
+  <GR_Molehorse.lifeStages.1.labelMale>molehorse stallion</GR_Molehorse.lifeStages.1.labelMale>
+  <GR_Molehorse.lifeStages.1.labelMalePlural>male molehorses</GR_Molehorse.lifeStages.1.labelMalePlural>
+  <GR_Molehorse.lifeStages.1.labelFemale>molehorse mare</GR_Molehorse.lifeStages.1.labelFemale>
+  <GR_Molehorse.lifeStages.1.labelFemalePlural>female molehorses</GR_Molehorse.lifeStages.1.labelFemalePlural>
+  <GR_Molehorse.lifeStages.2.label>molehorse</GR_Molehorse.lifeStages.2.label>
+  <GR_Molehorse.lifeStages.2.labelPlural>molehorse</GR_Molehorse.lifeStages.2.labelPlural>
+  <GR_Molehorse.lifeStages.2.labelMale>molehorse stallion</GR_Molehorse.lifeStages.2.labelMale>
+  <GR_Molehorse.lifeStages.2.labelMalePlural>male molehorses</GR_Molehorse.lifeStages.2.labelMalePlural>
+  <GR_Molehorse.lifeStages.2.labelFemale>molehorse mare</GR_Molehorse.lifeStages.2.labelFemale>
+  <GR_Molehorse.lifeStages.2.labelFemalePlural>female molehorses</GR_Molehorse.lifeStages.2.labelFemalePlural>
+  <GR_Molehorse.labelMale>molehorse stallion</GR_Molehorse.labelMale>
+  <GR_Molehorse.labelMalePlural>molehorse stallions</GR_Molehorse.labelMalePlural>
+  <GR_Molehorse.labelFemale>molehorse mare</GR_Molehorse.labelFemale>
+  <GR_Molehorse.labelFemalePlural>molehorse mares</GR_Molehorse.labelFemalePlural>
+   -->
+
+
+  <!-- Wolf - Horse -->
+
+  <GR_Wolfhorse.label>волконь</GR_Wolfhorse.label>
+  <GR_Wolfhorse.labelPlural>волкони</GR_Wolfhorse.labelPlural>
+  <GR_Wolfhorse.lifeStages.0.label>жеребёнок волконя</GR_Wolfhorse.lifeStages.0.label>
+  <GR_Wolfhorse.lifeStages.0.labelPlural>жеребята волконя</GR_Wolfhorse.lifeStages.0.labelPlural>
+  <GR_Wolfhorse.lifeStages.0.labelMale>жеребёнок волконя самец</GR_Wolfhorse.lifeStages.0.labelMale>
+  <GR_Wolfhorse.lifeStages.0.labelMalePlural>жеребята волконя самцы</GR_Wolfhorse.lifeStages.0.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.0.labelFemale>жеребёнок волконя самка</GR_Wolfhorse.lifeStages.0.labelFemale>
+  <GR_Wolfhorse.lifeStages.0.labelFemalePlural>жеребята волконя самки</GR_Wolfhorse.lifeStages.0.labelFemalePlural>
+  <GR_Wolfhorse.lifeStages.1.label>молодой волконь</GR_Wolfhorse.lifeStages.1.label>
+  <GR_Wolfhorse.lifeStages.1.labelPlural>молодые волкони</GR_Wolfhorse.lifeStages.1.labelPlural>
+  <GR_Wolfhorse.lifeStages.1.labelMale>молодой жеребец волконя</GR_Wolfhorse.lifeStages.1.labelMale>
+  <GR_Wolfhorse.lifeStages.1.labelMalePlural>молодые жеребцы волконя</GR_Wolfhorse.lifeStages.1.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.1.labelFemale>молодая кобыла волконя</GR_Wolfhorse.lifeStages.1.labelFemale>
+  <GR_Wolfhorse.lifeStages.1.labelFemalePlural>молодые кобылы волконя</GR_Wolfhorse.lifeStages.1.labelFemalePlural>
+  <GR_Wolfhorse.lifeStages.2.label>волконь</GR_Wolfhorse.lifeStages.2.label>
+  <GR_Wolfhorse.lifeStages.2.labelPlural>волкони</GR_Wolfhorse.lifeStages.2.labelPlural>
+  <GR_Wolfhorse.lifeStages.2.labelMale>жеребец волконя</GR_Wolfhorse.lifeStages.2.labelMale>
+  <GR_Wolfhorse.lifeStages.2.labelMalePlural>жеребцы волконя</GR_Wolfhorse.lifeStages.2.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.2.labelFemale>кобыла волконя</GR_Wolfhorse.lifeStages.2.labelFemale>
+  <GR_Wolfhorse.lifeStages.2.labelFemalePlural>кобылы волконя</GR_Wolfhorse.lifeStages.2.labelFemalePlural>
+  <GR_Wolfhorse.labelMale>жеребец волконя</GR_Wolfhorse.labelMale>
+  <GR_Wolfhorse.labelMalePlural>жеребцы волконя</GR_Wolfhorse.labelMalePlural>
+  <GR_Wolfhorse.labelFemale>кобыла волконя</GR_Wolfhorse.labelFemale>
+  <GR_Wolfhorse.labelFemalePlural>кобылы волконя</GR_Wolfhorse.labelFemalePlural>
+  <!-- EN:<GR_Wolfhorse.label>wolfhorse</GR_Wolfhorse.label>
+  <GR_Wolfhorse.labelPlural>wolfhorses</GR_Wolfhorse.labelPlural>
+  <GR_Wolfhorse.lifeStages.0.label>wolfhorse foal</GR_Wolfhorse.lifeStages.0.label>
+  <GR_Wolfhorse.lifeStages.0.labelPlural>wolfhorse foals</GR_Wolfhorse.lifeStages.0.labelPlural>
+  <GR_Wolfhorse.lifeStages.0.labelMale>male wolfhorse foal</GR_Wolfhorse.lifeStages.0.labelMale>
+  <GR_Wolfhorse.lifeStages.0.labelMalePlural>male wolfhorse foals</GR_Wolfhorse.lifeStages.0.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.0.labelFemale>female wolfhorse foal</GR_Wolfhorse.lifeStages.0.labelFemale>
+  <GR_Wolfhorse.lifeStages.0.labelFemalePlural>female wolfhorse foals</GR_Wolfhorse.lifeStages.0.labelFemalePlural>
+  <GR_Wolfhorse.lifeStages.1.label>wolfhorse</GR_Wolfhorse.lifeStages.1.label>
+  <GR_Wolfhorse.lifeStages.1.labelPlural>wolfhorse</GR_Wolfhorse.lifeStages.1.labelPlural>
+  <GR_Wolfhorse.lifeStages.1.labelMale>wolfhorse stallion</GR_Wolfhorse.lifeStages.1.labelMale>
+  <GR_Wolfhorse.lifeStages.1.labelMalePlural>male wolfhorses</GR_Wolfhorse.lifeStages.1.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.1.labelFemale>wolfhorse mare</GR_Wolfhorse.lifeStages.1.labelFemale>
+  <GR_Wolfhorse.lifeStages.1.labelFemalePlural>female wolfhorses</GR_Wolfhorse.lifeStages.1.labelFemalePlural>
+  <GR_Wolfhorse.lifeStages.2.label>wolfhorse</GR_Wolfhorse.lifeStages.2.label>
+  <GR_Wolfhorse.lifeStages.2.labelPlural>wolfhorse</GR_Wolfhorse.lifeStages.2.labelPlural>
+  <GR_Wolfhorse.lifeStages.2.labelMale>wolfhorse stallion</GR_Wolfhorse.lifeStages.2.labelMale>
+  <GR_Wolfhorse.lifeStages.2.labelMalePlural>male wolfhorses</GR_Wolfhorse.lifeStages.2.labelMalePlural>
+  <GR_Wolfhorse.lifeStages.2.labelFemale>wolfhorse mare</GR_Wolfhorse.lifeStages.2.labelFemale>
+  <GR_Wolfhorse.lifeStages.2.labelFemalePlural>female wolfhorses</GR_Wolfhorse.lifeStages.2.labelFemalePlural>
+  <GR_Wolfhorse.labelMale>wolfhorse stallion</GR_Wolfhorse.labelMale>
+  <GR_Wolfhorse.labelMalePlural>wolfhorse stallions</GR_Wolfhorse.labelMalePlural>
+  <GR_Wolfhorse.labelFemale>wolfhorse mare</GR_Wolfhorse.labelFemale>
+  <GR_Wolfhorse.labelFemalePlural>wolfhorse mares</GR_Wolfhorse.labelFemalePlural>
+   -->
+
+
+  <!-- Muffalo - Horse -->
+
+  <GR_Muffalohorse.label>муффалошадь</GR_Muffalohorse.label>
+  <GR_Muffalohorse.labelPlural>муффалошади</GR_Muffalohorse.labelPlural>
+  <GR_Muffalohorse.lifeStages.0.label>жеребёнок муффалошади</GR_Muffalohorse.lifeStages.0.label>
+  <GR_Muffalohorse.lifeStages.0.labelPlural>жеребята муффалошади</GR_Muffalohorse.lifeStages.0.labelPlural>
+  <GR_Muffalohorse.lifeStages.0.labelMale>жеребёнок муффалошади самец</GR_Muffalohorse.lifeStages.0.labelMale>
+  <GR_Muffalohorse.lifeStages.0.labelMalePlural>жеребята муффалошади самцы</GR_Muffalohorse.lifeStages.0.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.0.labelFemale>жеребёнок муффаллошади самка</GR_Muffalohorse.lifeStages.0.labelFemale>
+  <GR_Muffalohorse.lifeStages.0.labelFemalePlural>жеребята муффалошади самки</GR_Muffalohorse.lifeStages.0.labelFemalePlural>
+  <GR_Muffalohorse.lifeStages.1.label>молодая муффалошадь</GR_Muffalohorse.lifeStages.1.label>
+  <GR_Muffalohorse.lifeStages.1.labelPlural>молодые муффалошади</GR_Muffalohorse.lifeStages.1.labelPlural>
+  <GR_Muffalohorse.lifeStages.1.labelMale>молодой жеребец муффалошади</GR_Muffalohorse.lifeStages.1.labelMale>
+  <GR_Muffalohorse.lifeStages.1.labelMalePlural>молодые жеребцы муффалошади</GR_Muffalohorse.lifeStages.1.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.1.labelFemale>молодая кобыла муффалошади</GR_Muffalohorse.lifeStages.1.labelFemale>
+  <GR_Muffalohorse.lifeStages.1.labelFemalePlural>молодые кобылы муффалошади</GR_Muffalohorse.lifeStages.1.labelFemalePlural>
+  <GR_Muffalohorse.lifeStages.2.label>муффалошадь</GR_Muffalohorse.lifeStages.2.label>
+  <GR_Muffalohorse.lifeStages.2.labelPlural>муффалошади</GR_Muffalohorse.lifeStages.2.labelPlural>
+  <GR_Muffalohorse.lifeStages.2.labelMale>жеребец муффалошади</GR_Muffalohorse.lifeStages.2.labelMale>
+  <GR_Muffalohorse.lifeStages.2.labelMalePlural>жеребцы муффалошади</GR_Muffalohorse.lifeStages.2.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.2.labelFemale>кобыла муффалошади</GR_Muffalohorse.lifeStages.2.labelFemale>
+  <GR_Muffalohorse.lifeStages.2.labelFemalePlural>кобылы муффалошади</GR_Muffalohorse.lifeStages.2.labelFemalePlural>
+  <GR_Muffalohorse.labelMale>жеребец муффалошади</GR_Muffalohorse.labelMale>
+  <GR_Muffalohorse.labelMalePlural>жеребцы муффалошади</GR_Muffalohorse.labelMalePlural>
+  <GR_Muffalohorse.labelFemale>кобыла муффалошади</GR_Muffalohorse.labelFemale>
+  <GR_Muffalohorse.labelFemalePlural>кобылы муффалошади</GR_Muffalohorse.labelFemalePlural>
+  <!-- EN:
+  <GR_Muffalohorse.label>muffalohorse</GR_Muffalohorse.label>
+  <GR_Muffalohorse.labelPlural>muffalohorses</GR_Muffalohorse.labelPlural>
+  <GR_Muffalohorse.lifeStages.0.label>muffalohorse foal</GR_Muffalohorse.lifeStages.0.label>
+  <GR_Muffalohorse.lifeStages.0.labelPlural>muffalohorse foals</GR_Muffalohorse.lifeStages.0.labelPlural>
+  <GR_Muffalohorse.lifeStages.0.labelMale>male muffalohorse foal</GR_Muffalohorse.lifeStages.0.labelMale>
+  <GR_Muffalohorse.lifeStages.0.labelMalePlural>male muffalohorse foals</GR_Muffalohorse.lifeStages.0.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.0.labelFemale>female muffalohorse foal</GR_Muffalohorse.lifeStages.0.labelFemale>
+  <GR_Muffalohorse.lifeStages.0.labelFemalePlural>female muffalohorse foals</GR_Muffalohorse.lifeStages.0.labelFemalePlural>
+  <GR_Muffalohorse.lifeStages.1.label>muffalohorse</GR_Muffalohorse.lifeStages.1.label>
+  <GR_Muffalohorse.lifeStages.1.labelPlural>muffalohorse</GR_Muffalohorse.lifeStages.1.labelPlural>
+  <GR_Muffalohorse.lifeStages.1.labelMale>muffalohorse stallion</GR_Muffalohorse.lifeStages.1.labelMale>
+  <GR_Muffalohorse.lifeStages.1.labelMalePlural>male muffalohorses</GR_Muffalohorse.lifeStages.1.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.1.labelFemale>muffalohorse mare</GR_Muffalohorse.lifeStages.1.labelFemale>
+  <GR_Muffalohorse.lifeStages.1.labelFemalePlural>female muffalohorses</GR_Muffalohorse.lifeStages.1.labelFemalePlural>
+  <GR_Muffalohorse.lifeStages.2.label>muffalohorse</GR_Muffalohorse.lifeStages.2.label>
+  <GR_Muffalohorse.lifeStages.2.labelPlural>muffalohorse</GR_Muffalohorse.lifeStages.2.labelPlural>
+  <GR_Muffalohorse.lifeStages.2.labelMale>muffalohorse stallion</GR_Muffalohorse.lifeStages.2.labelMale>
+  <GR_Muffalohorse.lifeStages.2.labelMalePlural>male muffalohorses</GR_Muffalohorse.lifeStages.2.labelMalePlural>
+  <GR_Muffalohorse.lifeStages.2.labelFemale>muffalohorse mare</GR_Muffalohorse.lifeStages.2.labelFemale>
+  <GR_Muffalohorse.lifeStages.2.labelFemalePlural>female muffalohorses</GR_Muffalohorse.lifeStages.2.labelFemalePlural>
+  <GR_Muffalohorse.labelMale>muffalohorse stallion</GR_Muffalohorse.labelMale>
+  <GR_Muffalohorse.labelMalePlural>muffalohorse stallions</GR_Muffalohorse.labelMalePlural>
+  <GR_Muffalohorse.labelFemale>muffalohorse mare</GR_Muffalohorse.labelFemale>
+  <GR_Muffalohorse.labelFemalePlural>muffalohorse mares</GR_Muffalohorse.labelFemalePlural>
+   -->
+
+
+  <!-- Reptile - Horse -->
+
+  <GR_Crocorse.label>кроконь</GR_Crocorse.label>
+  <GR_Crocorse.labelPlural>крокони</GR_Crocorse.labelPlural>
+  <GR_Crocorse.lifeStages.0.label>жеребёнок кроконя</GR_Crocorse.lifeStages.0.label>
+  <GR_Crocorse.lifeStages.0.labelPlural>жеребята кроконей</GR_Crocorse.lifeStages.0.labelPlural>
+  <GR_Crocorse.lifeStages.0.labelMale>жеребёнок кроконя самец</GR_Crocorse.lifeStages.0.labelMale>
+  <GR_Crocorse.lifeStages.0.labelMalePlural>жеребята кроконя самцы</GR_Crocorse.lifeStages.0.labelMalePlural>
+  <GR_Crocorse.lifeStages.0.labelFemale>жеребёнок кроконя самка</GR_Crocorse.lifeStages.0.labelFemale>
+  <GR_Crocorse.lifeStages.0.labelFemalePlural>жеребята кроконя самки</GR_Crocorse.lifeStages.0.labelFemalePlural>
+  <GR_Crocorse.lifeStages.1.label>молодой кроконь</GR_Crocorse.lifeStages.1.label>
+  <GR_Crocorse.lifeStages.1.labelPlural>молодые крокони</GR_Crocorse.lifeStages.1.labelPlural>
+  <GR_Crocorse.lifeStages.1.labelMale>молодой жеребец кроконя</GR_Crocorse.lifeStages.1.labelMale>
+  <GR_Crocorse.lifeStages.1.labelMalePlural>молодые жеребцы кроконя</GR_Crocorse.lifeStages.1.labelMalePlural>
+  <GR_Crocorse.lifeStages.1.labelFemale>молодая крокобыла</GR_Crocorse.lifeStages.1.labelFemale>
+  <GR_Crocorse.lifeStages.1.labelFemalePlural>молодые крокобылы</GR_Crocorse.lifeStages.1.labelFemalePlural>
+  <GR_Crocorse.lifeStages.2.label>кроконь</GR_Crocorse.lifeStages.2.label>
+  <GR_Crocorse.lifeStages.2.labelPlural>крокони</GR_Crocorse.lifeStages.2.labelPlural>
+  <GR_Crocorse.lifeStages.2.labelMale>жеребец кроконя</GR_Crocorse.lifeStages.2.labelMale>
+  <GR_Crocorse.lifeStages.2.labelMalePlural>жеребцы кроконя</GR_Crocorse.lifeStages.2.labelMalePlural>
+  <GR_Crocorse.lifeStages.2.labelFemale>крокобыла</GR_Crocorse.lifeStages.2.labelFemale>
+  <GR_Crocorse.lifeStages.2.labelFemalePlural>крокобылы</GR_Crocorse.lifeStages.2.labelFemalePlural>
+  <GR_Crocorse.labelMale>жеребец кроконя</GR_Crocorse.labelMale>
+  <GR_Crocorse.labelMalePlural>жеребцы кроконя</GR_Crocorse.labelMalePlural>
+  <GR_Crocorse.labelFemale>крокобыла</GR_Crocorse.labelFemale>
+  <GR_Crocorse.labelFemalePlural>крокобылы</GR_Crocorse.labelFemalePlural>
+  <!-- EN:
+  <GR_Crocorse.label>crocorse</GR_Crocorse.label>
+  <GR_Crocorse.labelPlural>crocorses</GR_Crocorse.labelPlural>
+  <GR_Crocorse.lifeStages.0.label>crocorse foal</GR_Crocorse.lifeStages.0.label>
+  <GR_Crocorse.lifeStages.0.labelPlural>crocorse foals</GR_Crocorse.lifeStages.0.labelPlural>
+  <GR_Crocorse.lifeStages.0.labelMale>male crocorse foal</GR_Crocorse.lifeStages.0.labelMale>
+  <GR_Crocorse.lifeStages.0.labelMalePlural>male crocorse foals</GR_Crocorse.lifeStages.0.labelMalePlural>
+  <GR_Crocorse.lifeStages.0.labelFemale>female crocorse foal</GR_Crocorse.lifeStages.0.labelFemale>
+  <GR_Crocorse.lifeStages.0.labelFemalePlural>female crocorse foals</GR_Crocorse.lifeStages.0.labelFemalePlural>
+  <GR_Crocorse.lifeStages.1.label>crocorse</GR_Crocorse.lifeStages.1.label>
+  <GR_Crocorse.lifeStages.1.labelPlural>crocorse</GR_Crocorse.lifeStages.1.labelPlural>
+  <GR_Crocorse.lifeStages.1.labelMale>crocorse stallion</GR_Crocorse.lifeStages.1.labelMale>
+  <GR_Crocorse.lifeStages.1.labelMalePlural>male crocorses</GR_Crocorse.lifeStages.1.labelMalePlural>
+  <GR_Crocorse.lifeStages.1.labelFemale>crocorse mare</GR_Crocorse.lifeStages.1.labelFemale>
+  <GR_Crocorse.lifeStages.1.labelFemalePlural>female crocorses</GR_Crocorse.lifeStages.1.labelFemalePlural>
+  <GR_Crocorse.lifeStages.2.label>crocorse</GR_Crocorse.lifeStages.2.label>
+  <GR_Crocorse.lifeStages.2.labelPlural>crocorse</GR_Crocorse.lifeStages.2.labelPlural>
+  <GR_Crocorse.lifeStages.2.labelMale>crocorse stallion</GR_Crocorse.lifeStages.2.labelMale>
+  <GR_Crocorse.lifeStages.2.labelMalePlural>male crocorses</GR_Crocorse.lifeStages.2.labelMalePlural>
+  <GR_Crocorse.lifeStages.2.labelFemale>crocorse mare</GR_Crocorse.lifeStages.2.labelFemale>
+  <GR_Crocorse.lifeStages.2.labelFemalePlural>female crocorses</GR_Crocorse.lifeStages.2.labelFemalePlural>
+  <GR_Crocorse.labelMale>crocorse stallion</GR_Crocorse.labelMale>
+  <GR_Crocorse.labelMalePlural>crocorse stallions</GR_Crocorse.labelMalePlural>
+  <GR_Crocorse.labelFemale>crocorse mare</GR_Crocorse.labelFemale>
+  <GR_Crocorse.labelFemalePlural>crocorse mares</GR_Crocorse.labelFemalePlural>
+   -->
+
+
+  <!-- Insectoid - Horse -->
+
+  <GR_Spiderhorse.label>пауконь</GR_Spiderhorse.label>
+  <GR_Spiderhorse.labelPlural>паукони</GR_Spiderhorse.labelPlural>
+  <GR_Spiderhorse.labelMale>пауконь-жеребец</GR_Spiderhorse.labelMale>
+  <GR_Spiderhorse.labelMalePlural>паукони-жеребцы</GR_Spiderhorse.labelMalePlural>
+  <GR_Spiderhorse.labelFemale>паукобыла</GR_Spiderhorse.labelFemale>
+  <GR_Spiderhorse.labelFemalePlural>паукобылы</GR_Spiderhorse.labelFemalePlural>
+  <!-- EN:  <GR_Spiderhorse.label>spiderhorse</GR_Spiderhorse.label>
+  <GR_Spiderhorse.labelPlural>spiderhorses</GR_Spiderhorse.labelPlural>
+  <GR_Spiderhorse.labelMale>spiderhorse stallion</GR_Spiderhorse.labelMale>
+  <GR_Spiderhorse.labelMalePlural>spiderhorse stallions</GR_Spiderhorse.labelMalePlural>
+  <GR_Spiderhorse.labelFemale>spiderhorse mare</GR_Spiderhorse.labelFemale>
+  <GR_Spiderhorse.labelFemalePlural>spiderhorse mares</GR_Spiderhorse.labelFemalePlural>
+   -->
+
+
+  <!-- Humanoid - Horse -->
+
+  <GR_Hurseman.label>челошадь</GR_Hurseman.label>
+  <GR_Hurseman.labelPlural>челошади</GR_Hurseman.labelPlural>
+  <GR_Hurseman.lifeStages.0.label>жеребёнок челошади</GR_Hurseman.lifeStages.0.label>
+  <GR_Hurseman.lifeStages.0.labelPlural>жеребята челошади</GR_Hurseman.lifeStages.0.labelPlural>
+  <GR_Hurseman.lifeStages.0.labelMale>жеребёнок челошади самец</GR_Hurseman.lifeStages.0.labelMale>
+  <GR_Hurseman.lifeStages.0.labelMalePlural>жеребята челошади самцы</GR_Hurseman.lifeStages.0.labelMalePlural>
+  <GR_Hurseman.lifeStages.0.labelFemale>жеребёнок челошади самка</GR_Hurseman.lifeStages.0.labelFemale>
+  <GR_Hurseman.lifeStages.0.labelFemalePlural>жеребята челошади самки</GR_Hurseman.lifeStages.0.labelFemalePlural>
+  <GR_Hurseman.lifeStages.1.label>молодая челошадь</GR_Hurseman.lifeStages.1.label>
+  <GR_Hurseman.lifeStages.1.labelPlural>молодые челошади</GR_Hurseman.lifeStages.1.labelPlural>
+  <GR_Hurseman.lifeStages.1.labelMale>молодой челожеребец</GR_Hurseman.lifeStages.1.labelMale>
+  <GR_Hurseman.lifeStages.1.labelMalePlural>молодые челожеребцы</GR_Hurseman.lifeStages.1.labelMalePlural>
+  <GR_Hurseman.lifeStages.1.labelFemale>молодая челошадь кобыла</GR_Hurseman.lifeStages.1.labelFemale>
+  <GR_Hurseman.lifeStages.1.labelFemalePlural>молодые челошади кобылы</GR_Hurseman.lifeStages.1.labelFemalePlural>
+  <GR_Hurseman.lifeStages.2.label>челошадь</GR_Hurseman.lifeStages.2.label>
+  <GR_Hurseman.lifeStages.2.labelPlural>челошади</GR_Hurseman.lifeStages.2.labelPlural>
+  <GR_Hurseman.lifeStages.2.labelMale>челожеребец</GR_Hurseman.lifeStages.2.labelMale>
+  <GR_Hurseman.lifeStages.2.labelMalePlural>челожеребцы</GR_Hurseman.lifeStages.2.labelMalePlural>
+  <GR_Hurseman.lifeStages.2.labelFemale>челошадь кобыла</GR_Hurseman.lifeStages.2.labelFemale>
+  <GR_Hurseman.lifeStages.2.labelFemalePlural>челошади кобылы</GR_Hurseman.lifeStages.2.labelFemalePlural>
+  <GR_Hurseman.labelMale>челожеребец</GR_Hurseman.labelMale>
+  <GR_Hurseman.labelMalePlural>челожеребцы</GR_Hurseman.labelMalePlural>
+  <GR_Hurseman.labelFemale>челошадь кобыла</GR_Hurseman.labelFemale>
+  <GR_Hurseman.labelFemalePlural>челошади кобылы</GR_Hurseman.labelFemalePlural>
+  <!-- EN:<GR_Hurseman.label>hurseman</GR_Hurseman.label>
+  <GR_Hurseman.labelPlural>hursemans</GR_Hurseman.labelPlural>
+  <GR_Hurseman.lifeStages.0.label>hurseman foal</GR_Hurseman.lifeStages.0.label>
+  <GR_Hurseman.lifeStages.0.labelPlural>hurseman foals</GR_Hurseman.lifeStages.0.labelPlural>
+  <GR_Hurseman.lifeStages.0.labelMale>male hurseman foal</GR_Hurseman.lifeStages.0.labelMale>
+  <GR_Hurseman.lifeStages.0.labelMalePlural>male hurseman foals</GR_Hurseman.lifeStages.0.labelMalePlural>
+  <GR_Hurseman.lifeStages.0.labelFemale>female hurseman foal</GR_Hurseman.lifeStages.0.labelFemale>
+  <GR_Hurseman.lifeStages.0.labelFemalePlural>female hurseman foals</GR_Hurseman.lifeStages.0.labelFemalePlural>
+  <GR_Hurseman.lifeStages.1.label>hurseman</GR_Hurseman.lifeStages.1.label>
+  <GR_Hurseman.lifeStages.1.labelPlural>hurseman</GR_Hurseman.lifeStages.1.labelPlural>
+  <GR_Hurseman.lifeStages.1.labelMale>hurseman stallion</GR_Hurseman.lifeStages.1.labelMale>
+  <GR_Hurseman.lifeStages.1.labelMalePlural>male hursemans</GR_Hurseman.lifeStages.1.labelMalePlural>
+  <GR_Hurseman.lifeStages.1.labelFemale>hurseman mare</GR_Hurseman.lifeStages.1.labelFemale>
+  <GR_Hurseman.lifeStages.1.labelFemalePlural>female hursemans</GR_Hurseman.lifeStages.1.labelFemalePlural>
+  <GR_Hurseman.lifeStages.2.label>hurseman</GR_Hurseman.lifeStages.2.label>
+  <GR_Hurseman.lifeStages.2.labelPlural>hurseman</GR_Hurseman.lifeStages.2.labelPlural>
+  <GR_Hurseman.lifeStages.2.labelMale>hurseman stallion</GR_Hurseman.lifeStages.2.labelMale>
+  <GR_Hurseman.lifeStages.2.labelMalePlural>male hursemans</GR_Hurseman.lifeStages.2.labelMalePlural>
+  <GR_Hurseman.lifeStages.2.labelFemale>hurseman mare</GR_Hurseman.lifeStages.2.labelFemale>
+  <GR_Hurseman.lifeStages.2.labelFemalePlural>female hursemans</GR_Hurseman.lifeStages.2.labelFemalePlural>
+  <GR_Hurseman.labelMale>hurseman stallion</GR_Hurseman.labelMale>
+  <GR_Hurseman.labelMalePlural>hurseman stallions</GR_Hurseman.labelMalePlural>
+  <GR_Hurseman.labelFemale>hurseman mare</GR_Hurseman.labelFemale>
+  <GR_Hurseman.labelFemalePlural>hurseman mares</GR_Hurseman.labelFemalePlural>
+   -->
+
+
+</LanguageData>

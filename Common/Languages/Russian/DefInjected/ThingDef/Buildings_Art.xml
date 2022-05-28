@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rugs -->
+
+  <GR_HugeBearCatRug.label>огромный ковёр из шкуры медвекота</GR_HugeBearCatRug.label>
+  <!-- EN:huge bearcat rug -->
+  <GR_HugeBearCatRug.description>ковёр из шкуры медвекота. Выглядит намного экзотичнее других подобных ковров!</GR_HugeBearCatRug.description>
+  <!-- EN:A bearcat pelt rug. This thing seems to be quite more exotic than other pelt rugs! -->
+
+  <GR_HugeBearRug.label>огромный ковёр из медвежьей шкуры</GR_HugeBearRug.label>
+  <!-- EN:huge bear rug -->
+  <GR_HugeBearRug.description>Ковёр из медвежьей шкуры. Таксидермия в моде на окраинных мирах!</GR_HugeBearRug.description>
+  <!-- EN:A bear pelt rug. Taxidermy seems to be in vogue on the Rim! -->
+
+  <GR_WolfRug.label>ковёр из волчьей шкуры</GR_WolfRug.label>
+  <!-- EN:wolf rug -->
+  <GR_WolfRug.description>Ковёр из волчьей шкуры. Таксидермия в моде на окраинных мирах!</GR_WolfRug.description>
+  <!-- EN:A wolf pelt rug. Taxidermy seems to be in vogue on the Rim! -->
+
+  <GR_MuffaloRug.label>ковёр из шкуры муффало</GR_MuffaloRug.label>
+  <!-- EN:muffalo pelt rug -->
+  <GR_MuffaloRug.description>Ковёр из шкуры муффало. Таксидермия в моде на окраинных мирах!</GR_MuffaloRug.description>
+  <!-- EN:A muffalo pelt rug. Taxidermy seems to be in vogue on the Rim! -->
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<loadFolders>
+	<v1.3>
+    <li>Common</li>
+    <li IfModActive="VanillaExpanded.VChemfuelE">Chemfuel</li>
+    <li IfModActive="vanillaexpanded.achievements">Achievements</li>
+    <li IfModActive="OskarPotocki.VFE.Insectoid">Insectoids</li>
+
+	  <li IfModActive="sarg.alphaanimals">AlphaAnimals</li>		
+		<li IfModActive="rimofmadness.CallofCthulhuCosmicHorrors">CosmicHorrors</li>		
+		<li IfModActive="Spino.Megafauna">Megafauna</li>		
+		<li IfModActive="spincrus.dinosauria">Dinosauria</li>	
+		<li IfModActive="sarg.rimbees">RimBees</li>		
+	  <li IfModActive="Ogliss.TheWhiteCrayon.Quarry">Quarry</li>
+	</v1.3>
+</loadFolders>

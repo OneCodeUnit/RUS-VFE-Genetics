@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_AncientCryofreezer.label>древний рефрижератор</GR_AncientCryofreezer.label>
+  <!-- EN:ancient cryofreezer -->
+  <GR_AncientCryofreezer.description>Сверхмощная разновидность кондиционера, созданная для обеспечения сверхнизкой температуры, в которой будет практически невозможно разложение геномов. И хотя этот механизм более не способен понижать температуру помещения до абсолютного нуля, она всё ещё будет существенно ниже комфортной для практически любого живого существа.</GR_AncientCryofreezer.description>
+  <!-- EN:A super-charged air-conditioning unit designed for its intended purpose of preventing genomes from breaking down entropically. Unfortunately, that temperature is also beyond the comfort range of almost all organic life but it can no longer maintain the desired output of approaching absolute zero. -->
+
+  <GR_AncientElectrowomb.label>древняя электроматка</GR_AncientElectrowomb.label>
+  <!-- EN:ancient electrowomb -->
+  <GR_AncientElectrowomb.description>Это устройство давно рассыпалось на части и теперь полностью бесполезно.</GR_AncientElectrowomb.description>
+  <!-- EN:This device has collapsed in on itself, rendering it useless. -->
+
+  <GR_AncientElectrowombSpawner.label>древняя электроматка</GR_AncientElectrowombSpawner.label>
+  <!-- EN:ancient electrowomb -->
+  <GR_AncientElectrowombSpawner.description>Это устройство давно рассыпалось на части и теперь полностью бесполезно</GR_AncientElectrowombSpawner.description>
+  <!-- EN:This device has collapsed in on itself, rendering it useless. -->
+
+  <GR_AncientElectrowombLarge.label>большая древняя электроматка</GR_AncientElectrowombLarge.label>
+  <!-- EN:ancient large electrowomb -->
+  <GR_AncientElectrowombLarge.description>Внешний кожух устройства развалился на части. Сама машина выглядит так, будто внутри неё что-то взорвалось.</GR_AncientElectrowombLarge.description>
+  <!-- EN:The exterior shell has completely fallen apart, yet it seems that it exploded instead of imploded. -->
+
+  <GR_AncientGenomeRecombinator.label>древний геномный рекомбинатор</GR_AncientGenomeRecombinator.label>
+  <!-- EN:ancient genome recombinator -->
+  <GR_AncientGenomeRecombinator.description>Очень старый рекомбинатор, который теперь рекомбинирует только вонь и плесень.</GR_AncientGenomeRecombinator.description>
+  <!-- EN:A very old recombinator that somehow possesses an awful stench and excessive mould. -->
+
+  <GR_AncientGenomorpher.label>древний геноморфер</GR_AncientGenomorpher.label>
+  <!-- EN:ancient genomorpher -->
+  <GR_AncientGenomorpher.description>Геноморфер, находящийся в абсолютно ужасном состоянии. Впрочем, что-то полезное из него всё ещё можно получить.</GR_AncientGenomorpher.description>
+  <!-- EN:A Genomorpher that has fallen into complete disrepair, some salvage still remains. -->
+
+  <GR_AncientGenomeExtractor.label>древний геномный рекомбинатор</GR_AncientGenomeExtractor.label>
+  <!-- EN:ancient genome extractor table -->
+  <GR_AncientGenomeExtractor.description>Простаивая веками без техобслуживания эта машина полностью проржавела и её невозможно открыть.</GR_AncientGenomeExtractor.description>
+  <!-- EN:Lacking proper maintenance for so long, this machine is rusted shut. -->
+
+  <GR_AncientGeneticsTinkeringTable.label>древний генетический рабочий стол</GR_AncientGeneticsTinkeringTable.label>
+  <!-- EN:ancient genetics tinkering table -->
+  <GR_AncientGeneticsTinkeringTable.description>Большая часть инструментов и важных компонентов отсутствует. Скорее всего, они были изъяты намеренно, с целью саботажа.</GR_AncientGeneticsTinkeringTable.description>
+  <!-- EN:Most of the useful and otherwise functional parts are missing, indicating intentional sabotage. -->
+
+  <GR_AncientTissueGrinder.label>древняя тканерубка</GR_AncientTissueGrinder.label>
+  <!-- EN:ancient tissue grinder -->
+  <GR_AncientTissueGrinder.description>Движущиеся части и электронная начинка этой машины непригодны к восстановлению. Но их всё ещё можно разобрать на составные материалы.</GR_AncientTissueGrinder.description>
+  <!-- EN:The machinery and electronics are irreparable but could be broken down for scrap. -->
+
+  <GR_RuinedAncientBioBattery.label>Остатки биобатареи</GR_RuinedAncientBioBattery.label>
+  <!-- EN:ancient ruined bio-battery tank -->
+  <GR_RuinedAncientBioBattery.description>Эта древняя ёмкость использовалась для получения электроэнергии из биомассы. Теперь же она не может использоваться ни для чего.</GR_RuinedAncientBioBattery.description>
+  <!-- EN:This ancient tank once converted biological matter into an electrical current. It is now completely broken and useless. -->
+
+  <GR_RuinedAncientGeneTailoringPod.label>древняя разрушенная капсула биоподгонки</GR_RuinedAncientGeneTailoringPod.label>
+  <!-- EN:ancient ruined gene-tailoring pod -->
+  <GR_RuinedAncientGeneTailoringPod.description>This ancient structure was once used to inject nanomachines in a subject in an attempt to create the perfect soldier. It now lies rusted and unsalvageable.</GR_RuinedAncientGeneTailoringPod.description>
+  <!-- EN:This ancient structure was once used to inject nanomachines in a subject in an attempt to create the perfect soldier. It now lies rusted and unsalvageable. -->
+
+  <GR_AncientBioBattery.label>древний микробиоаккумулятор</GR_AncientBioBattery.label>
+  <!-- EN: ancient microbiobattery -->
+  <GR_AncientBioBattery.description>Аккумулятор с крайне высоким КПД, чудом переживший все эти годы без техобслуживания. Создан специально для обеспечения энергией геномные хранилища.</GR_AncientBioBattery.description>
+  <!-- EN:A very efficient battery that has somehow managed to survive for so long without maintenance, purpose-built to power genome storage rooms. -->
+
+  <GR_RuinedGenePod.label>древний разрушенный геноморфер</GR_RuinedGenePod.label>
+  <!-- EN: ancient ruined genepod -->
+  <GR_RuinedGenePod.description>Древнее устройство, когда-то использовавшееся для работы с генетическим материалом. Безнадёжно устарело и настолько же безнадёжно повреждено. Восстановлению не подлежит.</GR_RuinedGenePod.description>
+  <!-- EN:An ancient genepod that was used to combine genetic material. This machine is obsolete and damaged beyond repair. -->
+
+  <GR_RuinedAnimalControlHub.label>древний центр контроля животных</GR_RuinedAnimalControlHub.label>
+  <!-- EN: ancient animal control hub -->
+  <GR_RuinedAnimalControlHub.description>По всей видимости, это устройство излучало некий высокочастотный электромагнитный импульс, который позволял контролировать мозговые функции определённых животных. Крайне примитивная, капризная и нестабильная технология. Ныне полностью бесполезна..</GR_RuinedAnimalControlHub.description>
+  <!-- EN:It seems that this structure was capable of emitting some kind of electromagnetic radiation used to control brain function of certain animals. This was crude and primitive technology prone to failure and instability, and as such it is completely useless now. -->
+
+  <GR_RuinedAnimalEnrichmentCenter.label>древний центр усиления животных</GR_RuinedAnimalEnrichmentCenter.label>
+  <!-- EN: ancient animal enrichment center -->
+  <GR_RuinedAnimalEnrichmentCenter.description>Что бы ни было раньше в этом сыром металлическом гробу, оно давным-давно отсюда сбежало. Сама же машина безнадёжно разворочена.</GR_RuinedAnimalEnrichmentCenter.description>
+  <!-- EN:Whatever was held inside this dank, rusted metal coffin has long since escaped. It is damaged beyond all repair. -->
+
+  <GR_RuinedArchotechPlatform.label>древняя сборочная платформа</GR_RuinedArchotechPlatform.label>
+  <!-- EN: ancient construction platform -->
+  <GR_RuinedArchotechPlatform.description>Эта полуразваленная платформа раньше использовалась для сборки других машин. Теперь она только собирает пыль.</GR_RuinedArchotechPlatform.description>
+  <!-- EN:This deteriorated platform seems to have been used to assemble some kind of machinery. It now lays bare and empty. -->
+
+  <GR_RuinedGeneDuplicator.label>древний геномный копировщик</GR_RuinedGeneDuplicator.label>
+  <!-- EN: ancient gene duplicator -->
+  <GR_RuinedGeneDuplicator.description>Судя по осадку на внутренних стенках этой полусферической ёмкости, раньше эта машина использовалась как резервуар для какой-то вязкой жидкости. Теперь же эта машина представляет собой груду металлолома.</GR_RuinedGeneDuplicator.description>
+  <!-- EN:This semi-spherical vat seems to have held some kind of viscuous liquid inside, as evidenced by the rancid-smelling residue coating its insides. It is now completely ruined and only useful as metal scrap. -->
+
+  <GR_RuinedGeneRecombinator.label>древний геномный рекомбинатор</GR_RuinedGeneRecombinator.label>
+  <!-- EN: ancient gene recombinator -->
+  <GR_RuinedGeneRecombinator.description>Черезвычайно устаревшая версия геномного рекомбинатора, слишком ржавая даже для того, чтобы быть разобранной на запчасти.</GR_RuinedGeneRecombinator.description>
+  <!-- EN:A completely obsolete model of gene recombinator, that is also deteriorated and rusted beyond and salvaging. -->
+
+  <GR_RuinedGeneticDatabase.label>древняя база генетических данных</GR_RuinedGeneticDatabase.label>
+  <!-- EN: ancient genetic database -->
+  <GR_RuinedGeneticDatabase.description>Этот древний компьютер использовался для хранения генетической информации и отправки генетических отпечатков в другие машины. Компоненты этого устройства разложились настолько сильно, что от хранившейся информации давным давно ничего не осталось.</GR_RuinedGeneticDatabase.description>
+  <!-- EN:This ancient computer was used to storage genetic information and feed genetic dataprints to other machines, but its components have deteriorated so far that all the data it contained has degraded to nothingness. -->
+
+  <GR_RuinedGeneticExtractionTable.label>древний геномный экстрактор</GR_RuinedGeneticExtractionTable.label>
+  <!-- EN: ancient genetic extraction table -->
+  <GR_RuinedGeneticExtractionTable.description>Ещё один стол с приборами, превратившийся в хлам под воздействием времени. Судя по явной затхлой вони, от этого стола лучше держаться подальше.</GR_RuinedGeneticExtractionTable.description>
+  <!-- EN:Yet another workstation that has deteriorated beyond all recovery. A foul-smelling vial of stagnant liquid warns you to keep away from it. -->
+
+  <GR_RuinedGeneticStorage.label>древнее генетическое хранилище</GR_RuinedGeneticStorage.label>
+  <!-- EN: ancient genetic storage -->
+  <GR_RuinedGeneticStorage.description>Этот передвижной стол оборудован компьютером и охлаждённым отсеком для хранения генетического материала. По крайней мере - был. Теперь же он представляет ценность разве что как металлолом.</GR_RuinedGeneticStorage.description>
+  <!-- EN:This little wheeled table housed a small specialized computer and refrigerated trays to store genetic material, but it is now so damaged it can only be used as scrap. -->
+
+  <GR_RuinedGenomeSequencer.label>древний геномный секвенсор</GR_RuinedGenomeSequencer.label>
+  <!-- EN: ancient genome sequencer -->
+  <GR_RuinedGenomeSequencer.description>Крупная центрифуга, когда-то использовавшася для секвенирования генов. Из-за коррозии вряд ли кому-то ещё когда-нибудь понадобится.</GR_RuinedGenomeSequencer.description>
+  <!-- EN:A large centrifuge used in gene sequencing. Its corroded parts will never be of use to anyone again. -->
+
+  <GR_RuinedHexagelPlant.label>древний гексогелевый реактор</GR_RuinedHexagelPlant.label>
+  <!-- EN: ancient hexagel core reactor -->
+  <GR_RuinedHexagelPlant.description>Давно заброшенный био-энергетический реактор</GR_RuinedHexagelPlant.description>
+  <!-- EN:A derelict bio-energy power plant. -->
+
+  <GR_RuinedIncubator.label>древний разрушенный инкубатор</GR_RuinedIncubator.label>
+  <!-- EN: ancient ruined incubator -->
+  <GR_RuinedIncubator.description>Эта ёмкость была разбита на куски и то, что хранилось в ней - давным-давно испарилось.</GR_RuinedIncubator.description>
+  <!-- EN:This small canister has been smashed to pieces and whatever it contained has long evaporated. -->
+
+  <GR_RuinedLabBarrel.label>древняя разрушенная бочка отходов</GR_RuinedLabBarrel.label>
+  <!-- EN: ancient ruined lab barrel -->
+  <GR_RuinedLabBarrel.description>Что бы ни хранилось в этой бочке, давным давно испарилось.</GR_RuinedLabBarrel.description>
+  <!-- EN:>Whatever this barrel held has long ago evaporated. -->
+
+  <GR_Rack.label>древняя серверная стойка</GR_Rack.label>
+  <!-- EN: ancient server rack -->
+  <GR_Rack.description>На этих серверах раньше хранились огромные массивы генетической информации, но теперь от них ничего не осталось.</GR_Rack.description>
+  <!-- EN:his server rack once housed a lot of genetic information, but all its data has now degraded completely. -->
+
+  <GR_CommsTable.label>древняя консоль связи</GR_CommsTable.label>
+  <!-- EN: ancient comms table -->
+  <GR_CommsTable.description>Когда-то это было «умным столом». Теперь это просто стол.</GR_CommsTable.description>
+  <!-- EN:This was once a smart table. But now it's dumb. -->
+
+  <GR_LooseCables.label>древние кабели</GR_LooseCables.label>
+  <!-- EN: loose cables -->
+  <GR_LooseCables.description>Скорее всего, этот запутанный моток проводов находился за одной из панелей на потолке.</GR_LooseCables.description>
+  <!-- EN:This tangle of decayed cables were probably once housed inside the ceiling panels. -->
+
+  <GR_AncientCrate.label>древний разбитый контейнер</GR_AncientCrate.label>
+  <!-- EN: ancient ruined crate -->
+  <GR_AncientCrate.description>Что бы ни хранилось в этом контейнере, оно давным давно сгнило и обратилось в прах.</GR_AncientCrate.description>
+  <!-- EN:Whatever this crate contained has long ago rotted and turned to dust.-->
+
+  <GR_AncientCrateDouble.label>древний разбитый контейнер</GR_AncientCrateDouble.label>
+  <!-- EN: ancient ruined crate -->
+  <GR_AncientCrateDouble.description>Что бы ни хранилось в этом контейнере, оно давным давно сгнило и обратилось в прах.</GR_AncientCrateDouble.description>
+  <!-- EN:Whatever this crate contained has long ago rotted and turned to dust. -->
+
+  <GR_AncientCratePile.label>гора древних разбитых контейнеров</GR_AncientCratePile.label>
+  <!-- EN: pile of ancient ruined crates -->
+  <GR_AncientCratePile.description>Что бы ни хранилось в этих контейнерах, оно давным давно сгнило и обратилось в прах.</GR_AncientCratePile.description>
+  <!-- EN:Whatever these crates contained has long ago rotted and turned to dust. -->
+
+  <GR_AncientTechCrate.label>древний автоматический контейнер</GR_AncientTechCrate.label>
+  <!-- EN: ancient mechanized crate -->
+  <GR_AncientTechCrate.description>Что бы ни хранилось в этом контейнере, оно давным давно сгнило и обратилось в прах.</GR_AncientTechCrate.description>
+  <!-- EN:Whatever this crate contained has long ago rotted and turned to dust. -->
+
+  <GR_RuinedBarrelDouble.label>древние пробитые бочки с отходами</GR_RuinedBarrelDouble.label>
+  <!-- EN: ancient ruined lab barrels -->
+  <GR_RuinedBarrelDouble.description>Содержимое этих бочек давно сгнило или испарилось.</GR_RuinedBarrelDouble.description>
+  <!-- EN:Whatever this crate contained has long ago rotted and turned to dust. -->
+
+  <GR_RuinedVials.label>древние разбитые пробирки</GR_RuinedVials.label>
+  <!-- EN: ancient ruined vials -->
+  <GR_RuinedVials.description>Небольшие ёмкости, в которых когда-то хранились реактивы.</GR_RuinedVials.description>
+  <!-- EN:Small canisters that once held some valuable liquids. -->
+
+  <GR_RuinedLabShelf.label>древний лабораторный шкаф</GR_RuinedLabShelf.label>
+  <!-- EN: ancient lab shelf -->
+  <GR_RuinedLabShelf.description>Проржавевшие стеллажи, покрытые пылью и грязью.</GR_RuinedLabShelf.description>
+  <!-- EN:Rusted shelving units coated in grime and dust. -->
+
+  <GR_RuinedMechanoidTinkeringTable.label>древний механоидный генетический стол</GR_RuinedMechanoidTinkeringTable.label>
+  <!-- EN: ancient mechanoid tinkering table -->
+  <GR_RuinedMechanoidTinkeringTable.description>Раньше этот стол использовался для обратного инжиниринга компонентов механоидов, но теперь он повреждён до полной непригодности.</GR_RuinedMechanoidTinkeringTable.description>
+  <!-- EN:This workbench appears to have been used to try and reverse engineer mechanoid components, but it is damaged to the point of uselessness. -->
+
+  <GR_RuinedMutaniteCentrifuge.label>древняя центрифуга мутагенов</GR_RuinedMutaniteCentrifuge.label>
+  <!-- EN: ancient mutanite centrifuge -->
+  <GR_RuinedMutaniteCentrifuge.description>Механизм, который когда-то использовался для переработки мутагенных минералов.</GR_RuinedMutaniteCentrifuge.description>
+  <!-- EN:A machine used to process mutagenic minerals, now completely broken and unsalvageable. -->
+
+  <GR_RuinedNutrientVat.label>древний чан с питательными веществами</GR_RuinedNutrientVat.label>
+  <!-- EN: ancient nutrient vat -->
+  <GR_RuinedNutrientVat.description>Раньше в этой стеклянной ёмкости хранилась сжиженная биомасса. Теперь в ней бережно хранится пустота и осколки.A slurry of liquefied organic pulp filled this reinforced glass vat. It now lays broken and empty.</GR_RuinedNutrientVat.description>
+  <!-- EN:A slurry of liquefied organic pulp filled this reinforced glass vat. It now lays broken and empty. -->
+
+  <GR_RuinedPulper.label>древний измельчитель</GR_RuinedPulper.label>
+  <!-- EN: ancient pulper -->
+  <GR_RuinedPulper.description>Машина странного вида, раньше использовавшаяся для измельчения древесины в кашу. Восстановлению не подлежит.</GR_RuinedPulper.description>
+  <!-- EN:>A weird-looking machine that shredded wood into organic pulp. Broken beyond repair. -->
+
+  <GR_RuinedPulpRecycler.label>древний переработчик</GR_RuinedPulpRecycler.label>
+  <!-- EN: ancient pulp recycler -->
+  <GR_RuinedPulpRecycler.description>Машина устаревшей конструкции, раньше использовавшася для переработки костей, древесины и тел в кашу. Восстановлению не подлежит.</GR_RuinedPulpRecycler.description>
+  <!-- EN:An obsolete, ancient machine that recycled wood, corpses and bones into organic pulp. Broken beyond repair. -->
+
+  <GR_RuinedRefrigeratedCoils.label>древние радиаторы</GR_RuinedRefrigeratedCoils.label>
+  <!-- EN: ancient refrigerated coils -->
+  <GR_RuinedRefrigeratedCoils.description>Эти криотопливные катушки полностью развалились под действием времени и запустения. Больше они работать не будут. Совсем.</GR_RuinedRefrigeratedCoils.description>
+  <!-- EN:These structural cryofuel coils have been completely ruined by time and neglect. They can no longer function. -->
+
+  <GR_RuinedTissueGrowingVat.label>древний имплантный аугментатор</GR_RuinedTissueGrowingVat.label>
+  <!-- EN: ancient tissue growing vat -->
+  <GR_RuinedTissueGrowingVat.description>Металлический саркофаг, способный обеспечить контроллируемую среду для выращивания биомеханических имплантов. Ныне же его начинка выпотрошена и представляет собой разнообразный ржавый хлам, разбросанный вокруг.</GR_RuinedTissueGrowingVat.description>
+  <!-- EN: -->
+
+  <GR_LabLockerBank.label>древние лабораторные шкафчики</GR_LabLockerBank.label>
+  <!-- EN: ancient lab locker bank -->
+  <GR_LabLockerBank.description>Ряд проржавевших насквозь личных шкафчиков. Они выглядят так, будто очень давно они были раскурочены и разграблены.</GR_LabLockerBank.description>
+  <!-- EN:An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
+
+  <GR_MonitorBank.label>древние мониторы</GR_MonitorBank.label>
+  <!-- EN: ancient monitor banks -->
+  <GR_MonitorBank.description>Больше они никогда ничего не покажут</GR_MonitorBank.description>
+  <!-- EN:These monitors will never show any information again. -->
+
+  <GR_SignA.label>древний знак</GR_SignA.label>
+  <!-- EN: ancient sign -->
+  <GR_SignA.description>Выцветший логотип давно забытой компании.</GR_SignA.description>
+  <!-- EN:A weathered sign advertising a company that has long been forgotten. -->
+
+  <GR_SignB.label>древний знак</GR_SignB.label>
+  <!-- EN: ancient sign -->
+  <GR_SignB.description>Выцветший логотип давно забытой компании.</GR_SignB.description>
+  <!-- EN:A weathered sign advertising a company that has long been forgotten. -->
+
+  <GR_SignC.label>древний знак</GR_SignC.label>
+  <!-- EN: ancient sign -->
+  <GR_SignC.description>Выцветший логотип давно забытой компании.</GR_SignC.description>
+  <!-- EN:A weathered sign advertising a company that has long been forgotten. -->
+
+  <GR_SignD.label>древний знак</GR_SignD.label>
+  <!-- EN: ancient sign -->
+  <GR_SignD.description>Выцветший логотип давно забытой компании.</GR_SignD.description>
+  <!-- EN:A weathered sign advertising a company that has long been forgotten. -->
+
+  <GR_SignE.label>древний знак</GR_SignE.label>
+  <!-- EN: ancient sign -->
+  <GR_SignE.description>Выцветший логотип давно забытой компании.</GR_SignE.description>
+  <!-- EN:A weathered sign advertising a company that has long been forgotten.  -->
+
+  <GR_SignF.label>древний знак</GR_SignF.label>
+  <!-- EN: ancient sign -->
+  <GR_SignF.description>Выцветший логотип давно забытой компании.</GR_SignF.description>
+  <!-- EN:A weathered sign advertising a company that has long been forgotten. -->
+
+  <GR_SignG.label>древний знак</GR_SignG.label>
+  <!-- EN: ancient sign -->
+  <GR_SignG.description>Выцветший логотип давно забытой компании.</GR_SignG.description>
+  <!-- EN:A weathered sign advertising a company that has long been forgotten. -->
+
+  <GR_SignH.label>древний знак</GR_SignH.label>
+  <!-- EN: ancient sign -->
+  <GR_SignH.description>Выцветший логотип давно забытой компании.</GR_SignH.description>
+  <!-- EN:A weathered sign advertising a company that has long been forgotten. -->
+
+  <GR_Toilet.label>древний туалет</GR_Toilet.label>
+  <!-- EN: ancient toilet -->
+  <GR_Toilet.description>Если вы рискнёте попить воды отсюда, то доза в 100 рентген будет меньшей из ваших проблем.</GR_Toilet.description>
+  <!-- EN:Drinking from this will give you more than just a few rads... -->
+
+  <GR_Sink.label>древняя раковина</GR_Sink.label>
+  <!-- EN: ancient sink -->
+  <GR_Sink.description>Если вы рискнёте попить воды отсюда, то доза в 100 рентген будет меньшей из ваших проблем.</GR_Sink.description>
+  <!-- EN:Drinking from this will give you more than just a few rads... -->
+
+  <GR_SmallBioLight.label>древняя биолюминесцентная лампа</GR_SmallBioLight.label>
+  <!-- EN: ancient bioluminescent light -->
+  <GR_SmallBioLight.description>Металлическая капсула, заполненная неизвестным биолюминесцентным веществом. Конкретно эта всё ещё испускает тусклое свечение.</GR_SmallBioLight.description>
+  <!-- EN:A metallic capsule filled with some bioluminescent compound. This one seems to still be producing some faint light. -->
+
+  <GR_BioLight.label>древняя биолюминесцентная лампа</GR_BioLight.label>
+  <!-- EN: ancient bioluminescent light -->
+  <GR_BioLight.description>Металлическая капсула, заполненная неизвестным биолюминесцентным веществом. Конкретно эта всё ещё испускает тусклое свечение.</GR_BioLight.description>
+  <!-- EN:A metallic capsule filled with some bioluminescent compound. This one seems to still be producing some faint light. -->
+
+  <GR_RandomBooster.label>случайный усилитель</GR_RandomBooster.label>
+  <!-- EN: random booster -->
+  <GR_RandomBooster.description>Даёт случайный усилитель.</GR_RandomBooster.description>
+  <!-- EN:Spawn random booster. -->
+
+  <GR_RandomExcavator.label>случайный экстрактор</GR_RandomExcavator.label>
+  <!-- EN: random excavator -->
+  <GR_RandomExcavator.description>Даёт случайный экстрактор</GR_RandomExcavator.description>
+  <!-- EN:Spawn random excavator. -->
+
+  <GR_RandomGenoframe.label>случайная генооснова</GR_RandomGenoframe.label>
+  <!-- EN: random genoframe -->
+  <GR_RandomGenoframe.description>Даёт случайную генооснову</GR_RandomGenoframe.description>
+  <!-- EN:Spawn random genoframe. -->
+
+  <GR_RandomGenome.label>случайный геном</GR_RandomGenome.label>
+  <!-- EN: random genome -->
+  <GR_RandomGenome.description>Даёт случайный геном.</GR_RandomGenome.description>
+  <!-- EN:Spawn random genome -->
+
+  <GR_Ruined_Mechahybridizer.label>древний мехагибридатор</GR_Ruined_Mechahybridizer.label>
+  <!-- EN: ancient mechahybridizer -->
+  <GR_Ruined_Mechahybridizer.description>Сломанным металлическим челюстям этой машины уже не суждено сомкнуться вновь.</GR_Ruined_Mechahybridizer.description>
+  <!-- EN:The broken maws of this ancient factory will never be able to close again. -->
+
+  <GR_Ruined_Mechahybrid_Antenna.label>древний мехагибридный передатчик</GR_Ruined_Mechahybrid_Antenna.label>
+  <!-- EN: ancient mechahybrid antenna -->
+  <GR_Ruined_Mechahybrid_Antenna.description>Обломки антенны, которые уже больше никогда никому не пошлют сигнал.</GR_Ruined_Mechahybrid_Antenna.description>
+  <!-- EN:A collapsed antenna that is completely unable of transmitting anything ever again. -->
+
+</LanguageData>

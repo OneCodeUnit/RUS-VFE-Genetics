@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_TrapIED_Boom.label>бум-пустульная мина</GR_TrapIED_Boom.label>
+  <!-- EN:boom-pustule trap -->
+  <GR_TrapIED_Boom.description>Самодельное взрывное устройство, сделанное из... Впрочем, вам лучше не знать. Не может быть размещено рядом с другими ловушками. В спокойном состоянии животные могут учуять эти мины и будут их обходить. An improvised explosive trap built out of... best if you don't think about it. Cannot be placed adjacent to other traps. Animals can sense these when calm. Less potent than regular high-explosive shell traps.</GR_TrapIED_Boom.description>
+  <!-- EN:An improvised explosive trap built out of... best if you don't think about it. Cannot be placed adjacent to other traps. Animals can sense these when calm. Less potent than regular high-explosive shell traps. -->
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_UseGenomeExcavator.reportString>использует геномный корчеватель.</GR_UseGenomeExcavator.reportString>
+  <!-- EN:using genome excavator. -->
+  <GR_HumanoidHybridTalk.reportString>разговаривает с TargetA.</GR_HumanoidHybridTalk.reportString>
+  <!-- EN:talking with TargetA. -->
+  <GR_HumanoidHybridRecruit.reportString>пытается убедить TargetA.</GR_HumanoidHybridRecruit.reportString>
+  <!-- EN: convincing TargetA.-->
+  <GR_AnimalDeconstructJob.reportString>разбирает TargetA.</GR_AnimalDeconstructJob.reportString>
+  <!-- EN:>deconstructing TargetA. -->
+  <GR_AnimalHuntJob.reportString>охотится на TargetA.</GR_AnimalHuntJob.reportString>
+  <!-- EN:hunting TargetA. -->
+  <GR_AnimalHarvestJob.reportString>собирает TargetA.</GR_AnimalHarvestJob.reportString>
+  <!-- EN:harvesting TargetA. -->
+  <GR_InsertIngredients.reportString>загружает ингредиенты в TargetA.</GR_InsertIngredients.reportString>
+  <!-- EN:inserting ingredients on TargetA. -->
+  <GR_InsertGrowthCell.reportString>помещает искусственную яйцеклетку в TargetA.</GR_InsertGrowthCell.reportString>
+  <!-- EN:inserting growth cell on TargetA. -->
+  <GR_InsertArchotechGrowthCell.reportString>помещает архояйцеклетку в on TargetA.</GR_InsertArchotechGrowthCell.reportString>
+  <!-- EN:inserting archotech growth cell on TargetA. -->
+  <GR_ArchotechDNAExtractionJob.reportString>несёт TargetA к TargetB.</GR_ArchotechDNAExtractionJob.reportString>
+  <!-- EN:carrying TargetA to TargetB. -->
+  <GR_ParagonConversionJob.reportString>несёт TargetA к TargetB.</GR_ParagonConversionJob.reportString>
+  <!-- EN:carrying TargetA to TargetB. -->
+
+
+</LanguageData>

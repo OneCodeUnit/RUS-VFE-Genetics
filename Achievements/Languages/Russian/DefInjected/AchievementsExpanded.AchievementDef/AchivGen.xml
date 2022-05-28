@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Baby's First Genetics Lab -->
+  <GR_AchievementMyFirstLab.label>Редактирование генома для малышей</GR_AchievementMyFirstLab.label>
+  <!-- EN: Build your first Genomorpher -->
+  <GR_AchievementMyFirstLab.description>Построить первый геноморфер</GR_AchievementMyFirstLab.description>
+
+  <!-- EN: It Lives! -->
+  <GR_AchievementItLives.label>Оно живое!</GR_AchievementItLives.label>
+  <!-- EN: Successfully hatch your first hybrid from an electrowomb -->
+  <GR_AchievementItLives.description>Получить гибрида из электроматки</GR_AchievementItLives.description>
+  
+  <!-- EN: Bearly Possible -->
+  <GR_AchievementBearlyPossible.label>Это мед ведь?</GR_AchievementBearlyPossible.label>
+  <!-- EN: Get all seven Tier 1 Bear Hybrids -->
+  <GR_AchievementBearlyPossible.description>Создать все 7 медвежьих гибридов I класса</GR_AchievementBearlyPossible.description>
+
+  <!-- EN: OK, Boomer -->
+  <GR_AchievementOKBoomer.label>Окей, бумер</GR_AchievementOKBoomer.label>
+  <!-- EN: Get all seven Tier 1 Boomalope Hybrids -->
+  <GR_AchievementOKBoomer.description>Создать все 7 гибридов бумалопы I класса</GR_AchievementOKBoomer.description>
+
+  <!-- EN: Psh Psh -->
+  <GR_AchievementPshPsh.label>Фыр-фыр</GR_AchievementPshPsh.label>
+  <!-- EN: Get all seven Tier 1 Cat Hybrids -->
+  <GR_AchievementPshPsh.description>Создать все 7 кошачьих гибридов I класса</GR_AchievementPshPsh.description>
+
+  <!-- EN: Hasta la Pollo -->
+  <GR_AchievementHastaLaPollo.label>Hasta la Куриста</GR_AchievementHastaLaPollo.label>
+  <!-- EN: Get all seven Tier 1 Chicken Hybrids -->
+  <GR_AchievementHastaLaPollo.description>Создать все 7 куриных гибридов I класса</GR_AchievementHastaLaPollo.description>
+
+  <!-- EN: Moo Squad -->
+  <GR_AchievementMooSquad.label>Операция «Му»</GR_AchievementMooSquad.label>
+  <!-- EN: Get all seven Tier 1 Muffalo Hybrids -->
+  <GR_AchievementMooSquad.description>Создать все 7 гибридов муффало I класса</GR_AchievementMooSquad.description>
+
+  <!-- EN: Pest Problems -->
+  <GR_AchievementPestProblems.label>Сами виноваты</GR_AchievementPestProblems.label>
+  <!-- EN: Get all seven Tier 1 Rodent / Leporid Hybrids -->
+  <GR_AchievementPestProblems.description>Создать все 7 гибридов зайцев и морских свинок I класса</GR_AchievementPestProblems.description>
+
+  <!-- EN: K9 Units -->
+  <GR_AchievementK9Units.label>Товарищ волк</GR_AchievementK9Units.label>
+  <!-- EN: Get all seven Tier 1 Wolf Hybrids -->
+  <GR_AchievementK9Units.description>Создать все 7 волчьих гибридов I класса</GR_AchievementK9Units.description>
+
+  <!-- EN: Common People -->
+  <GR_AchievementCommonPeople.label>Обычные люди</GR_AchievementCommonPeople.label>
+  <!-- EN: Get all seven Tier 1 Humanoid Hybrids -->
+  <GR_AchievementCommonPeople.description>Создать все 7 гуманоидных гибридов I класса</GR_AchievementCommonPeople.description>
+
+  <!-- EN: Top of the Class -->
+  <GR_AchievementTopOfTheClass.label>Лучший в классе</GR_AchievementTopOfTheClass.label>
+  <!-- EN: Hatch a Paragon creature -->
+  <GR_AchievementTopOfTheClass.description>Создать образцовое существо</GR_AchievementTopOfTheClass.description>
+
+
+
+
+
+
+
+
+</LanguageData>

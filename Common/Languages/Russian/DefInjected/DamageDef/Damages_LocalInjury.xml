@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_GoForTheHead.label>беспощадный разрез</GR_GoForTheHead.label>
+  <GR_GoForTheHead.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_GoForTheHead.deathMessage>
+
+  <GR_GoForTheEyes.label>яростный удар клювом</GR_GoForTheEyes.label>
+  <GR_GoForTheEyes.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_GoForTheEyes.deathMessage>
+
+  <GR_RabidSlash.label>бешеный разрез</GR_RabidSlash.label>
+  <GR_RabidSlash.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_RabidSlash.deathMessage>
+
+  <GR_DoubleSlash.label>двойной разрез</GR_DoubleSlash.label>
+  <GR_DoubleSlash.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_DoubleSlash.deathMessage>
+
+  <GR_DevastatingBite.label>разрушающий укус</GR_DevastatingBite.label>
+  <GR_DevastatingBite.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_DevastatingBite.deathMessage>
+
+  <GR_Acid.label>кислотная атака</GR_Acid.label>
+  <!-- EN:acidic chemfuel -->
+  <GR_Acid.deathMessage>{0} {0_gender ? был растворён : была растворена}.</GR_Acid.deathMessage>
+
+  <GR_BloodFrenzy.label>кровавая ярость</GR_BloodFrenzy.label>
+  <GR_BloodFrenzy.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_BloodFrenzy.deathMessage>
+
+  <GR_VeryToxicBite.label>заразный токсичный укус</GR_VeryToxicBite.label>
+  <GR_VeryToxicBite.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_VeryToxicBite.deathMessage>
+
+  <GR_LightToxicBite.label>лёгкий токсичный укус</GR_LightToxicBite.label>
+  <GR_LightToxicBite.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_LightToxicBite.deathMessage>
+
+  <GR_HairballProjectileDamage.label>комок шерсти</GR_HairballProjectileDamage.label>
+  <GR_HairballProjectileDamage.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_HairballProjectileDamage.deathMessage>
+
+  <GR_GreatHairballProjectileDamage.label>удушающая атака</GR_GreatHairballProjectileDamage.label>
+  <GR_GreatHairballProjectileDamage.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_GreatHairballProjectileDamage.deathMessage>
+
+  <GR_ToxicExplosion.label>токсичный взрыв</GR_ToxicExplosion.label>
+  <GR_ToxicExplosion.deathMessage>{0} {0_gender ? был смертельно отравлен : была смертельно отравлена}.</GR_ToxicExplosion.deathMessage>
+  <!-- EN:{0} has been poisoned to death. -->
+
+
+  <GR_ToxicGas.label>токсичный взрыв</GR_ToxicGas.label>
+  <!-- EN: toxic explosion -->
+  <GR_ToxicGas.deathMessage>{0} {0_gender ? был смертельно отравлен : была смертельно отравлена}.</GR_ToxicGas.deathMessage>
+
+  <GR_HairballExplosion.label>шерстяной взрыв</GR_HairballExplosion.label>
+  <!-- EN: hairball explosion -->
+  <GR_HairballExplosion.deathMessage>{0} {0_gender ? был задушен кошачьей шерстью : была задушена кошачьей шерстью}.</GR_HairballExplosion.deathMessage>
+  <!-- EN: has been suffocated by cat hair to death -->
+
+  <GR_PlagueBite.label>чумной укус</GR_PlagueBite.label>
+  <!-- EN: plagued bite -->
+  <GR_PlagueBite.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_PlagueBite.deathMessage>
+
+  <GR_MiniGrain.deathMessage>{0} {0_gender ? был убит : была убита}.</GR_MiniGrain.deathMessage>
+
+  <GR_DistortionDamage.label>искажение</GR_DistortionDamage.label>
+  <!-- EN:warping -->
+  <GR_DistortionDamage.deathMessage>{0} {0_gender ? не смог справиться со стремительно изменяющимся телом : не смогла справиться со стремительно изменяющимся телом}.</GR_DistortionDamage.deathMessage>
+  <!-- EN: has succumbed to a warped body. -->
+
+  <GR_PermanentBurn.label>перманентный ожог</GR_PermanentBurn.label>
+  <!-- EN: permanent burn -->
+  <GR_PermanentBurn.deathMessage>{0} {0_gender ? сгорел : сгорела}.</GR_PermanentBurn.deathMessage>
+  <!-- EN: has been killed by burning. -->
+
+
+</LanguageData>

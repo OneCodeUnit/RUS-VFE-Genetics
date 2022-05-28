@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_Proj_ThrownSac.label>выброшенная киста</GR_Proj_ThrownSac.label>
+  <!-- EN:thrown sac -->
+  <GR_Web.label>паутина</GR_Web.label>
+  <!-- EN:web -->
+  <GR_PlasmaBurst.label>плазменный выстрел</GR_PlasmaBurst.label>
+  <!-- EN:plasma burst -->
+  <GR_Distortion.label>пространственное искажение</GR_Distortion.label>
+  <!-- EN:spatial distortion -->
+  <GR_SmokeBomb.label>дымовая шашка</GR_SmokeBomb.label>
+  <!-- EN:smokepop shell -->
+  <GR_FireSpit.label>огненный плевок</GR_FireSpit.label>
+  <!-- EN:fire spit -->
+  <GR_IncendiaryMote.label>зажигательный снаряд</GR_IncendiaryMote.label>
+  <!-- EN:incendiary bolt -->
+  <GR_SniperFlechette.label>снайперская флешетта</GR_SniperFlechette.label>
+  <!-- EN:sniper flechette -->
+  <GR_RazorProjectile.label>бритвенная коса</GR_RazorProjectile.label>
+  <!-- EN:razor scythe -->
+  <GR_Laser.label>лазерный луч</GR_Laser.label>
+  <!-- EN:laser beam -->
+  <GR_Disintegrator.label>дезинтегрирующий луч</GR_Disintegrator.label>
+  <!-- EN:disintegrator beam -->
+  <GR_StunBolt.label>оглушающий снаряд</GR_StunBolt.label>
+  <!-- EN:stun bolt -->
+  <GR_PoisonBlast.label>ядовитый взрыв</GR_PoisonBlast.label>
+  <!-- EN:poison blast -->
+  <GR_HairballProjectile.label>ком шерсти</GR_HairballProjectile.label>
+  <!-- EN:hairball -->
+  <GR_GreatHairballProjectile.label>большой ком шерсти</GR_GreatHairballProjectile.label>
+  <!-- EN:greater hairball -->
+  <GR_CryoBlast.label>криовзрыв</GR_CryoBlast.label>
+  <!-- EN:cryo blast -->
+  <GR_Warhead.label>гранульный снаряд</GR_Warhead.label>
+  <!-- EN:antigrain warhead -->
+  <GR_PoisonBreath.label>ядовитое дыхание</GR_PoisonBreath.label>
+  <!-- EN:poison breath -->
+
+
+</LanguageData>

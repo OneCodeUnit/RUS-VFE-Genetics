@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_GenoframeAwfulRecipe.label>Create Genoframe (Awful)</GR_GenoframeAwfulRecipe.label>
+  <GR_GenoframeAwfulRecipe.description>Create an awful quality genoframe from an animal corpse.</GR_GenoframeAwfulRecipe.description>
+  <GR_GenoframeAwfulRecipe.jobString>Creating genoframe</GR_GenoframeAwfulRecipe.jobString>
+
+  <GR_GenoframePoorRecipe.label>Create Genoframe (Poor)</GR_GenoframePoorRecipe.label>
+  <GR_GenoframePoorRecipe.description>Create a poor quality genoframe from two awful quality genoframes.</GR_GenoframePoorRecipe.description>
+  <GR_GenoframePoorRecipe.jobString>Creating genoframe</GR_GenoframePoorRecipe.jobString>
+
+  <GR_GenoframeNormalRecipe.label>Create Genoframe (Normal)</GR_GenoframeNormalRecipe.label>
+  <GR_GenoframeNormalRecipe.description>Create a normal quality genoframe from two poor quality genoframes.</GR_GenoframeNormalRecipe.description>
+  <GR_GenoframeNormalRecipe.jobString>Creating genoframe</GR_GenoframeNormalRecipe.jobString>
+
+  <GR_GenoframeGoodRecipe.label>Create Genoframe (Good)</GR_GenoframeGoodRecipe.label>
+  <GR_GenoframeGoodRecipe.description>Create a good quality genoframe from two normal quality genoframes.</GR_GenoframeGoodRecipe.description>
+  <GR_GenoframeGoodRecipe.jobString>Creating genoframe</GR_GenoframeGoodRecipe.jobString>
+
+  <GR_GenoframeExcellentRecipe.label>Create Genoframe (Excellent)</GR_GenoframeExcellentRecipe.label>
+  <GR_GenoframeExcellentRecipe.description>Create an excellent quality genoframe from two good quality genoframes.</GR_GenoframeExcellentRecipe.description>
+  <GR_GenoframeExcellentRecipe.jobString>Creating genoframe</GR_GenoframeExcellentRecipe.jobString>
+
+  <GR_GenoframeMasterworkRecipe.label>Create Genoframe (Masterwork)</GR_GenoframeMasterworkRecipe.label>
+  <GR_GenoframeMasterworkRecipe.description>Create a masterwork quality genoframe from two excellent quality genoframes.</GR_GenoframeMasterworkRecipe.description>
+  <GR_GenoframeMasterworkRecipe.jobString>Creating genoframe</GR_GenoframeMasterworkRecipe.jobString>
+
+  <GR_GenoframeLegendaryRecipe.label>Create Genoframe (Legendary)</GR_GenoframeLegendaryRecipe.label>
+  <GR_GenoframeLegendaryRecipe.description>Create a legendary quality genoframe from two masterwork quality genoframes.</GR_GenoframeLegendaryRecipe.description>
+  <GR_GenoframeLegendaryRecipe.jobString>Creating genoframe</GR_GenoframeLegendaryRecipe.jobString>
+
+
+</LanguageData>

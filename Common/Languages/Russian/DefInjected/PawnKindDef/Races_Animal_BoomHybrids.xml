@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Boomalope - Bear -->
+
+  <GR_Boomabear.label>бумедведь</GR_Boomabear.label>
+  <GR_Boomabear.labelPlural>бумедведи</GR_Boomabear.labelPlural>
+  <GR_Boomabear.lifeStages.0.label>бумедведь-телёнок</GR_Boomabear.lifeStages.0.label>
+  <GR_Boomabear.lifeStages.0.labelPlural>бумедведи-телята</GR_Boomabear.lifeStages.0.labelPlural>
+  <GR_Boomabear.lifeStages.0.labelMale>бумедведь-телёнок, самец</GR_Boomabear.lifeStages.0.labelMale>
+  <GR_Boomabear.lifeStages.0.labelMalePlural>бумедведи-телята, самцы</GR_Boomabear.lifeStages.0.labelMalePlural>
+  <GR_Boomabear.lifeStages.0.labelFemale>female boomabear calf</GR_Boomabear.lifeStages.0.labelFemale>
+  <GR_Boomabear.lifeStages.0.labelFemalePlural>бумедведи-телята, самки</GR_Boomabear.lifeStages.0.labelFemalePlural>
+  <GR_Boomabear.lifeStages.1.label>молодой бумедведь</GR_Boomabear.lifeStages.1.label>
+  <GR_Boomabear.lifeStages.1.labelPlural>молодые бумедведи</GR_Boomabear.lifeStages.1.labelPlural>
+  <GR_Boomabear.lifeStages.1.labelMale>молодой бумедведь самец</GR_Boomabear.lifeStages.1.labelMale>
+  <GR_Boomabear.lifeStages.1.labelMalePlural>молодые бумедведи самцы</GR_Boomabear.lifeStages.1.labelMalePlural>
+  <GR_Boomabear.lifeStages.1.labelFemale>молодая бумедведица</GR_Boomabear.lifeStages.1.labelFemale>
+  <GR_Boomabear.lifeStages.1.labelFemalePlural>молодые бумедведицы</GR_Boomabear.lifeStages.1.labelFemalePlural>
+  <GR_Boomabear.lifeStages.2.label>бумедведь</GR_Boomabear.lifeStages.2.label>
+  <GR_Boomabear.lifeStages.2.labelPlural>boomabear</GR_Boomabear.lifeStages.2.labelPlural>
+  <GR_Boomabear.lifeStages.2.labelMale>бумедведь самец</GR_Boomabear.lifeStages.2.labelMale>
+  <GR_Boomabear.lifeStages.2.labelMalePlural>бумедведи самцы</GR_Boomabear.lifeStages.2.labelMalePlural>
+  <GR_Boomabear.lifeStages.2.labelFemale>бумедведица</GR_Boomabear.lifeStages.2.labelFemale>
+  <GR_Boomabear.lifeStages.2.labelFemalePlural>бумедведицы</GR_Boomabear.lifeStages.2.labelFemalePlural>
+  <GR_Boomabear.labelMale>бумедведь самец</GR_Boomabear.labelMale>
+  <GR_Boomabear.labelMalePlural>бумедведь самец</GR_Boomabear.labelMalePlural>
+  <GR_Boomabear.labelFemale>бумедведица</GR_Boomabear.labelFemale>
+  <GR_Boomabear.labelFemalePlural>бумедведица</GR_Boomabear.labelFemalePlural>
+
+
+  <!-- Boomalope - Chicken -->
+
+  <GR_Boomachicken.label>бумкурица</GR_Boomachicken.label>
+  <GR_Boomachicken.labelPlural>бумкурицы</GR_Boomachicken.labelPlural>
+  <GR_Boomachicken.lifeStages.0.label>бумцыплёнок</GR_Boomachicken.lifeStages.0.label>
+  <GR_Boomachicken.lifeStages.0.labelPlural>бумцыплята</GR_Boomachicken.lifeStages.0.labelPlural>
+  <GR_Boomachicken.lifeStages.0.labelMale>бумцыплёнок-самец</GR_Boomachicken.lifeStages.0.labelMale>
+  <GR_Boomachicken.lifeStages.0.labelMalePlural>бумцыплята-самцы</GR_Boomachicken.lifeStages.0.labelMalePlural>
+  <GR_Boomachicken.lifeStages.0.labelFemale>бумцыплёнок-самка</GR_Boomachicken.lifeStages.0.labelFemale>
+  <GR_Boomachicken.lifeStages.0.labelFemalePlural>бумцыплята-самки</GR_Boomachicken.lifeStages.0.labelFemalePlural>
+  <GR_Boomachicken.lifeStages.1.label>молодая бумкурица</GR_Boomachicken.lifeStages.1.label>
+  <GR_Boomachicken.lifeStages.1.labelPlural>молодые бумкурицы</GR_Boomachicken.lifeStages.1.labelPlural>
+  <GR_Boomachicken.lifeStages.1.labelMale>молодой бумпетух</GR_Boomachicken.lifeStages.1.labelMale>
+  <GR_Boomachicken.lifeStages.1.labelMalePlural>молодые бумпетухи</GR_Boomachicken.lifeStages.1.labelMalePlural>
+  <GR_Boomachicken.lifeStages.1.labelFemale>молодая бумкурица</GR_Boomachicken.lifeStages.1.labelFemale>
+  <GR_Boomachicken.lifeStages.1.labelFemalePlural>молодые бумкурицы</GR_Boomachicken.lifeStages.1.labelFemalePlural>
+  <GR_Boomachicken.lifeStages.2.label>бумкурица</GR_Boomachicken.lifeStages.2.label>
+  <GR_Boomachicken.lifeStages.2.labelPlural>бумкурицы</GR_Boomachicken.lifeStages.2.labelPlural>
+  <GR_Boomachicken.lifeStages.2.labelMale>бумпетух</GR_Boomachicken.lifeStages.2.labelMale>
+  <GR_Boomachicken.lifeStages.2.labelMalePlural>бумпетухи</GR_Boomachicken.lifeStages.2.labelMalePlural>
+  <GR_Boomachicken.lifeStages.2.labelFemale>бумкурица</GR_Boomachicken.lifeStages.2.labelFemale>
+  <GR_Boomachicken.lifeStages.2.labelFemalePlural>бумкурицы</GR_Boomachicken.lifeStages.2.labelFemalePlural>
+  <GR_Boomachicken.labelMale>бумпетух</GR_Boomachicken.labelMale>
+  <GR_Boomachicken.labelMalePlural>бумпетухи</GR_Boomachicken.labelMalePlural>
+  <GR_Boomachicken.labelFemale>бумкурица</GR_Boomachicken.labelFemale>
+  <GR_Boomachicken.labelFemalePlural>бумкурицы</GR_Boomachicken.labelFemalePlural>
+
+
+  <!-- Boomalope - Muffalo -->
+
+  <GR_Boomffalo.label>бумфало</GR_Boomffalo.label>
+  <GR_Boomffalo.labelPlural>бумфало</GR_Boomffalo.labelPlural>
+  <GR_Boomffalo.lifeStages.0.label>телёнок бумфало</GR_Boomffalo.lifeStages.0.label>
+  <GR_Boomffalo.lifeStages.0.labelPlural>телята бумфало</GR_Boomffalo.lifeStages.0.labelPlural>
+  <GR_Boomffalo.lifeStages.0.labelMale>телёнок бумфало-самец</GR_Boomffalo.lifeStages.0.labelMale>
+  <GR_Boomffalo.lifeStages.0.labelMalePlural>телята бумфало-самцы</GR_Boomffalo.lifeStages.0.labelMalePlural>
+  <GR_Boomffalo.lifeStages.0.labelFemale>телёнок бумфало-самка</GR_Boomffalo.lifeStages.0.labelFemale>
+  <GR_Boomffalo.lifeStages.0.labelFemalePlural>телята бумфало-самки</GR_Boomffalo.lifeStages.0.labelFemalePlural>
+  <GR_Boomffalo.lifeStages.1.label>молодой бумфало</GR_Boomffalo.lifeStages.1.label>
+  <GR_Boomffalo.lifeStages.1.labelPlural>молодые бумфало</GR_Boomffalo.lifeStages.1.labelPlural>
+  <GR_Boomffalo.lifeStages.1.labelMale>молодой бумфало-самец</GR_Boomffalo.lifeStages.1.labelMale>
+  <GR_Boomffalo.lifeStages.1.labelMalePlural>молодые бумфало-самцы</GR_Boomffalo.lifeStages.1.labelMalePlural>
+  <GR_Boomffalo.lifeStages.1.labelFemale>молодая бумфало-самка</GR_Boomffalo.lifeStages.1.labelFemale>
+  <GR_Boomffalo.lifeStages.1.labelFemalePlural>молодые бумфало-самки</GR_Boomffalo.lifeStages.1.labelFemalePlural>
+  <GR_Boomffalo.lifeStages.2.label>бумфало</GR_Boomffalo.lifeStages.2.label>
+  <GR_Boomffalo.lifeStages.2.labelPlural>бумфало</GR_Boomffalo.lifeStages.2.labelPlural>
+  <GR_Boomffalo.lifeStages.2.labelMale>самец бумфало</GR_Boomffalo.lifeStages.2.labelMale>
+  <GR_Boomffalo.lifeStages.2.labelMalePlural>самцы бумфало</GR_Boomffalo.lifeStages.2.labelMalePlural>
+  <GR_Boomffalo.lifeStages.2.labelFemale>самка бумфало</GR_Boomffalo.lifeStages.2.labelFemale>
+  <GR_Boomffalo.lifeStages.2.labelFemalePlural>самки бумфало</GR_Boomffalo.lifeStages.2.labelFemalePlural>
+  <GR_Boomffalo.labelMale>самец бумфало</GR_Boomffalo.labelMale>
+  <GR_Boomffalo.labelMalePlural>самцы бумфало</GR_Boomffalo.labelMalePlural>
+  <GR_Boomffalo.labelFemale>самка бумфало</GR_Boomffalo.labelFemale>
+  <GR_Boomffalo.labelFemalePlural>самки бумфало</GR_Boomffalo.labelFemalePlural>
+
+
+  <!-- Boomalope - Wolf -->
+
+  <GR_Boomwolf.label>бумаволк</GR_Boomwolf.label>
+  <GR_Boomwolf.labelPlural>бумаволки</GR_Boomwolf.labelPlural>
+  <GR_Boomwolf.lifeStages.0.label>бумволчонок</GR_Boomwolf.lifeStages.0.label>
+  <GR_Boomwolf.lifeStages.0.labelPlural>бумволчата</GR_Boomwolf.lifeStages.0.labelPlural>
+  <GR_Boomwolf.lifeStages.0.labelMale>щенок бумаволка-самец</GR_Boomwolf.lifeStages.0.labelMale>
+  <GR_Boomwolf.lifeStages.0.labelMalePlural>щенки бумаволка-самцы</GR_Boomwolf.lifeStages.0.labelMalePlural>
+  <GR_Boomwolf.lifeStages.0.labelFemale>щенок бумаволка-самка</GR_Boomwolf.lifeStages.0.labelFemale>
+  <GR_Boomwolf.lifeStages.0.labelFemalePlural>щенки бумаволка-самки</GR_Boomwolf.lifeStages.0.labelFemalePlural>
+  <GR_Boomwolf.lifeStages.1.label>молодой бумаволк</GR_Boomwolf.lifeStages.1.label>
+  <GR_Boomwolf.lifeStages.1.labelPlural>молодые бумаволки</GR_Boomwolf.lifeStages.1.labelPlural>
+  <GR_Boomwolf.lifeStages.1.labelMale>молодой бумаволк</GR_Boomwolf.lifeStages.1.labelMale>
+  <GR_Boomwolf.lifeStages.1.labelMalePlural>молодые бумаволки</GR_Boomwolf.lifeStages.1.labelMalePlural>
+  <GR_Boomwolf.lifeStages.1.labelFemale>молодая бумволчица</GR_Boomwolf.lifeStages.1.labelFemale>
+  <GR_Boomwolf.lifeStages.1.labelFemalePlural>молодые бумволчицы</GR_Boomwolf.lifeStages.1.labelFemalePlural>
+  <GR_Boomwolf.lifeStages.2.label>бумаволк</GR_Boomwolf.lifeStages.2.label>
+  <GR_Boomwolf.lifeStages.2.labelPlural>бумаволки</GR_Boomwolf.lifeStages.2.labelPlural>
+  <GR_Boomwolf.lifeStages.2.labelMale>самец бумаволка</GR_Boomwolf.lifeStages.2.labelMale>
+  <GR_Boomwolf.lifeStages.2.labelMalePlural>самцы бумаволка</GR_Boomwolf.lifeStages.2.labelMalePlural>
+  <GR_Boomwolf.lifeStages.2.labelFemale>самка бумаволка</GR_Boomwolf.lifeStages.2.labelFemale>
+  <GR_Boomwolf.lifeStages.2.labelFemalePlural>самки бумаволка</GR_Boomwolf.lifeStages.2.labelFemalePlural>
+  <GR_Boomwolf.labelMale>бумаволк</GR_Boomwolf.labelMale>
+  <GR_Boomwolf.labelMalePlural>бумаволки</GR_Boomwolf.labelMalePlural>
+  <GR_Boomwolf.labelFemale>бумволчица</GR_Boomwolf.labelFemale>
+  <GR_Boomwolf.labelFemalePlural>бумволчицы</GR_Boomwolf.labelFemalePlural>
+
+
+  <!-- Boomalope - Rodent -->
+
+  <GR_Boomsquirrel.label>бумбелка</GR_Boomsquirrel.label>
+  <GR_Boomsquirrel.labelPlural>бумбелки</GR_Boomsquirrel.labelPlural>
+  <GR_Boomsquirrel.lifeStages.0.label>бумбельчёнок</GR_Boomsquirrel.lifeStages.0.label>
+  <GR_Boomsquirrel.lifeStages.0.labelPlural>бумбельчата</GR_Boomsquirrel.lifeStages.0.labelPlural>
+  <GR_Boomsquirrel.lifeStages.0.labelMale>бумбельчонок-самец</GR_Boomsquirrel.lifeStages.0.labelMale>
+  <GR_Boomsquirrel.lifeStages.0.labelMalePlural>бумбельчата-самцы</GR_Boomsquirrel.lifeStages.0.labelMalePlural>
+  <GR_Boomsquirrel.lifeStages.0.labelFemale>бумбельчонок-самка</GR_Boomsquirrel.lifeStages.0.labelFemale>
+  <GR_Boomsquirrel.lifeStages.0.labelFemalePlural>бумбельчата-самки</GR_Boomsquirrel.lifeStages.0.labelFemalePlural>
+  <GR_Boomsquirrel.lifeStages.1.label>молодая бумбелка</GR_Boomsquirrel.lifeStages.1.label>
+  <GR_Boomsquirrel.lifeStages.1.labelPlural>молодые бумбелки</GR_Boomsquirrel.lifeStages.1.labelPlural>
+  <GR_Boomsquirrel.lifeStages.1.labelMale>молодая бумбелка-самец</GR_Boomsquirrel.lifeStages.1.labelMale>
+  <GR_Boomsquirrel.lifeStages.1.labelMalePlural>молодые бумбелки-самцы</GR_Boomsquirrel.lifeStages.1.labelMalePlural>
+  <GR_Boomsquirrel.lifeStages.1.labelFemale>молодая бумбелка-самка</GR_Boomsquirrel.lifeStages.1.labelFemale>
+  <GR_Boomsquirrel.lifeStages.1.labelFemalePlural>молодые бумбелки-самки</GR_Boomsquirrel.lifeStages.1.labelFemalePlural>
+  <GR_Boomsquirrel.lifeStages.2.label>бумбелка</GR_Boomsquirrel.lifeStages.2.label>
+  <GR_Boomsquirrel.lifeStages.2.labelPlural>бумбелки</GR_Boomsquirrel.lifeStages.2.labelPlural>
+  <GR_Boomsquirrel.lifeStages.2.labelMale>бумбелка-самец</GR_Boomsquirrel.lifeStages.2.labelMale>
+  <GR_Boomsquirrel.lifeStages.2.labelMalePlural>бумбелки-самцы</GR_Boomsquirrel.lifeStages.2.labelMalePlural>
+  <GR_Boomsquirrel.lifeStages.2.labelFemale>бумбелка-самка</GR_Boomsquirrel.lifeStages.2.labelFemale>
+  <GR_Boomsquirrel.lifeStages.2.labelFemalePlural>бумбелки-самки</GR_Boomsquirrel.lifeStages.2.labelFemalePlural>
+  <GR_Boomsquirrel.labelMale>бумбелка-самец</GR_Boomsquirrel.labelMale>
+  <GR_Boomsquirrel.labelMalePlural>бумбелки-самцы</GR_Boomsquirrel.labelMalePlural>
+  <GR_Boomsquirrel.labelFemale>бумбелка-самка</GR_Boomsquirrel.labelFemale>
+  <GR_Boomsquirrel.labelFemalePlural>бумбелки-самки</GR_Boomsquirrel.labelFemalePlural>
+
+
+  <!-- Boomalope - Cat -->
+
+  <GR_Boomcat.label>бумкошка</GR_Boomcat.label>
+  <GR_Boomcat.labelPlural>бумкошки</GR_Boomcat.labelPlural>
+  <GR_Boomcat.lifeStages.0.label>бумкотёнок</GR_Boomcat.lifeStages.0.label>
+  <GR_Boomcat.lifeStages.0.labelPlural>бумкотята</GR_Boomcat.lifeStages.0.labelPlural>
+  <GR_Boomcat.lifeStages.0.labelMale>бумкотёнок-самец</GR_Boomcat.lifeStages.0.labelMale>
+  <GR_Boomcat.lifeStages.0.labelMalePlural>бумкотята-самцы</GR_Boomcat.lifeStages.0.labelMalePlural>
+  <GR_Boomcat.lifeStages.0.labelFemale>бумкотёнок-самка</GR_Boomcat.lifeStages.0.labelFemale>
+  <GR_Boomcat.lifeStages.0.labelFemalePlural>бумкотята-самки</GR_Boomcat.lifeStages.0.labelFemalePlural>
+  <GR_Boomcat.lifeStages.1.label>молодая бумкошка</GR_Boomcat.lifeStages.1.label>
+  <GR_Boomcat.lifeStages.1.labelPlural>молодые бумкошки</GR_Boomcat.lifeStages.1.labelPlural>
+  <GR_Boomcat.lifeStages.1.labelMale>молодой бумкот</GR_Boomcat.lifeStages.1.labelMale>
+  <GR_Boomcat.lifeStages.1.labelMalePlural>молодые бумкоты</GR_Boomcat.lifeStages.1.labelMalePlural>
+  <GR_Boomcat.lifeStages.1.labelFemale>молодая бумкошка</GR_Boomcat.lifeStages.1.labelFemale>
+  <GR_Boomcat.lifeStages.1.labelFemalePlural>молодые бумкошки</GR_Boomcat.lifeStages.1.labelFemalePlural>
+  <GR_Boomcat.lifeStages.2.label>бумкошка</GR_Boomcat.lifeStages.2.label>
+  <GR_Boomcat.lifeStages.2.labelPlural>бумкошки</GR_Boomcat.lifeStages.2.labelPlural>
+  <GR_Boomcat.lifeStages.2.labelMale>бумкот</GR_Boomcat.lifeStages.2.labelMale>
+  <GR_Boomcat.lifeStages.2.labelMalePlural>бумкоты</GR_Boomcat.lifeStages.2.labelMalePlural>
+  <GR_Boomcat.lifeStages.2.labelFemale>бумкошка</GR_Boomcat.lifeStages.2.labelFemale>
+  <GR_Boomcat.lifeStages.2.labelFemalePlural>бумкошки</GR_Boomcat.lifeStages.2.labelFemalePlural>
+  <GR_Boomcat.labelMale>бумкот</GR_Boomcat.labelMale>
+  <GR_Boomcat.labelMalePlural>бумкоты</GR_Boomcat.labelMalePlural>
+  <GR_Boomcat.labelFemale>бумкошка</GR_Boomcat.labelFemale>
+  <GR_Boomcat.labelFemalePlural>бумкошки</GR_Boomcat.labelFemalePlural>
+
+
+  <!-- Boomalope - Humanoid -->
+
+  <GR_Booman.label>бумавек</GR_Booman.label>
+  <GR_Booman.labelPlural>бумалюди</GR_Booman.labelPlural>
+  <GR_Booman.lifeStages.0.label>бумладенец</GR_Booman.lifeStages.0.label>
+  <GR_Booman.lifeStages.0.labelPlural>бумладенцы</GR_Booman.lifeStages.0.labelPlural>
+  <GR_Booman.lifeStages.0.labelMale>бумладенец мальчик</GR_Booman.lifeStages.0.labelMale>
+  <GR_Booman.lifeStages.0.labelMalePlural>бумладенцы мальчики</GR_Booman.lifeStages.0.labelMalePlural>
+  <GR_Booman.lifeStages.0.labelFemale>бумладенец девочка</GR_Booman.lifeStages.0.labelFemale>
+  <GR_Booman.lifeStages.0.labelFemalePlural>бумладенцы девочки</GR_Booman.lifeStages.0.labelFemalePlural>
+  <GR_Booman.lifeStages.1.label>молодой бумавек</GR_Booman.lifeStages.1.label>
+  <GR_Booman.lifeStages.1.labelPlural>молодые бумалюди</GR_Booman.lifeStages.1.labelPlural>
+  <GR_Booman.lifeStages.1.labelMale>бумавек</GR_Booman.lifeStages.1.labelMale>
+  <GR_Booman.lifeStages.1.labelMalePlural>бумалюди</GR_Booman.lifeStages.1.labelMalePlural>
+  <GR_Booman.lifeStages.1.labelFemale>молодая бумаженщина</GR_Booman.lifeStages.1.labelFemale>
+  <GR_Booman.lifeStages.1.labelFemalePlural>молодые бумаженщины</GR_Booman.lifeStages.1.labelFemalePlural>
+  <GR_Booman.lifeStages.2.label>бумавек</GR_Booman.lifeStages.2.label>
+  <GR_Booman.lifeStages.2.labelPlural>бумалюди</GR_Booman.lifeStages.2.labelPlural>
+  <GR_Booman.lifeStages.2.labelMale>бумавек</GR_Booman.lifeStages.2.labelMale>
+  <GR_Booman.lifeStages.2.labelMalePlural>бумалюди</GR_Booman.lifeStages.2.labelMalePlural>
+  <GR_Booman.lifeStages.2.labelFemale>бумаженщина</GR_Booman.lifeStages.2.labelFemale>
+  <GR_Booman.lifeStages.2.labelFemalePlural>бумаженщины</GR_Booman.lifeStages.2.labelFemalePlural>
+  <GR_Booman.labelMale>бумавек</GR_Booman.labelMale>
+  <GR_Booman.labelMalePlural>бумалюди</GR_Booman.labelMalePlural>
+  <GR_Booman.labelFemale>бумаженщина</GR_Booman.labelFemale>
+  <GR_Booman.labelFemalePlural>бумаженщины</GR_Booman.labelFemalePlural>
+
+
+</LanguageData>

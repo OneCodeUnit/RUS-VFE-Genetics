@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: insectoid bioengineering -->
+  <GR_InsectoidBioengineering.label>биопроектирование инсектоидов</GR_InsectoidBioengineering.label>
+  <!-- EN: Construct the bio-engineering incubator to create new lab-grown insectoids. -->
+  <GR_InsectoidBioengineering.description>Биоинженерный инкубатор позволит выращивать инсектоидов.</GR_InsectoidBioengineering.description>
+  
+</LanguageData>

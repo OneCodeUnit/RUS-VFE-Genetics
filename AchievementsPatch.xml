@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementMyFirstLab</defName>
+							<label>Baby's First Genetics Lab</label>
+							<description>Build your first Genomorpher</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementItLives</defName>
+							<label>It Lives!</label>
+							<description>Successfully hatch your first hybrid from an electrowomb</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementBearlyPossible</defName>
+							<label>Bearly Possible</label>
+							<description>Get all seven Tier 1 Bear Hybrids</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementOKBoomer</defName>
+							<label>OK, Boomer</label>
+							<description>Get all seven Tier 1 Boomalope Hybrids</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementPshPsh</defName>
+							<label>Psh Psh</label>
+							<description>Get all seven Tier 1 Cat Hybrids</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementHastaLaPollo</defName>
+							<label>Hasta la Pollo</label>
+							<description>Get all seven Tier 1 Chicken Hybrids</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementMooSquad</defName>
+							<label>Moo Squad</label>
+							<description>Get all seven Tier 1 Muffalo Hybrids</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementPestProblems</defName>
+							<label>Pest Problems</label>
+							<description>Get all seven Tier 1 Rodent / Leporid Hybrids</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementK9Units</defName>
+							<label>K9 Units</label>
+							<description>Get all seven Tier 1 Wolf Hybrids</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementCommonPeople</defName>
+							<label>Common People</label>
+							<description>Get all seven Tier 1 Humanoid Hybrids</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementTopOfTheClass</defName>
+							<label>Top of the Class</label>
+							<description>Hatch a Paragon creature</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementImDoingMyPart</defName>
+							<label>I'm doing my part</label>
+							<description>Hatch a Tier 2 Insectoid Hybrid</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementLizardPeople</defName>
+							<label>Lizard People</label>
+							<description>Hatch a Tier 2 Reptilian Hybrid</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementDerby</defName>
+							<label>Derby</label>
+							<description>Hatch a Tier 2 Equine Hybrid</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementSmarterThanYou</defName>
+							<label>Smarter Than You</label>
+							<description>Hatch a Tier 3 Thrumbo Hybrid</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementWeHaveTheTechnology</defName>
+							<label>We Have the Technology</label>
+							<description>Convert a paragon into a Mechanoid Hybrid</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementTaskFailedSuccessfully</defName>
+							<label>Task Failed Successfully</label>
+							<description>Hatch an Aberrant Fleshbeast in an experiment gone wrong</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementHomemadeThrumboians</defName>
+							<label>Homemade Thrumboians</label>
+							<description>Install a Thrumbo horn humanoid implant</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementPremiumWarcrimes</defName>
+							<label>Premium Warcrimes</label>
+							<description>Have a single pawn with muffalo mammaries and an ovipositor</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementKawaii</defName>
+							<label>Yippee-ki-kawaii, motherfucker!</label>
+							<description>Install two bunny ear implants in a single pawn</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementPolePosition</defName>
+							<label>Pole Position</label>
+							<description>Install a total of 6 elephant legs on a single animal</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementWarmAndFuzzy</defName>
+							<label>Warm and Fuzzy</label>
+							<description>Craft any item out of Luxuriant Hybrid Wool</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementMlizard</defName>
+							<label>M'lizard</label>
+							<description>Craft a cowboy hat out of hybrid scales</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementMixingItUp</defName>
+							<label>Doubling It Up</label>
+							<description>Use a Recombinator to get a template genome</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementChipping</defName>
+							<label>Chipping it up</label>
+							<description>Acquire a mechanoid chip from an abandoned lab</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementSuperiorTech</defName>
+							<label>Superior Technology</label>
+							<description>Acquire an archotech genome excavator from an abandoned lab</description>
+
+						<AchievementsExpanded.AchievementDef ParentName="GR_AchievementParent">
+							<defName>GR_AchievementOnePedeToRuleThemAll</defName>
+							<label>One 'Pede To Rule Them All</label>
+							<description>Create an Archotech Centipede and win the game</description>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_RoamingMonstrosities.label>бродячие чудовища</GR_RoamingMonstrosities.label>
+  <!-- EN: roaming monstrosities -->
+  <GR_RoamingMonstrosities.description>Вот, что бывает, когда генетические эксперименты идут вразнос несколько столетий подряд. Орды обезумевших от голода и мутаций представляют собой угрозу для всех без исключения на этой планете.</GR_RoamingMonstrosities.description>
+  <!-- EN:The effect of hundreds of years of genetic experimentation running amok. Hordes of ravenous, maddened genetic aberrations are a threat to anyone in this planet. -->
+  <GR_RoamingMonstrosities.fixedName>бродячие чудовища</GR_RoamingMonstrosities.fixedName>
+  <GR_RoamingMonstrosities.pawnsPlural>бродячие чудовища</GR_RoamingMonstrosities.pawnsPlural>
+
+
+</LanguageData>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wolf - Bear -->
+
+  <GR_Wolfbear.label>волкодведь</GR_Wolfbear.label>
+  <!-- EN:wolfbear -->
+  <GR_Wolfbear.description>Мощный здоровяк с сильными лапами, острыми зубами и скверным характером. Может показаться милым, особенно когда он радостно повизгивая пытается вылизать вам лицо. Но ни о какой «милоте» не может идти и речи, когда эти лапы прижимают вас к земле, а челюсти разрывают вам горло.\n\nСобачий гибрид с рецессивными генами медведя. Превосходит своих прародителей по физической силе, аггрессии и аппетиту. Особенно опасен из-за своей привычки пытаться оторвать жертве голову.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Все собачьи гибриды обладают способностью «Выброс Адреналина», которая позволяет им двигаться с 200% скоростью, но делает существо уставшим на протяжении примерно полусуток. Волковеди обладают 25% шансом нанести удар по голове противника, с риском обезглавливания последнего. Здорово, правда?</GR_Wolfbear.description>
+  <!-- EN:A massively muscled boi with strong claws, sharper teeth and a mean attitude. Adorable when it’s trying to jump you to lick your face, less so when those same paws are trying to restrain you so it can bite your head off.\n\nA canine hybrid with recessive ursine genes. Stronger, more aggressive and with a bigger appetite, this hybrid’s particular lethality comes from its tendency to attack the enemy’s head to try and decapitate them.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. There is a 25% chance that wolfbear attacks will target its victim's head, possibly decapitating enemies. Fun! -->
+  <GR_Wolfbear.tools.0.label>когти на левой лапе</GR_Wolfbear.tools.0.label>
+  <!-- EN: -->
+  <GR_Wolfbear.tools.1.label>когти на правой лапе</GR_Wolfbear.tools.1.label>
+  <!-- EN: -->
+  <GR_Wolfbear.tools.3.label>голова</GR_Wolfbear.tools.3.label>
+  <!-- EN: -->
+
+
+  <!-- Wolf - Boomalope -->
+
+  <GR_Wolfalope.label>волколопа</GR_Wolfalope.label>
+  <!-- EN:wolfalope -->
+  <GR_Wolfalope.description>Какому-то безумцу пришла в его безумную голову «отличная» идея прикрепить к собаке огнемёт, выпустить её на волю и посмотреть, что из этого выйдет. Не удивляйтесь, если этот гибрид устроит лесной пожар, охотясь за зайцем.\n\nСобачий гибрид с рецессивными генами бумалопы. Немного менее сообразительный, чем его родственники. Всё дело в необходимости неосознанно контроллировать сложный процесс производства и выделения химтоплива. Отлично подходят, чтобы посеять панику в рядах противника из-за своей проворности и способностью атаковать на расстоянии. canine hybrid with recessive boomalope genes. A bit more dim-witted compared to their baseline, due to a large amount of brain processing power dedicated to the complex internal organs that permit it to spit out burning chemfuel. Excellent flankers thanks to their increased speed and ranged ability.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Все собачьи гибриды обладают способностью «Выброс Адреналина», которая позволяет им двигаться с 200% скоростью, но делает существо уставшим на протяжении примерно полусуток.</GR_Wolfalope.description>
+  <!-- EN:Some insane madman thought it would be an excellent idea to strap a flamethrower to a dog and send it out into the world to see what happens. Don’t be surprised to find out this unusual hybrid started a massive forest fire trying to hunt a rabbit.\n\nA canine hybrid with recessive boomalope genes. A bit more dim-witted compared to their baseline, due to a large amount of brain processing power dedicated to the complex internal organs that permit it to spit out burning chemfuel. Excellent flankers thanks to their increased speed and ranged ability.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. -->
+  <GR_Wolfalope.tools.0.label>когти на левой лапе</GR_Wolfalope.tools.0.label>
+  <!-- EN:left claw -->
+  <GR_Wolfalope.tools.1.label>когти на правой лапе</GR_Wolfalope.tools.1.label>
+  <!-- EN:right claw -->
+  <GR_Wolfalope.tools.3.label>голова</GR_Wolfalope.tools.3.label>
+  <!-- EN:head -->
+  <GR_Wolfalope.verbs.0.label>огненное дыхание</GR_Wolfalope.verbs.0.label>
+  <!-- EN:fire breath -->
+
+
+  <!-- Wolf - Chicken -->
+
+  <GR_Wolfchicken.label>волкоцып</GR_Wolfchicken.label>
+  <!-- EN:wolfchicken -->
+  <GR_Wolfchicken.description>Мало кто задумывается о том, насколько ужасающе свирепыми существами могут быть обычные домашние курицы. Будучи голодными они могут поедать себе подобных, или даже расковыривать собственные раны. А теперь представьте себе такое существо, но обладающее телом волка - идеального охотника. То, что они являются вегетарианцами делает их только опаснее. Как бы вам понравилось учуять что-то вкусненькое, но не иметь возможности съесть это? То-то же.\n\nСобачий гибрид с рецессивными генами пернатых. Проворные и грязные, требуют особого ухода, так как они плохо приспособлены к низким температурам. Волчье тело раскрывает убийственный потенциал всей врождённой безжалостности курицы. Почуяв кровь они просто так  не остановятся.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Все собачьи гибриды обладают способностью «Выброс Адреналина», которая позволяет им двигаться с 200% скоростью, но делает существо уставшим на протяжении примерно полусуток. Кровавая ярость: после убийства добычи волкоцып в течение ближайшего часа будет двигаться на 200% быстрее.</GR_Wolfchicken.description>
+  <!-- EN:Not many people are familiar with just how vicious a chicken can be, with them even going so far to pick at their own wounds or actively eating each other if hungry. Combining that with the sleek hunting form of a wolf and making them vegetarian creates a deadly combo. You’d go mad too if you smelled something delicious but couldn’t stomach eating it.\n\nA canine hybrid with recessive avian genes. Very quick on their feet and very filthy, care must be taken as they are far less suited to cold temperatures. The inherent viciousness of chickens has been combined with a proper combat form, vastly boosting their speed after killing its prey.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. Blood frenzy ability: after killing prey, the wolfchicken receives 200% speed for an hour. -->
+  <GR_Wolfchicken.tools.0.label>когти на левой лапе</GR_Wolfchicken.tools.0.label>
+  <!-- EN:left claw -->
+  <GR_Wolfchicken.tools.1.label>когти на правой лапе</GR_Wolfchicken.tools.1.label>
+  <!-- EN:right claw -->
+  <GR_Wolfchicken.tools.3.label>голова</GR_Wolfchicken.tools.3.label>
+  <!-- EN:head -->
+
+
+  <!-- Wolf - Muffalo -->
+
+  <GR_Wolffalo.label>волффало</GR_Wolffalo.label>
+  <!-- EN:wolffalo -->
+  <GR_Wolffalo.description>Не такие умные, как большинство собачьих гибридов, но всё ещё достаточно сообразительные, чтобы не убредать далеко от поселения. Любой не по наслышке знакомый с линяющими породами собак, почувствует себя в знакомой ситуации, ухаживая за этими гибридами. Заведите себе волффало и всё будет покрыто шерстью. Вообще всё. Даже молоко, которое они дают, и в нём будет плавать шерсть.\n\nСобачий гибрид с рецессивными генами муффало. Первоклассный источник шерсти и молока, к сожалению, полного этой самой шерсти, которая, к слову, позволяет им переживать даже самые суровые зимы. К недостаткам относятся: крайняя нечистоплотность, черезмерный аппетит и очень низкий интеллект.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Все собачьи гибриды обладают способностью «Выброс Адреналина», которая позволяет им двигаться с 200% скоростью, но делает существо уставшим на протяжении примерно полусуток.</GR_Wolffalo.description>
+  <!-- EN:While they make for a completely daft canine hybrid, they’re still smart enough not to wander off. Anyone familiar with dogs that shed enough to make another animal will feel right at home with this hybrid. Even the milk it produces comes already laden with hair for your displeasure!\n\nA canine hybrid with recessive muffalo genes. A great producer of thick wool and, regrettably, hairy milk. This allows them to survive in even more extreme colds, but they frequently make a mess, lack most of their intellect and need to eat a lot.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards.-->
+  <GR_Wolffalo.tools.0.label>когти на левой лапе</GR_Wolffalo.tools.0.label>
+  <!-- EN:left claw -->
+  <GR_Wolffalo.tools.1.label>когти на правой лапе</GR_Wolffalo.tools.1.label>
+  <!-- EN:right claw -->
+  <GR_Wolffalo.tools.2.label>голова</GR_Wolffalo.tools.2.label>
+  <!-- EN:head -->
+
+
+  <!-- Wolf - Rodent -->
+
+  <GR_Wolfbeaver.label>волкобобр</GR_Wolfbeaver.label>
+  <!-- EN: -->
+  <GR_Wolfbeaver.description>Превосходный образец того, что впоследствии стало альфабобром. Эти зверьки обладают поистине безумным аппетитом и постоянно растущими зубами, которые им приходится стачивать об деревья. Так что либо задумайтесь о том, чтобы вырастить рощу специально для них, либо перебирайтесь в джунгли, потому что плодятся они не хуже кроликов.\n\nСобачий гибрид с рецессивными генами грызуна. Отличаются коротким сроком гестации, очень умные, быстрые и смертельные. Расплачиваться за это приходится их неутолимым голодом по отношению к деревьям, благодаря родственным связям с другими грызунами, обладающими теми же предпочтениями.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Все собачьи гибриды обладают способностью «Выброс Адреналина», которая позволяет им двигаться с 200% скоростью, но делает существо уставшим на протяжении примерно полусуток.</GR_Wolfbeaver.description>
+  <!-- EN: -->
+  <GR_Wolfbeaver.tools.0.label>когти на левой лапе</GR_Wolfbeaver.tools.0.label>
+  <!-- EN:left claw -->
+  <GR_Wolfbeaver.tools.1.label>когти на правой лапе</GR_Wolfbeaver.tools.1.label>
+  <!-- EN:right claw -->
+  <GR_Wolfbeaver.tools.3.label>голова</GR_Wolfbeaver.tools.3.label>
+  <!-- EN:head -->
+
+
+  <!-- Wolf - Cat -->
+
+  <GR_Wolfcat.label>волкот</GR_Wolfcat.label>
+  <!-- EN:wolfcat -->
+  <GR_Wolfcat.description>Кошки и собаки делят пальму первенства как милейшие прирученные хищники, известные человеку. Рано или поздно кому-то пришло в голову посмотреть что выйдет из попытки соединить их в единое целое. Результат легко себе представить.\n\nСобачий гибрид с рецессивными кошачьими генами. Быстрый, смертоносный, не нуждающийся в особом уходе, но при этом стремящийся к обществу человека. И как будто этого было мало, зачастую этот гибрид может быть вдвойне опасен - за счёт острых когтей и клыков.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Все собачьи гибриды обладают способностью «Выброс Адреналина», которая позволяет им двигаться с 200% скоростью, но делает существо уставшим на протяжении примерно полусуток. Как и остальные кошачьи гибриды, они опасны в ближнем бою за счёт способности к уклонению, что делает их идеальным выбором для передовой. Кроме того они будут ластиться к поселенцам, повышая их настроение. Двойной удар: 25% атак этого существа будут двойными..</GR_Wolfcat.description>
+  <!-- EN:Dogs and cats are domesticated predators who are just the absolute cutest. So someone wanted to see how dangerous they could make something by combining these two proto predators. The results could be imagined but we’ll let them speak for themselves.\n\nA canine hybrid with recessive feline genes. A combination of two predators makes for an incredible loyal killing machine. Quick, lethal, low maintenance and a desire for companionship. If that wasn’t already enough, it can even randomly attack twice by lunging with both claws and teeth.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All canine hybrids get the Adrenaline rush ability, which allows them to move at 200% speed for a short time, but be tired and move slower for half a day afterwards. Like all cat hybrids, they have an improved melee dodge ability and a short nuzzle period. Double slash: 25% of the time its attacks will strike twice. -->
+  <GR_Wolfcat.tools.0.label>когти на левой лапе</GR_Wolfcat.tools.0.label>
+  <!-- EN:left claw -->  
+  <GR_Wolfcat.tools.1.label>когти на правой лапе</GR_Wolfcat.tools.1.label>
+  <!-- EN:right claw -->
+  <GR_Wolfcat.tools.3.label>голова</GR_Wolfcat.tools.3.label>
+  <!-- EN:head -->
+
+
+  <!-- Dog - Humanoid -->
+
+  <GR_Dogman.label>собаколюд</GR_Dogman.label>
+  <!-- EN:dogman -->
+  <GR_Dogman.description>Давайте-ка вспомним, кто там у нас лучший друг человека? Собака? А может быть другой человек? Задумывались ли вы о том, что складки на коже собаки могут послужить своего рода карманами? А что если спрятать там нож? Сможет ли собака пользоваться этим ножом? Этот гибрид сможет ответить на эти и другие вопросы. Скорее всего ответ будет необоснованно жестоким. Но он будет.\n\nСобачий гибрид с рецессивными генами человека. Очень умный гибрид, способный не только поддержать разговор, но и даже иногда подчиняться командам. Например если речь идёт о том, чтобы убить другое животное.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Гуманоидные гибриды будут периодически общаться с поселенцами на разные темы. Это удовлетворяет потребность поселенцев в общении на 10% (так же, как и с другими типами развлечений, их эффективность будет снижаться от повторения). Если используется дополнение Ideology, то идеи в поселении будут влиять и на гуманоидных гибридов. Собаколюды будут периодически подчиняться командам и будут убивать других прирученных животных, если это необходимо.</GR_Dogman.description>
+  <!-- EN:Man’s best friend who is also himself? Have you ever thought that the folds on a dog’s skin can act almost as pockets? What if those folds held a knife and the dog could wield it? Well look no further, as this pup will answer those questions with violence.\n\nA canine hybrid with recessive humanoid genes. A smart hybrid capable of holding conversations with their technical superiors and will sometimes obey commands to slaughter other tamed colony animals.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Humanoid hybrids will periodically engage other colonists in conversation, talking about a variety of topics. This increases the social recreation needs of those they interact with by 10% (subject to diminishing returns like all joy types). If using Ideology, humanoid hybrids are subject to precepts. Dogmen will periodically obey commands to slaughter other colony (tamed) animals. -->
+  <GR_Dogman.tools.0.label>когти на левой лапе</GR_Dogman.tools.0.label>
+  <!-- EN:left claw -->
+  <GR_Dogman.tools.1.label>когти на правой лапе</GR_Dogman.tools.1.label>
+  <!-- EN:right claw -->
+  <GR_Dogman.tools.3.label>голова</GR_Dogman.tools.3.label>
+  <!-- EN:head -->
+
+
+</LanguageData>

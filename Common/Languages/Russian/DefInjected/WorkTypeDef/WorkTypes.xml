@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_Genetics.label>генетика</GR_Genetics.label>
+  <!-- EN:genetics -->
+  <GR_Genetics.description>Заниматься исследованиями в области генетики.</GR_Genetics.description>
+  <!-- EN:Perform genetics research work. -->
+  <GR_Genetics.labelShort>генетика</GR_Genetics.labelShort>
+  <!-- EN:genetics -->
+  <GR_Genetics.pawnLabel>Учёный-генетик</GR_Genetics.pawnLabel>
+  <!-- EN:Genetic researcher -->
+  <GR_Genetics.gerundLabel>занимается генетическими исследованиями</GR_Genetics.gerundLabel>
+  <!-- EN:researching genetics -->
+  <GR_Genetics.verb>Занимается генетическими исследованиями на</GR_Genetics.verb>
+  <!-- EN:Research genetics at -->
+
+
+</LanguageData>

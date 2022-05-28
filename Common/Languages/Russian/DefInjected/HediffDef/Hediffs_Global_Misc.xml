@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_RecentlyHatched.label>{0} {0_gender ? недавно вылупился : недавно вылупилась }</GR_RecentlyHatched.label> 
+  <!-- EN:recently hatched -->
+  <GR_RecentlyHatched.description>Это существо недавно вылупилось в инкубаторе.</GR_RecentlyHatched.description>
+  <!-- EN: This creature has recently hatched from an incubator. -->
+
+  <GR_ExtractedBrain.label>извлечён мозг</GR_ExtractedBrain.label>
+  <!-- EN:brain extracted -->
+  <GR_ExtractedBrain.description>Мозг, или нервный центр этого создания был вынут и переработан в генетический материал.</GR_ExtractedBrain.description>
+  <!-- EN:The brain or neural center of this creature has been extracted and refined into genetic material. -->
+
+  <GR_LowRest.label>низкая потребность во сне</GR_LowRest.label>
+  <!-- EN:needs very little sleep -->
+  <GR_LowRest.description>Это существо не нуждается в длительных периодах сна и может бодроствовать длительное время.</GR_LowRest.description>
+  <!-- EN:This creature has very little need for sleep, and can stay awake for a long time. -->
+
+  <GR_VeryLowRest.label>очень низкая потребность во сне</GR_VeryLowRest.label>
+  <!-- EN:needs very little sleep -->
+  <GR_VeryLowRest.description>У этого существа почти отсутствует потребность в сне и оно может бодроствовать очень длительное время.</GR_VeryLowRest.description>
+  <!-- EN:This creature has very little need for sleep, and can stay awake for a long time. -->
+
+  <GR_PackTactics.label>стайное поведение</GR_PackTactics.label>
+  <!-- EN:pack tactics -->
+  <GR_PackTactics.description>Этот гибрид привлекает близлежащих муфаволков, чтобы загнать добычу стаей.</GR_PackTactics.description>
+  <!-- EN:This hybrid is collaborating with other nearby muffalowolves to bring down prey. -->
+
+  <GR_PackTacticsBuff.label>стайное поведение</GR_PackTacticsBuff.label>
+  <!-- EN:pack tactics -->
+  <GR_PackTacticsBuff.description>Этот гибрид привлекает близлежащих муфаволков, чтобы загнать добычу стаей.</GR_PackTacticsBuff.description>
+  <!-- EN:This hybrid is collaborating with other nearby muffalowolves to bring down prey. -->
+
+  <GR_ResearchDrive.label>исследовательский раж</GR_ResearchDrive.label>
+  <!-- EN: -->
+  <GR_ResearchDrive.description>Предложить находящимся поблизости исследователям идеи, позволяя им осуществить прорыв в их работе.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; «‎Коллеги, задумывались ли вы о том, чтобы отказаться от человечности и вернуться в обезьянность? Пища для размышлений.»</GR_ResearchDrive.description>
+  <!-- EN:Offer investigative insights to nearby researches, allowing them to more easily reach a breakthrough.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; "My fellow scientist, have you considered rejecting humanity, and returning to monkey? Food for thought". -->
+
+  <GR_ResearchDriveBuff.label>исследовательский раж</GR_ResearchDriveBuff.label>
+  <!-- EN: -->
+  <GR_ResearchDriveBuff.description>Была предложены идеи для исследований.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; «‎Коллеги, задумывались ли вы о том, чтобы отказаться от человечности и вернуться в обезьянность? Пища для размышлений.»</GR_ResearchDriveBuff.description>
+  <!-- EN: -->
+
+  <GR_BloodFrenzy.label>жертва кровавой ярости</GR_BloodFrenzy.label>
+  <!-- EN:victim of blood frenzy -->
+  <GR_BloodFrenzy.description>Это создание стало жертвой безумной яростной атаки.</GR_BloodFrenzy.description>
+  <!-- EN:This creature has been victim of a frenzied attack. -->
+
+  <GR_RabidSlash.label>жертва бешеного разреза</GR_RabidSlash.label>
+  <!-- EN:victim of rabid slash -->
+  <GR_RabidSlash.description>Это создание стало жертвой бешеного разреза.</GR_RabidSlash.description>
+  <!-- EN:This creature has been victim of a rabid slash. -->
+
+  <GR_Frenzied.label>ярость</GR_Frenzied.label>
+  <!-- EN:frenzied -->
+  <GR_Frenzied.description>Запах крови врага ввёл это существо в состояние безумия.</GR_Frenzied.description>
+  <!-- EN:The smell of its enemies' blood has filled this hybrid with a frenzy. -->
+
+  <GR_ToxicDamage.label>токсическое поражение</GR_ToxicDamage.label>
+  <!-- EN:toxic damage -->
+  <GR_ToxicDamage.description>Наличие токсинов в циркулирующей крови. Они могут поступать из разных источников, включая окружающую среду, укусы ядовитых животных или отравленное оружие. 
+\nВ высоких концентрациях это летально, в малых дозах же, это вызывает злокачественные опухоли.
+\nВ отличие от случаев обычных отравлений, мясо существ, погибших от повреждения токсинами может быть употреблено в пищу.</GR_ToxicDamage.description>
+<!-- EN:Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with toxic damage can be eaten. -->
+  <GR_ToxicDamage.stages.0.label>начальное-скрытое</GR_ToxicDamage.stages.0.label>
+  <!-- EN:initial-hidden -->
+  <GR_ToxicDamage.stages.1.label>начальное</GR_ToxicDamage.stages.1.label>
+  <!-- EN:initial -->
+  <GR_ToxicDamage.stages.2.label>слабое</GR_ToxicDamage.stages.2.label>
+  <!-- EN:minor -->
+  <GR_ToxicDamage.stages.3.label>среднее</GR_ToxicDamage.stages.3.label>
+  <!-- EN:moderate -->
+  <GR_ToxicDamage.stages.4.label>серьёзное</GR_ToxicDamage.stages.4.label>
+  <!-- EN:serious -->
+  <GR_ToxicDamage.stages.5.label>критическое</GR_ToxicDamage.stages.5.label>
+  <!-- EN:extreme -->
+
+  <GR_HairballDamage.label>удушение</GR_HairballDamage.label>
+  <!-- EN:suffocating damage -->
+  <GR_HairballDamage.description>Это существо удушают генетически изменённые комки шерсти. Это влияет на способность существа к дыханию и может вызвать потерю сознания.</GR_HairballDamage.description>
+  <!-- EN:Genetically altered hairballs are suffocating this creature. This negatively affects breathing and can even cause unconsciousness. -->
+  <GR_HairballDamage.stages.0.label>начальное-скрытое</GR_HairballDamage.stages.0.label>
+  <!-- EN:initial-hidden -->
+  <GR_HairballDamage.stages.1.label>начальное</GR_HairballDamage.stages.1.label>
+  <!-- EN:initial -->
+  <GR_HairballDamage.stages.2.label>слабое</GR_HairballDamage.stages.2.label>
+  <!-- EN:minor -->
+  <GR_HairballDamage.stages.3.label>среднее</GR_HairballDamage.stages.3.label>
+  <!-- EN:moderate -->
+  <GR_HairballDamage.stages.4.label>серьёзное</GR_HairballDamage.stages.4.label>
+  <!-- EN: serious-->
+  <GR_HairballDamage.stages.5.label>критическое</GR_HairballDamage.stages.5.label>
+  <!-- EN:extreme -->
+  <GR_HairballDamage.stages.6.label>тошнотворное</GR_HairballDamage.stages.6.label>
+  <!-- EN:nauseating -->
+
+  <GR_Kamikaze.label>спонтанная детонация</GR_Kamikaze.label>
+  <!-- EN:sudden detonation -->
+  <GR_Kamikaze.description>Бум.</GR_Kamikaze.description>
+  <!-- EN:Boom. -->
+  <GR_Kamikaze.stages.0.label>начальное-скрытое</GR_Kamikaze.stages.0.label>
+  <!-- EN:initial-hidden -->
+  <GR_Kamikaze.stages.1.label>критическое</GR_Kamikaze.stages.1.label>
+  <!-- EN:critical -->
+
+  <GR_AdrenalineBurst.label>выброс адреналина</GR_AdrenalineBurst.label>
+  <!-- EN:adrenaline rush -->
+  <GR_AdrenalineBurst.description>Выброс адреналина значительно увеличивает скорость гибрида на ограниченный период, но потребуется некоторое время, прежде чем он может быть использован повторно.</GR_AdrenalineBurst.description>
+  <!-- EN:Adrenaline rush greatly increases the speed of the hybrid for a while, and then it needs to be recharged to be used again. -->
+  <GR_AdrenalineBurst.stages.1.label>истощение</GR_AdrenalineBurst.stages.1.label>
+  <!-- EN:exhausted -->
+
+  <GR_Stamina.label>увеличенный запас сил</GR_Stamina.label>
+  <!-- EN:increased stamina -->
+  <GR_Stamina.description>Значительно увеличивает болевой порог и устойчивость к урону у гибрида. Перед повторным использованием должно пройти некоторое время. </GR_Stamina.description>
+  <!-- EN:Increased stamina greatly increases the armor and pain resistance of the hybrid for a while, and then it needs to be recharged to be used again. -->
+  <GR_Stamina.stages.1.label>истощение</GR_Stamina.stages.1.label>
+  <!-- EN:exhausted -->
+
+  <GR_CatReflexes.label>кошачьи рефлексы</GR_CatReflexes.label>
+  <!-- EN:cat reflexes -->
+  <GR_CatReflexes.description>Делает существо более ловким, увеличивая его шансы увернуться от удара в рукопашном бою. Перед повторным использованием должно пройти некоторое время.</GR_CatReflexes.description>
+  <!-- EN:Cat reflexes greatly increases the speed and melee dodge chance of the hybrid for a while, and then it needs to be recharged to be used again. -->
+  <GR_CatReflexes.stages.1.label>истощение</GR_CatReflexes.stages.1.label>
+  <!-- EN:exhausted -->
+
+  <GR_KeenSenses.label>чутьё</GR_KeenSenses.label>
+  <!-- EN:keen senses -->
+  <GR_KeenSenses.description>Делает существо более внимательным к своему окружению, улучшает его боевые качества. (Влияет на зрение, шанс на удар и уровень сознания). Перед повторным использованием должно пройти некоторое время.</GR_KeenSenses.description>
+  <!-- EN: Keen senses greatly increases sight and conciousness of the hybrid for a while, and then it needs to be recharged to be used again. -->
+  <GR_KeenSenses.stages.1.label>истощение</GR_KeenSenses.stages.1.label>
+  <!-- EN: exhausted -->
+
+  <GR_InsectClouds.label>выпускает облако насекомых</GR_InsectClouds.label>
+  <!-- EN: releasing insect clouds -->
+  <GR_InsectClouds.description>Окутывает существо облаком насекомых, которые будут атаковать любое приблизившееся существо, кроме образцов насекомых. Перед повторным использованием должно пройти некоторое время.</GR_InsectClouds.description>
+  <!-- EN: Releases insect clouds that damage anyone crossing through them, except insectoids, and then it needs to be recharged to be used again. -->
+  <GR_InsectClouds.stages.1.label>передышка</GR_InsectClouds.stages.1.label>
+  <!-- EN: recovering -->
+
+  <GR_Burrowing.label>зарывается под землю</GR_Burrowing.label>
+  <!-- EN: burrowing underground -->
+  <GR_Burrowing.description>Существо закапывает себя под землю, становясь на некоторое время намного более устойчивым к урону. Перед повторным использованием должно пройти некоторое время.</GR_Burrowing.description>
+  <!-- EN: Burrows underground to be able to move while being almost impervious to attacks. This ability needs to be recharged to be used again. -->
+  <GR_Burrowing.stages.1.label>передышка</GR_Burrowing.stages.1.label>
+  <!-- EN: recovering -->
+
+  <GR_Stampeding.label>бегство</GR_Stampeding.label>
+  <!-- EN:stampeding -->
+  <GR_Stampeding.description>Существо начинает двигаться значительно быстрее и двигаясь, поднимает облака пыли, которые скрывают его от дальнобойного оружия. Перед повторным использованием должно пройти некоторое время.</GR_Stampeding.description>
+  <!-- EN:The stampeding ability increases the hybrid's speed and releases clouds of dust that block ranged visibility. Once used, this ability needs to be recharged to be used again. -->
+  <GR_Stampeding.stages.1.label>передышка</GR_Stampeding.stages.1.label>
+  <!-- EN: recovering -->
+
+  <GR_CausedPoisonCloud.label>{0} {0_gender ? выпустил : выпустила }газовое облако</GR_CausedPoisonCloud.label>
+  <!-- EN:recently released poison cloud -->
+  <GR_CausedPoisonCloud.description>Выпускает облако газа, наносящее урон каждому, кто через него проходит, за исключением рептилий. Перед повторным использованием должно пройти некоторое время.</GR_CausedPoisonCloud.description>
+  <!-- EN:Releases a poison cloud that harms anyone passing through it, except reptilians, and then it needs to be recharged to be used again. -->
+  <GR_CausedPoisonCloud.stages.0.label>передышка</GR_CausedPoisonCloud.stages.0.label>
+  <!-- EN:recovering -->
+
+  <GR_CausedHorror.label>{0} {0_gender ? вызвал : вызвала } безумие Того-Что-Человек-Не-Должен-Познать</GR_CausedHorror.label>
+  <!-- EN: recently invoked the insanity of That Which Man Is Not Meant to Know -->
+  <GR_CausedHorror.description>Выпускает облако, которое вызывает потерю рассудка у каждого, кто в него попадает. Перед повторным использованием должно пройти некоторое время.</GR_CausedHorror.description>
+  <!-- EN:Releases an insanity cloud that reduces sanity of anyone passing through it, and then it needs to be recharged to be used again. -->
+  <GR_CausedHorror.stages.0.label>передышка</GR_CausedHorror.stages.0.label>
+  <!-- EN: recovery -->
+
+  <GR_VentedExhaust.label>{0} {0_gender ? выпустил : выпустила } перегретый газ</GR_VentedExhaust.label>
+  <!-- EN: recently vented exhaust gasses -->
+  <GR_VentedExhaust.description>Выпускает выхлопные газы в радиусе одной клетки, обжигая каждого, кому не повезло оказаться поблизости. Перед повторным использованием должно пройти некоторое время.</GR_VentedExhaust.description>
+  <!-- EN: Vents exhaust fumes on the 8 adjacent tiles, burning anyone unlucky enough to be in melee, and then it needs to be recharged to be used again. -->
+  <GR_VentedExhaust.stages.0.label>передышка</GR_VentedExhaust.stages.0.label>
+  <!-- EN: -->
+
+  <GR_NoPain.label>пониженная болевая чувствительность</GR_NoPain.label>
+  <!-- EN:no pain sensitivity -->
+  <GR_NoPain.description>У этого гибрида снижена болевая чувствительность и он останется на ногах значительно дольше.</GR_NoPain.description>
+  <!-- EN:This hybrid has a reduced pain sensitivity, and it takes longer to be downed due to pain. -->
+
+  <GR_MeleeDodge.label>уклонение в рукопашной</GR_MeleeDodge.label>
+  <!-- EN:melee dodging -->
+  <GR_MeleeDodge.description>Этот гибрид крайне проворен и обладает значительным бонусом к возможности уклонения в рукопашном бою.</GR_MeleeDodge.description>
+  <!-- EN:This hybrid is very agile and receives a considerable bonus to melee dodge. -->
+
+  <GR_SadisticAdrenaline.label>адреналин садиста</GR_SadisticAdrenaline.label>
+  <!-- EN:sadistic adrenaline -->
+  <GR_SadisticAdrenaline.description>Ящеролюд только что хладнокровно убил пленника, высвободив смесь гормонов, делающих ящера быстрее и сильнее. Эффект продержится ближайшие несколько часов.</GR_SadisticAdrenaline.description>
+  <!-- EN:The lizardman has slaughtered a colony prisoner in cold blood, triggering the release of a potent hormone complex that is making it faster and stronger. This will last for a few hours. -->
+
+  <GR_DistortionHediff.label>искажение</GR_DistortionHediff.label>
+  <!-- EN:warping -->
+  <GR_DistortionHediff.description>Эта часть тела была черезвычайно сильно искажена из-за воздействия локального искривления пространства. Искажение очень болезненно и как правило искажённые части тела оказываются потерянными.</GR_DistortionHediff.description>
+  <!-- EN:This body part has been terribly warped by being exposed to a dangerous spatial distortion. Warping is very painful, and warped body parts are often lost. -->
+  <GR_DistortionHediff.comps.0.labelTendedWell>перевязано</GR_DistortionHediff.comps.0.labelTendedWell>
+  <!-- EN:bandaged -->
+  <GR_DistortionHediff.comps.0.labelTendedWellInner>оказана помощь</GR_DistortionHediff.comps.0.labelTendedWellInner>
+  <!-- EN:tended -->
+  <GR_DistortionHediff.comps.0.labelSolidTendedWell>оказана помощь</GR_DistortionHediff.comps.0.labelSolidTendedWell>
+  <!-- EN:tended -->
+  <GR_DistortionHediff.injuryProps.destroyedLabel>Потеряно из-за искажения</GR_DistortionHediff.injuryProps.destroyedLabel>
+  <!-- EN:Lost to warping -->
+
+  <GR_PermanentBurn.label>перманентный ожог</GR_PermanentBurn.label>
+  <!-- EN:permanent burn -->
+  <GR_PermanentBurn.description>Перманентный шрам от ожога, который не может быть исцелён.</GR_PermanentBurn.description>
+  <!-- EN:A permanent burn scar that cannot be treated. -->
+  <GR_PermanentBurn.injuryProps.destroyedLabel>Потеряно из-за ожога</GR_PermanentBurn.injuryProps.destroyedLabel>
+  <!-- EN:Burned off -->
+  <GR_PermanentBurn.injuryProps.destroyedOutLabel>Выгорело</GR_PermanentBurn.injuryProps.destroyedOutLabel>
+  <!-- EN:Burned out -->
+  <GR_PermanentBurn.labelNoun>перманентный ожог</GR_PermanentBurn.labelNoun>
+  <!-- EN:a permanent burn -->
+
+  <GR_HighlyFlammable.label>легко воспламеняется</GR_HighlyFlammable.label>
+  <!-- EN:highly flammable -->
+  <GR_HighlyFlammable.description>Это существо очень быстро погибнет, если его поджечь.</GR_HighlyFlammable.description>
+  <!-- EN:This creature will die quickly if set on fire. -->
+
+
+</LanguageData>

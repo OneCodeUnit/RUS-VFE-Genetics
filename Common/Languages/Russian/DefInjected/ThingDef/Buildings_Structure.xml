@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Walls -->
+
+  <GR_RustedWallA.label>проржавевшая стена лаборатории</GR_RustedWallA.label>
+  <!-- EN:rusted laboratory wall -->
+  <GR_RustedWallA.description>Непроходимая стена. Достаточно крепка, чтобы поддерживать крышу.</GR_RustedWallA.description>
+  <!-- EN:An impassable wall. Capable of holding up a roof. -->
+
+  <GR_RustedWallB.label>проржавевшая стена лаборатории</GR_RustedWallB.label>
+  <!-- EN:rusted laboratory wall -->
+  <GR_RustedWallB.description>Непроходимая стена. Достаточно крепка, чтобы поддерживать крышу.</GR_RustedWallB.description>
+  <!-- EN:An impassable wall. Capable of holding up a roof. -->
+
+  <GR_MechLabWall.label>стена лаборатории механоидов</GR_MechLabWall.label>
+  <!-- EN:mech laboratory wall -->
+  <GR_MechLabWall.description>Непроходимая стена. Достаточно крепка, чтобы поддерживать крышу.</GR_MechLabWall.description>
+  <!-- EN:An impassable wall. Capable of holding up a roof. -->
+
+  <GR_LabDoor.label>дверь лаборатории</GR_LabDoor.label>
+  <!-- EN:lab door -->
+  <GR_LabDoor.description>Простая дверь, которую нужно открывать и закрывать вручную. Время открывания и закрывания зависит от материала изготовления.</GR_LabDoor.description>
+  <!-- EN:Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+
+
+</LanguageData>

@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chicken - Bear -->
+
+  <GR_Chickenbear.label>куриный медведь</GR_Chickenbear.label>
+  <!-- EN:chickenbear -->
+  <GR_Chickenbear.labelPlural>куриные медведи</GR_Chickenbear.labelPlural>
+  <!-- EN:chickenbears -->
+  <GR_Chickenbear.lifeStages.0.label>медведоцыплёнок</GR_Chickenbear.lifeStages.0.label>
+  <!-- EN:chickenbear chick -->
+  <GR_Chickenbear.lifeStages.0.labelPlural>медведоцыплята</GR_Chickenbear.lifeStages.0.labelPlural>
+  <!-- EN:chickenbear chicks -->
+  <GR_Chickenbear.lifeStages.0.labelMale>самец медведоцыплёнка</GR_Chickenbear.lifeStages.0.labelMale>
+  <!-- EN:male chickenbear chick -->
+  <GR_Chickenbear.lifeStages.0.labelMalePlural>самцы медведоцыплёнка</GR_Chickenbear.lifeStages.0.labelMalePlural>
+  <!-- EN:male chickenbear chicks -->
+  <GR_Chickenbear.lifeStages.0.labelFemale>самка медведоцыплёнка</GR_Chickenbear.lifeStages.0.labelFemale>
+  <!-- EN:female chickenbear chick -->
+  <GR_Chickenbear.lifeStages.0.labelFemalePlural>самки медведоцыплёнка</GR_Chickenbear.lifeStages.0.labelFemalePlural>
+  <!-- EN:female chickenbear chicks -->
+  <GR_Chickenbear.lifeStages.1.label>молодой куриный медведь</GR_Chickenbear.lifeStages.1.label>
+  <!-- EN:chickenbear -->
+  <GR_Chickenbear.lifeStages.1.labelPlural>молодой куриный медведь</GR_Chickenbear.lifeStages.1.labelPlural>
+  <!-- EN:chickenbear -->
+  <GR_Chickenbear.lifeStages.1.labelMale>молодой куриный медведь-петух</GR_Chickenbear.lifeStages.1.labelMale>
+  <!-- EN:chickenbear cockerel -->
+  <GR_Chickenbear.lifeStages.1.labelMalePlural>молодые куриные медведи-петухи</GR_Chickenbear.lifeStages.1.labelMalePlural>
+  <!-- EN:chickenbear cockerels -->
+  <GR_Chickenbear.lifeStages.1.labelFemale>молодая куриная медведица</GR_Chickenbear.lifeStages.1.labelFemale>
+  <!-- EN:chickenbear hen -->
+  <GR_Chickenbear.lifeStages.1.labelFemalePlural>молодые куриные медведицы</GR_Chickenbear.lifeStages.1.labelFemalePlural>
+  <!-- EN:female chickenbears -->
+  <GR_Chickenbear.lifeStages.2.label>куриный медведь</GR_Chickenbear.lifeStages.2.label>
+  <!-- EN:chickenbear -->
+  <GR_Chickenbear.lifeStages.2.labelPlural>куриные медведи</GR_Chickenbear.lifeStages.2.labelPlural>
+  <!-- EN:chickenbear -->
+  <GR_Chickenbear.lifeStages.2.labelMale>куриный медведь-петух</GR_Chickenbear.lifeStages.2.labelMale>
+  <!-- EN:chickenbear rooster -->
+  <GR_Chickenbear.lifeStages.2.labelMalePlural>куриные медведи-петухи</GR_Chickenbear.lifeStages.2.labelMalePlural>
+  <!-- EN:male chickenbears -->
+  <GR_Chickenbear.lifeStages.2.labelFemale>куриная медведица</GR_Chickenbear.lifeStages.2.labelFemale>
+  <!-- EN:chickenbear hen -->
+  <GR_Chickenbear.lifeStages.2.labelFemalePlural>куриная медведица</GR_Chickenbear.lifeStages.2.labelFemalePlural>
+  <!-- EN:female chickenbears -->
+  <GR_Chickenbear.labelMale>куриный медведь-петух</GR_Chickenbear.labelMale>
+  <!-- EN:chickenbear rooster -->
+  <GR_Chickenbear.labelMalePlural>куриные медведи-петухи</GR_Chickenbear.labelMalePlural>
+  <!-- EN:chickenbear roosters -->
+  <GR_Chickenbear.labelFemale>куриная медведица</GR_Chickenbear.labelFemale>
+  <!-- EN:chickenbear hen -->
+  <GR_Chickenbear.labelFemalePlural>куриные медведицы</GR_Chickenbear.labelFemalePlural>
+  <!-- EN:chickenbear hens -->
+
+
+  <!-- Chicken - Boomalope -->
+
+  <GR_Chickenlope.label>куролопа</GR_Chickenlope.label>
+  <!-- EN:chickenlope -->
+  <GR_Chickenlope.labelPlural>куролопы</GR_Chickenlope.labelPlural>
+  <!-- EN:chickenlopes -->
+  <GR_Chickenlope.lifeStages.0.label>цыплёнок куролопы</GR_Chickenlope.lifeStages.0.label>
+  <!-- EN:chickenlope chick -->
+  <GR_Chickenlope.lifeStages.0.labelPlural>цыплята куролопы</GR_Chickenlope.lifeStages.0.labelPlural>
+  <!-- EN:chickenlope chicks -->
+  <GR_Chickenlope.lifeStages.0.labelMale>цыплёнок-самец куролопы</GR_Chickenlope.lifeStages.0.labelMale>
+  <!-- EN:male chickenlope chick -->
+  <GR_Chickenlope.lifeStages.0.labelMalePlural>цыплята-самцы куролопы</GR_Chickenlope.lifeStages.0.labelMalePlural>
+  <!-- EN:male chickenlope chicks -->
+  <GR_Chickenlope.lifeStages.0.labelFemale>цыплёнок-самка куролопы</GR_Chickenlope.lifeStages.0.labelFemale>
+  <!-- EN:female chickenlope chick -->
+  <GR_Chickenlope.lifeStages.0.labelFemalePlural>цыплята-самки куролопы</GR_Chickenlope.lifeStages.0.labelFemalePlural>
+  <!-- EN:female chickenlope chicks -->
+  <GR_Chickenlope.lifeStages.1.label>молодая куролопа</GR_Chickenlope.lifeStages.1.label>
+  <!-- EN:chickenlope -->
+  <GR_Chickenlope.lifeStages.1.labelPlural>молодые куролопы</GR_Chickenlope.lifeStages.1.labelPlural>
+  <!-- EN:chickenlope -->
+  <GR_Chickenlope.lifeStages.1.labelMale>молодой самец куралопы</GR_Chickenlope.lifeStages.1.labelMale>
+  <!-- EN:chickenlope cockerel -->
+  <GR_Chickenlope.lifeStages.1.labelMalePlural>молодые самцы куралопы</GR_Chickenlope.lifeStages.1.labelMalePlural>
+  <!-- EN:chickenlope cockerels -->
+  <GR_Chickenlope.lifeStages.1.labelFemale>молодая самка куралопы</GR_Chickenlope.lifeStages.1.labelFemale>
+  <!-- EN:chickenlope hen -->
+  <GR_Chickenlope.lifeStages.1.labelFemalePlural>молодые самки куралопы</GR_Chickenlope.lifeStages.1.labelFemalePlural>
+  <!-- EN:female chickenlopes -->
+  <GR_Chickenlope.lifeStages.2.label>куралопа</GR_Chickenlope.lifeStages.2.label>
+  <!-- EN: chickenlope -->
+  <GR_Chickenlope.lifeStages.2.labelPlural>куралопы</GR_Chickenlope.lifeStages.2.labelPlural>
+  <!-- EN:chickenlope -->
+  <GR_Chickenlope.lifeStages.2.labelMale>куралопа-петух</GR_Chickenlope.lifeStages.2.labelMale>
+  <!-- EN:chickenlope rooster -->
+  <GR_Chickenlope.lifeStages.2.labelMalePlural>куралопы-петухи</GR_Chickenlope.lifeStages.2.labelMalePlural>
+  <!-- EN:male chickenlopes -->
+  <GR_Chickenlope.lifeStages.2.labelFemale>самка куралопы</GR_Chickenlope.lifeStages.2.labelFemale>
+  <!-- EN:chickenlope hen -->
+  <GR_Chickenlope.lifeStages.2.labelFemalePlural>самки куралопы</GR_Chickenlope.lifeStages.2.labelFemalePlural>
+  <!-- EN:female chickenlopes -->
+  <GR_Chickenlope.labelMale>куралопа-петух</GR_Chickenlope.labelMale>
+  <!-- EN:chickenlope rooster -->
+  <GR_Chickenlope.labelMalePlural>куралопы-петухи</GR_Chickenlope.labelMalePlural>
+  <!-- EN:chickenlope roosters -->
+  <GR_Chickenlope.labelFemale>самка куралопы</GR_Chickenlope.labelFemale>
+  <!-- EN:chickenlope hen -->
+  <GR_Chickenlope.labelFemalePlural>самки куралопы</GR_Chickenlope.labelFemalePlural>
+  <!-- EN:chickenlope hens -->
+
+
+  <!-- Chicken - Muffalo -->
+
+  <GR_Chickenffalo.label>курфалло</GR_Chickenffalo.label>
+  <!-- EN:chickenffalo -->
+  <GR_Chickenffalo.labelPlural>курфалло</GR_Chickenffalo.labelPlural>
+  <!-- EN:chickenffalos -->
+  <GR_Chickenffalo.lifeStages.0.label>цыплёнок курфалло</GR_Chickenffalo.lifeStages.0.label>
+  <!-- EN:chickenffalo chick -->
+  <GR_Chickenffalo.lifeStages.0.labelPlural>цыплята курфалло</GR_Chickenffalo.lifeStages.0.labelPlural>
+  <!-- EN:chickenffalo chicks -->
+  <GR_Chickenffalo.lifeStages.0.labelMale>цыплёнок курфалло-самец</GR_Chickenffalo.lifeStages.0.labelMale>
+  <!-- EN:male chickenffalo chick -->
+  <GR_Chickenffalo.lifeStages.0.labelMalePlural>цыплята курфалло-самцы</GR_Chickenffalo.lifeStages.0.labelMalePlural>
+  <!-- EN:male chickenffalo chicks -->
+  <GR_Chickenffalo.lifeStages.0.labelFemale>цыплёнок курфалло-самка</GR_Chickenffalo.lifeStages.0.labelFemale>
+  <!-- EN:female chickenffalo chick -->
+  <GR_Chickenffalo.lifeStages.0.labelFemalePlural>цыплята курфалло-самки</GR_Chickenffalo.lifeStages.0.labelFemalePlural>
+  <!-- ENfemale chickenffalo chicks: -->
+  <GR_Chickenffalo.lifeStages.1.label>молодой курфалло</GR_Chickenffalo.lifeStages.1.label>
+  <!-- EN:chickenffalo -->
+  <GR_Chickenffalo.lifeStages.1.labelPlural>молодые курфалло</GR_Chickenffalo.lifeStages.1.labelPlural>
+  <!-- EN:chickenffalo -->
+  <GR_Chickenffalo.lifeStages.1.labelMale>молодой петух курфалло</GR_Chickenffalo.lifeStages.1.labelMale>
+  <!-- EN:chickenffalo cockerel -->
+  <GR_Chickenffalo.lifeStages.1.labelMalePlural>молодые петухи курфалло</GR_Chickenffalo.lifeStages.1.labelMalePlural>
+  <!-- EN:chickenffalo cockerels -->
+  <GR_Chickenffalo.lifeStages.1.labelFemale>молодая самка курфалло</GR_Chickenffalo.lifeStages.1.labelFemale>
+  <!-- EN:chickenffalo hen -->
+  <GR_Chickenffalo.lifeStages.1.labelFemalePlural>молодые самки курфалло</GR_Chickenffalo.lifeStages.1.labelFemalePlural>
+  <!-- EN:female chickenffalos -->
+  <GR_Chickenffalo.lifeStages.2.label>курфалло</GR_Chickenffalo.lifeStages.2.label>
+  <!-- EN:chickenffalo -->
+  <GR_Chickenffalo.lifeStages.2.labelPlural>курфалло</GR_Chickenffalo.lifeStages.2.labelPlural>
+  <!-- EN:chickenffalo -->
+  <GR_Chickenffalo.lifeStages.2.labelMale>петух курфалло</GR_Chickenffalo.lifeStages.2.labelMale>
+  <!-- EN:chickenffalo rooster -->
+  <GR_Chickenffalo.lifeStages.2.labelMalePlural>петухи курфалло</GR_Chickenffalo.lifeStages.2.labelMalePlural>
+  <!-- EN:male chickenffalos -->
+  <GR_Chickenffalo.lifeStages.2.labelFemale>несушка курфалло</GR_Chickenffalo.lifeStages.2.labelFemale>
+  <!-- EN:chickenffalo hen -->
+  <GR_Chickenffalo.lifeStages.2.labelFemalePlural>несушки курфалло</GR_Chickenffalo.lifeStages.2.labelFemalePlural>
+  <!-- EN:female chickenffalos -->
+  <GR_Chickenffalo.labelMale>петух курфалло</GR_Chickenffalo.labelMale>
+  <!-- EN:chickenffalo rooster -->
+  <GR_Chickenffalo.labelMalePlural>петухи курфалло</GR_Chickenffalo.labelMalePlural>
+  <!-- EN:chickenffalo roosters -->
+  <GR_Chickenffalo.labelFemale>несушка курфалло</GR_Chickenffalo.labelFemale>
+  <!-- EN:chickenffalo hen -->
+  <GR_Chickenffalo.labelFemalePlural>несушки курфалло</GR_Chickenffalo.labelFemalePlural>
+  <!-- EN:chickenffalo hens -->
+
+
+  <!-- Chicken - Wolf -->
+
+  <GR_Chickenwolf.label>куроволк</GR_Chickenwolf.label>
+  <!-- EN:chickenwolf -->
+  <GR_Chickenwolf.labelPlural>куроволки</GR_Chickenwolf.labelPlural>
+  <!-- EN:chickenwolfs -->
+  <GR_Chickenwolf.lifeStages.0.label>куроволчонок-самка</GR_Chickenwolf.lifeStages.0.label>
+  <!-- EN:chickenwolf chick -->
+  <GR_Chickenwolf.lifeStages.0.labelPlural>куроволчата-самки</GR_Chickenwolf.lifeStages.0.labelPlural>
+  <!-- EN:chickenwolf chicks -->
+  <GR_Chickenwolf.lifeStages.0.labelMale>куроволчонок-самец</GR_Chickenwolf.lifeStages.0.labelMale>
+  <!-- EN:male chickenwolf chick -->
+  <GR_Chickenwolf.lifeStages.0.labelMalePlural>куроволчата-самцы</GR_Chickenwolf.lifeStages.0.labelMalePlural>
+  <!-- EN:male chickenwolf chicks -->
+  <GR_Chickenwolf.lifeStages.0.labelFemale>куроволчонок-самка</GR_Chickenwolf.lifeStages.0.labelFemale>
+  <!-- EN:female chickenwolf chick -->
+  <GR_Chickenwolf.lifeStages.0.labelFemalePlural>куроволчонок-самка</GR_Chickenwolf.lifeStages.0.labelFemalePlural>
+  <!-- EN:female chickenwolf chicks -->
+  <GR_Chickenwolf.lifeStages.1.label>молодой куроволк</GR_Chickenwolf.lifeStages.1.label>
+  <!-- EN:chickenwolf -->
+  <GR_Chickenwolf.lifeStages.1.labelPlural>молодые куроволки</GR_Chickenwolf.lifeStages.1.labelPlural>
+  <!-- EN:chickenwolf -->
+  <GR_Chickenwolf.lifeStages.1.labelMale>молодой куроволк-самец</GR_Chickenwolf.lifeStages.1.labelMale>
+  <!-- EN:chickenwolf cockerel -->
+  <GR_Chickenwolf.lifeStages.1.labelMalePlural>молодые куроволки-самцы</GR_Chickenwolf.lifeStages.1.labelMalePlural>
+  <!-- EN:chickenwolf cockerels -->
+  <GR_Chickenwolf.lifeStages.1.labelFemale>молодая куроволчица</GR_Chickenwolf.lifeStages.1.labelFemale>
+  <!-- EN:chickenwolf hen -->
+  <GR_Chickenwolf.lifeStages.1.labelFemalePlural>молодые куроволчицы</GR_Chickenwolf.lifeStages.1.labelFemalePlural>
+  <!-- EN:female chickenwolfs -->
+  <GR_Chickenwolf.lifeStages.2.label>куроволк</GR_Chickenwolf.lifeStages.2.label>
+  <!-- EN:chickenwolf -->
+  <GR_Chickenwolf.lifeStages.2.labelPlural>куроволки</GR_Chickenwolf.lifeStages.2.labelPlural>
+  <!-- EN:chickenwolf -->
+  <GR_Chickenwolf.lifeStages.2.labelMale>куроволк</GR_Chickenwolf.lifeStages.2.labelMale>
+  <!-- EN:chickenwolf rooster -->
+  <GR_Chickenwolf.lifeStages.2.labelMalePlural>куроволки</GR_Chickenwolf.lifeStages.2.labelMalePlural>
+  <!-- EN:male chickenwolfs -->
+  <GR_Chickenwolf.lifeStages.2.labelFemale>куроволчица</GR_Chickenwolf.lifeStages.2.labelFemale>
+  <!-- EN:chickenwolf hen -->
+  <GR_Chickenwolf.lifeStages.2.labelFemalePlural>куроволчицы</GR_Chickenwolf.lifeStages.2.labelFemalePlural>
+  <!-- EN:female chickenwolfs -->
+  <GR_Chickenwolf.labelMale>куроволк</GR_Chickenwolf.labelMale>
+  <!-- EN:chickenwolf rooster -->
+  <GR_Chickenwolf.labelMalePlural>куроволки</GR_Chickenwolf.labelMalePlural>
+  <!-- EN:chickenwolf roosters -->
+  <GR_Chickenwolf.labelFemale>куроволчица</GR_Chickenwolf.labelFemale>
+  <!-- EN:chickenwolf hen -->
+  <GR_Chickenwolf.labelFemalePlural>куроволчицы</GR_Chickenwolf.labelFemalePlural>
+  <!-- EN:chickenwolf hens -->
+
+
+  <!-- Chicken - Rabbit -->
+
+  <GR_Chickenrabbit.label>куролик</GR_Chickenrabbit.label>
+  <!-- EN:chickenrabbit -->
+  <GR_Chickenrabbit.labelPlural>куролики</GR_Chickenrabbit.labelPlural>
+  <!-- EN:chickenrabbits -->
+  <GR_Chickenrabbit.lifeStages.0.label>курольчонок</GR_Chickenrabbit.lifeStages.0.label>
+  <!-- EN:chickenrabbit chick -->
+  <GR_Chickenrabbit.lifeStages.0.labelPlural>курольчата</GR_Chickenrabbit.lifeStages.0.labelPlural>
+  <!-- EN:chickenrabbit chicks -->
+  <GR_Chickenrabbit.lifeStages.0.labelMale>курольчонок-самец</GR_Chickenrabbit.lifeStages.0.labelMale>
+  <!-- EN:male chickenrabbit chick -->
+  <GR_Chickenrabbit.lifeStages.0.labelMalePlural>курольчата-самцы</GR_Chickenrabbit.lifeStages.0.labelMalePlural>
+  <!-- EN:male chickenrabbit chicks -->
+  <GR_Chickenrabbit.lifeStages.0.labelFemale>курольчонок-самка</GR_Chickenrabbit.lifeStages.0.labelFemale>
+  <!-- EN:female chickenrabbit chick -->
+  <GR_Chickenrabbit.lifeStages.0.labelFemalePlural>курольчата-самки</GR_Chickenrabbit.lifeStages.0.labelFemalePlural>
+  <!-- EN:female chickenrabbit chicks -->
+  <GR_Chickenrabbit.lifeStages.1.label>молодой куролик</GR_Chickenrabbit.lifeStages.1.label>
+  <!-- EN:chickenrabbit -->
+  <GR_Chickenrabbit.lifeStages.1.labelPlural>молодые куролики</GR_Chickenrabbit.lifeStages.1.labelPlural>
+  <!-- EN:chickenrabbit -->
+  <GR_Chickenrabbit.lifeStages.1.labelMale>молодой куролик</GR_Chickenrabbit.lifeStages.1.labelMale>
+  <!-- EN:chickenrabbit rooster -->
+  <GR_Chickenrabbit.lifeStages.1.labelMalePlural>молодые куролики</GR_Chickenrabbit.lifeStages.1.labelMalePlural>
+  <!-- EN:male chickenrabbits -->
+  <GR_Chickenrabbit.lifeStages.1.labelFemale>молодая курольчиха</GR_Chickenrabbit.lifeStages.1.labelFemale>
+  <!-- EN:chickenrabbit hen -->
+  <GR_Chickenrabbit.lifeStages.1.labelFemalePlural>молодые курольчихи</GR_Chickenrabbit.lifeStages.1.labelFemalePlural>
+  <!-- EN:female chickenrabbits -->
+  <GR_Chickenrabbit.lifeStages.2.label>куролик</GR_Chickenrabbit.lifeStages.2.label>
+  <!-- EN:chickenrabbit -->
+  <GR_Chickenrabbit.lifeStages.2.labelPlural>куролики</GR_Chickenrabbit.lifeStages.2.labelPlural>
+  <!-- EN:chickenrabbit -->
+  <GR_Chickenrabbit.lifeStages.2.labelMale>куролик</GR_Chickenrabbit.lifeStages.2.labelMale>
+  <!-- EN:chickenrabbit rooster -->
+  <GR_Chickenrabbit.lifeStages.2.labelMalePlural>куролики</GR_Chickenrabbit.lifeStages.2.labelMalePlural>
+  <!-- EN:male chickenrabbits -->
+  <GR_Chickenrabbit.lifeStages.2.labelFemale>курольчиха</GR_Chickenrabbit.lifeStages.2.labelFemale>
+  <!-- EN:chickenrabbit hen -->
+  <GR_Chickenrabbit.lifeStages.2.labelFemalePlural>курольчихи</GR_Chickenrabbit.lifeStages.2.labelFemalePlural>
+  <!-- EN:female chickenrabbits -->
+  <GR_Chickenrabbit.labelMale>куролик</GR_Chickenrabbit.labelMale>
+  <!-- EN:chickenrabbit rooster -->
+  <GR_Chickenrabbit.labelMalePlural>куролики</GR_Chickenrabbit.labelMalePlural>
+  <!-- EN:chickenrabbit roosters -->
+  <GR_Chickenrabbit.labelFemale>курольчиха</GR_Chickenrabbit.labelFemale>
+  <!-- EN:chickenrabbit hen -->
+  <GR_Chickenrabbit.labelFemalePlural>курольчихи</GR_Chickenrabbit.labelFemalePlural>
+  <!-- EN:chickenrabbit hens -->
+
+
+  <!-- Chicken - Cat -->
+
+  <GR_Chickencat.label>кошкурица</GR_Chickencat.label>
+  <!-- EN:chickencat -->
+  <GR_Chickencat.labelPlural>кошкурицы</GR_Chickencat.labelPlural>
+  <!-- EN:chickencats -->
+  <GR_Chickencat.lifeStages.0.label>цыплёнок кошкурицы</GR_Chickencat.lifeStages.0.label>
+  <!-- EN:chickencat chick -->
+  <GR_Chickencat.lifeStages.0.labelPlural>цыплята кошкурицы</GR_Chickencat.lifeStages.0.labelPlural>
+  <!-- EN:chickencat chicks -->
+  <GR_Chickencat.lifeStages.0.labelMale>цыплёнок кошкурицы-самец</GR_Chickencat.lifeStages.0.labelMale>
+  <!-- EN:male chickencat chick -->
+  <GR_Chickencat.lifeStages.0.labelMalePlural>цыплята кошкурицы-самцы</GR_Chickencat.lifeStages.0.labelMalePlural>
+  <!-- EN:male chickencat chicks -->
+  <GR_Chickencat.lifeStages.0.labelFemale>цыплёнок кошкурицы-самка</GR_Chickencat.lifeStages.0.labelFemale>
+  <!-- EN:female chickencat chick -->
+  <GR_Chickencat.lifeStages.0.labelFemalePlural>цыплята кошкурицы-самки</GR_Chickencat.lifeStages.0.labelFemalePlural>
+  <!-- EN:female chickencat chicks -->
+  <GR_Chickencat.lifeStages.1.label>молодая кошкурица</GR_Chickencat.lifeStages.1.label>
+  <!-- EN:chickencat -->
+  <GR_Chickencat.lifeStages.1.labelPlural>молодые кошкурицы</GR_Chickencat.lifeStages.1.labelPlural>
+  <!-- EN:chickencat -->
+  <GR_Chickencat.lifeStages.1.labelMale>молодой котопетух</GR_Chickencat.lifeStages.1.labelMale>
+  <!-- EN:chickencat cockerel -->
+  <GR_Chickencat.lifeStages.1.labelMalePlural>молодые котопетухи</GR_Chickencat.lifeStages.1.labelMalePlural>
+  <!-- EN:chickencat cockerels -->
+  <GR_Chickencat.lifeStages.1.labelFemale>молодая кошкурица</GR_Chickencat.lifeStages.1.labelFemale>
+  <!-- EN:chickencat hen -->
+  <GR_Chickencat.lifeStages.1.labelFemalePlural>молодые кошкурицы</GR_Chickencat.lifeStages.1.labelFemalePlural>
+  <!-- EN:female chickencats -->
+  <GR_Chickencat.lifeStages.2.label>кошкурица</GR_Chickencat.lifeStages.2.label>
+  <!-- EN:chickencat -->
+  <GR_Chickencat.lifeStages.2.labelPlural>кошкурицы</GR_Chickencat.lifeStages.2.labelPlural>
+  <!-- EN:chickencat -->
+  <GR_Chickencat.lifeStages.2.labelMale>котопетух</GR_Chickencat.lifeStages.2.labelMale>
+  <!-- EN:chickencat rooster -->
+  <GR_Chickencat.lifeStages.2.labelMalePlural>котопетухи</GR_Chickencat.lifeStages.2.labelMalePlural>
+  <!-- EN:male chickencats -->
+  <GR_Chickencat.lifeStages.2.labelFemale>кошкурица-несушка</GR_Chickencat.lifeStages.2.labelFemale>
+  <!-- EN:chickencat hen -->
+  <GR_Chickencat.lifeStages.2.labelFemalePlural>кошкурицы-несушки</GR_Chickencat.lifeStages.2.labelFemalePlural>
+  <!-- EN:female chickencats -->
+  <GR_Chickencat.labelMale>котопетух</GR_Chickencat.labelMale>
+  <!-- EN:chickencat rooster -->
+  <GR_Chickencat.labelMalePlural>котопетухи</GR_Chickencat.labelMalePlural>
+  <!-- EN: chickencat roosters-->
+  <GR_Chickencat.labelFemale>кошкурица-несушка</GR_Chickencat.labelFemale>
+  <!-- EN:chickencat hen -->
+  <GR_Chickencat.labelFemalePlural>кошкурицы-несушки</GR_Chickencat.labelFemalePlural>
+  <!-- EN:chickencat hens -->
+
+
+  <!-- Chicken - Humanoid -->
+
+  <GR_Turkeyman.label>индюколюд</GR_Turkeyman.label>
+  <!-- EN:turkeyman -->
+  <GR_Turkeyman.labelPlural>индюколюды</GR_Turkeyman.labelPlural>
+  <!-- EN:turkeymans -->
+  <GR_Turkeyman.lifeStages.0.label>младенец индюколюда</GR_Turkeyman.lifeStages.0.label>
+  <!-- EN:turkeybaby -->
+  <GR_Turkeyman.lifeStages.0.labelPlural>младенцы индюколюда</GR_Turkeyman.lifeStages.0.labelPlural>
+  <!-- EN:turkeybabies -->
+  <GR_Turkeyman.lifeStages.0.labelMale>младенец индюколюда-мальчик</GR_Turkeyman.lifeStages.0.labelMale>
+  <!-- EN:male turkeybaby -->
+  <GR_Turkeyman.lifeStages.0.labelMalePlural>младенцы индюколюда-мальчики</GR_Turkeyman.lifeStages.0.labelMalePlural>
+  <!-- EN:male turkeybabies -->
+  <GR_Turkeyman.lifeStages.0.labelFemale>младенец индюколюда-девочка</GR_Turkeyman.lifeStages.0.labelFemale>
+  <!-- EN:female turkeybaby -->
+  <GR_Turkeyman.lifeStages.0.labelFemalePlural>младенцы индюколюда-девочки</GR_Turkeyman.lifeStages.0.labelFemalePlural>
+  <!-- EN:female turkeybabies -->
+  <GR_Turkeyman.lifeStages.1.label>молодой индюколюд</GR_Turkeyman.lifeStages.1.label>
+  <!-- EN:turkeyman -->
+  <GR_Turkeyman.lifeStages.1.labelPlural>молодые индюколюды</GR_Turkeyman.lifeStages.1.labelPlural>
+  <!-- EN:turkeyman -->
+  <GR_Turkeyman.lifeStages.1.labelMale>молодой индюколюд</GR_Turkeyman.lifeStages.1.labelMale>
+  <!-- EN:turkeyman -->
+  <GR_Turkeyman.lifeStages.1.labelMalePlural>молодые индюколюды</GR_Turkeyman.lifeStages.1.labelMalePlural>
+  <!-- EN:male turkeymans -->
+  <GR_Turkeyman.lifeStages.1.labelFemale>индюкодевушка</GR_Turkeyman.lifeStages.1.labelFemale>
+  <!-- EN:turkeywoman -->
+  <GR_Turkeyman.lifeStages.1.labelFemalePlural>индюкодевушки</GR_Turkeyman.lifeStages.1.labelFemalePlural>
+  <!-- EN:female turkeymans -->
+  <GR_Turkeyman.lifeStages.2.label>индюколюд</GR_Turkeyman.lifeStages.2.label>
+  <!-- EN:turkeyman -->
+  <GR_Turkeyman.lifeStages.2.labelPlural>индюколюды</GR_Turkeyman.lifeStages.2.labelPlural>
+  <!-- EN:turkeyman -->
+  <GR_Turkeyman.lifeStages.2.labelMale>индюколюд</GR_Turkeyman.lifeStages.2.labelMale>
+  <!-- EN:turkeyman -->
+  <GR_Turkeyman.lifeStages.2.labelMalePlural>индюколюды</GR_Turkeyman.lifeStages.2.labelMalePlural>
+  <!-- EN:male turkeymans -->
+  <GR_Turkeyman.lifeStages.2.labelFemale>женщина-индюколюд</GR_Turkeyman.lifeStages.2.labelFemale>
+  <!-- EN:turkeywoman -->
+  <GR_Turkeyman.lifeStages.2.labelFemalePlural>женщины-индюколюды</GR_Turkeyman.lifeStages.2.labelFemalePlural>
+  <!-- EN:female turkeymans -->
+  <GR_Turkeyman.labelMale>индюколюд</GR_Turkeyman.labelMale>
+  <!-- EN:turkeyman -->
+  <GR_Turkeyman.labelMalePlural>индюколюды</GR_Turkeyman.labelMalePlural>
+  <!-- EN:turkeymen -->
+  <GR_Turkeyman.labelFemale>женщина-индюколюд</GR_Turkeyman.labelFemale>
+  <!-- EN:turkeywoman -->
+  <GR_Turkeyman.labelFemalePlural>женщины-индюколюды</GR_Turkeyman.labelFemalePlural>
+  <!-- EN:turkeywomen -->
+
+
+</LanguageData>

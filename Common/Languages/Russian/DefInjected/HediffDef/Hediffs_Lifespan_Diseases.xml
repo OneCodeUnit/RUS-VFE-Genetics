@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_MuscleNecrosis.label>мышечный некроз</GR_MuscleNecrosis.label>
+  <!-- EN:muscle necrosis -->
+  <GR_MuscleNecrosis.description>Заболевание вирусной природы, вызывающее аутоимунный ответ в организме животного. Сопровождается отторжением и последующим разложением здоровых тканей. Некроз постепенно распространяется на всё тело. Терапия может замедлить течение болезни и разрастание некротизированных участков. Но полностью вылечить данную болезнь не представляется возможным.\n\n Болезнь развивается у всех гибридов и образцов спустя три года после рождения. Сроки возникновения также зависят от качества гибрида.</GR_MuscleNecrosis.description>
+  <!-- EN: A viral infection causing an animal organism to turn on itself and reject normal functioning tissue, causing widespread necrosis across the entire animal body. A creature with Muscle Necrosis can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality. -->
+  <GR_MuscleNecrosis.stages.0.label>начальная степень</GR_MuscleNecrosis.stages.0.label>
+  <!-- EN:initial -->
+  <GR_MuscleNecrosis.stages.1.label>некроз</GR_MuscleNecrosis.stages.1.label>
+  <!-- EN:necrotic -->
+  <GR_MuscleNecrosis.stages.2.label>крайне некротизировано</GR_MuscleNecrosis.stages.2.label>
+  <!-- EN:horribly necrotic -->
+
+  <GR_AnimalTuberculosis.label>животный туберкулёз</GR_AnimalTuberculosis.label>
+  <!-- EN:animal tuberculosis -->
+  <GR_AnimalTuberculosis.description>Заболевание, являющееся разновидностью бактериальной инфекции, поражающей лёгкие. Животные с туберкулёзом будут периодически сплёвывать кровь, постепенно погибая от кровопотери. Каждый последующий приступ кашля сильнее повреждает лёгкие животного. Заболевание не поддаётся лечению и может быть только замедлено.\n\nБолезнь развивается у всех гибридов и образцов спустя три года после рождения. Сроки возникновения также зависят от качества гибрида.</GR_AnimalTuberculosis.description>
+  <!-- EN:A disease originating from a bacterial infection that attacks lungs. Animals with tuberculosis will keep spitting blood until blood loss causes them to die. Every time a coughing attack occurs, the lungs of that animal will get more and more damaged. A creature with Animal Tuberculosis can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality. -->
+  <GR_AnimalTuberculosis.stages.0.label>начальная стадия</GR_AnimalTuberculosis.stages.0.label>
+  <!-- EN:initial -->
+  <GR_AnimalTuberculosis.stages.1.label>повреждение лёгких</GR_AnimalTuberculosis.stages.1.label>
+  <!-- EN:damaged lungs -->
+  <GR_AnimalTuberculosis.stages.2.label>сильное повреждение лёгких</GR_AnimalTuberculosis.stages.2.label>
+  <!-- EN:very damaged lungs -->
+
+  <GR_AnimalAbasia.label>абазия</GR_AnimalAbasia.label>
+  <!-- EN:animal abasia< -->
+  <GR_AnimalAbasia.description>Заболевание, проявляющееся в дегенеративных изменениях нервных центров, отвечающих за функции опорно-двигательного аппарата. Без своевременного лечения изменения затрагивают также дыхательные и сосудодвигательные центры, напрямую мешая дыханию и сердцебиению.\n\nБолезнь развивается у всех гибридов и образцов спустя три года после рождения. Сроки возникновения также зависят от качества гибрида.</GR_AnimalAbasia.description>
+  <!-- EN:A condition that makes an animal unable to walk by interfering with the motor cortex. If not treated in time, Abasia inevitably interferes with functioning of organs - for example by halting the heart functions. A creature with Animal Abasia can be tended to which will slow down the disease, but cannot be cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality. -->
+  <GR_AnimalAbasia.stages.0.label>паралич</GR_AnimalAbasia.stages.0.label>
+  <!-- EN:paralyzed -->
+
+  <GR_SargSyndrome.label>синдром сарга</GR_SargSyndrome.label>
+  <!-- EN:sarg syndrome -->
+  <GR_SargSyndrome.description>Редко встречающееся инфекционное заболевание бактериальной природы. Характеризуется поражением мозга животного, основным симптомом являются изменения в поведении и метаболизме. Животное теряет способность потреблять люблю пищу, кроме человеческого мяса. Любая пища, в том числе привычная будет выходить в виде рвотной массы. Данное заболевание не поддаётся терапии и смертельно как для травоядных, так и для хищников.\n\nБолезнь развивается у всех гибридов и образцов спустя три года после рождения. Сроки возникновения также зависят от качества гибрида.</GR_SargSyndrome.description>
+  <!-- EN:A rare bacterial infection of the animal brain, which causes the animal to only be able to consume human meat, while consuming anything else will simply not satiate the animal’s hunger and make it vomit constantly. This will spell a death sentence for herbivores, and a slow death for carnivores. A creature with Sarg Syndrome can't be tended to or cured.\n\nAny hybrid or paragon animal will get this disease 3 years after being hatched or born naturally, though this is affected by the hybrids's quality. -->
+
+  <GR_GreaterScaria.label>агриоз тяжёлого течения</GR_GreaterScaria.label>
+  <!-- EN:greater scaria -->
+  <GR_GreaterScaria.description>Заболевание, вызывающее у больных животных приступы немотивированной агрессии. Больное агриозом животное не может быть вылечено и болезнь убивает своего носителя спустя пять суток после заражения. Безумная ярость, движущая животным, позволяет тому обходиться без еды или отдыха всю оставшуюся (хоть и недолгую) жизнь.</GR_GreaterScaria.description>
+  <!-- EN:A disease which causes affected creatures to enter berserk rages. A creature with greater scaria can't be cured and kills its host about five days after infection. Their seething rage will allow them to survive without having to eat or rest until their inevitable death. -->
+
+
+</LanguageData>

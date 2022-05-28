@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bear - Thrumbo -->
+
+  <GR_Thrumbear.label>трумбоведь</GR_Thrumbear.label>
+  <!-- EN:thrumbear -->
+  <GR_Thrumbear.description>Возможно вы думали, что трумбо сами по себе опасны в бою и представляют собой живой танк. Но ловили ли вы себя на мысли, что чего-то всё ещё не хватает? Если да, то вот мой ответ вам. Трумбоведь. Если вы можете его прокормить, то это существо будет идеальным живым тараном, если есть хотя бы малейшая угроза его потомству. А ещё вы можете взобраться ему на спину и двигаться через лес не замечая препятствий.\n\nГибрид-колосс с рецессивными медвежьими генами. Хотя трумбоведь и обладает пропорционально низким метаболизмом, он всё ещё имеет большую потребность в пище, по сравнению с обычным трумбо. Они намного легче поддаются дрессировке, значительно опаснее в бою и могут поглотить больше урона.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак.</GR_Thrumbear.description>
+  <!-- EN:If you thought Thrumbos were tough and hit like a tank, may I present to you the answer to all your prayers. If you can feed the thing, this absolute unit would work extremely well as an assault force against any force foolish enough to threaten its feedstock. Plus you get to ride it on long journeys, possibly clearing entire forests on the way.\n\nA colossal hybrid with recessive ursine genes. While proportionately it has a lower metabolism, its 50% increase in size still leaves it with a higher hunger rate than a thrumbo. They are however easier to train, hit much harder and can take even more punishment.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. -->
+  <GR_Thrumbear.tools.0.label>рог</GR_Thrumbear.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumbear.tools.2.label>левая стопа</GR_Thrumbear.tools.2.label>
+  <!-- EN:left foot -->
+  <GR_Thrumbear.tools.3.label>правая стопа</GR_Thrumbear.tools.3.label>
+  <!-- EN:right foot -->
+  <GR_Thrumbear.tools.4.label>голова</GR_Thrumbear.tools.4.label>
+  <!-- EN:head -->
+
+
+  <!-- Boomalope - Thrumbo -->
+
+  <GR_Thrumbalope.label>трумбалопа</GR_Thrumbalope.label>
+  <!-- EN:thrumbalope -->
+  <GR_Thrumbalope.description>Вы ни в коем случае не захотите оставлять это существо голодным и вам понадобятся целые поля еды, чтобы прокормить хотя бы одно такое создание. То безумное количество топлива, которое оно способно выделять может значить только одно: смерть этого существа будет иметь самые разрушительные последствия. Если же взрыв неизбежен, то трумбалопу можно отправить в качестве внезапного подарка тем хорошим друзьям, которые вдруг замыслили убить вас.\n\nКолоссальный гибрид с рецессивными генами бумалопы. Перестройка организма под производство химтоплива стала причиной повышенного потребления еды. Но возросший интеллект позволяет им не нуждаться в загоне. Если вы живёте в местности, способной достаточно быстро восстанавливать растительность - держите их подальше от своих полей.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак.</GR_Thrumbalope.description>
+  <!-- EN:Now here’s a creature you absolutely want to keep properly fed, and you’re going to need entire fields to support a single one. The ridiculous amount of chemfuel they produce means that the ceasing of their life functions is more accurately described as “thermonuclear”. So if they are going to blow up, send them as a surprise gift to friends and family who keep trying to kill you.\n\nA colossal hybrid with recessive boomalope genes. The addition of chemfuel production has vastly increased the amount of food they need to survive, but they’re also smart enough to not need a pen. Consider keeping them far away from your growing fields if the local biome can grow vegetation fast enough to support one.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. -->
+  <GR_Thrumbalope.tools.0.label>рог</GR_Thrumbalope.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumbalope.tools.2.label>левая стопа</GR_Thrumbalope.tools.2.label>
+  <!-- EN:left foot -->
+  <GR_Thrumbalope.tools.3.label>правая стопа</GR_Thrumbalope.tools.3.label>
+  <!-- EN:right foot -->
+  <GR_Thrumbalope.tools.4.label>голова</GR_Thrumbalope.tools.4.label>
+  <!-- EN:head -->
+
+
+  <!-- Chicken - Thrumbo -->
+
+  <GR_Thrumbochicken.label>трумбоцып</GR_Thrumbochicken.label>
+  <!-- EN:thrumbochicken -->
+  <GR_Thrumbochicken.description>Пожалуй трумбоцып - это самая удачная попытка приблизить обычную курицу к временам былой славы, когда её предки были самыми опасными хищниками. Они будут поедать остальных животных на завтрак, обед и ужин и я готов спорить, что прокатиться на таком существе - это довольно уникальное удовольствие. Если бы их можно было заставить пересекать горы и океаны, то трумбоцыпы стали бы идеальным ездовым животным.\n\nГибрид-колосс, обладающий набором рецессивных ген птицы. Данное сочетание ДНК превратило обычную всеядную птицу в хищника, что снимает вопрос о том, чем их кормить. Будучи крайне умным хищником, трумбоцыпы способны двигаться с огромной скоростью, а их атаки будут наносить огромный урон. Ещё одна особенность трумбоцыпов, доставшаяся им от курицы - это способность нести яйца. Одним яйцом трумбоцыпа можно накормить целую семью.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак.</GR_Thrumbochicken.description>
+  <!-- EN:This is probably the closest chickens will be able to get to recovering their past glory as super predators. They’ll often hunt any other animal for their next meal, multiple times a day, and you haven’t yet lived until you’ve ridden one on a long journey. If they could be further bred to cross mountains and oceans, they’d be almost perfect.\n\nA colossal hybrid with recessive avian genes. The combination of genes has turned this somewhat peaceful herbivore/dendrovore into a full carnivore, which makes it easier to support their large appetite. As an intelligent predator, it can move incredibly quickly for its size and its attacks are incredibly fierce. It also lays massive eggs that can feed entire families.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. -->
+  <GR_Thrumbochicken.tools.0.label>рог</GR_Thrumbochicken.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumbochicken.tools.2.label>голова</GR_Thrumbochicken.tools.2.label>
+  <!-- EN:head -->
+
+
+  <!-- Muffalo - Thrumbo -->
+
+  <GR_Thrumffalo.label>трумфалло</GR_Thrumffalo.label>
+  <!-- EN:thrumffalo -->
+  <GR_Thrumffalo.description>Одно из самых крупных известных науке животных, рядом с которыми даже трумбо и галлатросс выглядят карликами. Трумфалло способны переносить огромные грузы, их шерсть высоко ценится на всех мирах фронтира, а молоко невероятно питательно. Всё это делало бы трумфалло идеальным животным для разведения на ферме. Если бы не одно «но». Всё это ровно до тех пор, пока вы не обратите внимание на то количество еды, которое им требуется и не словите от этого обширный инфаркт. Разумеется, учёным, занимавшимся выведением этого гибрида не приходилось заботиться о таких мелочах. Еда - это забота низших слоёв общества.\n\nТравоядный гибрид-колосс с рецессивными генами муффало и аппетитом, способным за сезон пустить по миру любое поселение. Этот гибрид может полностью окупить затраты на еду, так как он производит густое, вкуснейшее молоко каждые два дня и роскошную шерсть каждые два сезона. Будучи несколько менее сообразительным, нежели трумбо, этот гибрид нуждается в загоне, так как может убрести куда-нибудь в поисках еды.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак.</GR_Thrumffalo.description>
+  <!-- EN:One of the largest creatures in existence, dwarfing even the thrumbo and the mighty Gallatross. Capable of transporting a massive amount of material, producing a luxurious and excellent wool as well as thick, nutritious milk, they are almost the perfect farm animal. That is as long as you don’t look at your feed costs and die of a heart attack, but the scientists that designed this hybrid never had to worry about such things. Food is something for the proles to worry about.\n\nA colossal hybrid with recessive muffalo genes. Completely herbivorous and with an appetite large enough to cause even large colonies to starve within a single season. This hybrid can prove worth the food costs as it produces thick, delicious milk every couple of days as well as luxurious wool every couple of seasons. Slightly more dimwitted than its progenitor and will attempt to wander off in search of food if not kept penned up.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. -->
+  <GR_Thrumffalo.tools.0.label>рог</GR_Thrumffalo.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumffalo.tools.2.label>левая стопа</GR_Thrumffalo.tools.2.label>
+  <!-- EN:left foot -->
+  <GR_Thrumffalo.tools.3.label>правая стопа</GR_Thrumffalo.tools.3.label>
+  <!-- EN:right foot -->
+  <GR_Thrumffalo.tools.4.label>голова</GR_Thrumffalo.tools.4.label>
+  <!-- EN:head -->
+
+
+  <!-- Wolf - Thrumbo -->
+
+  <GR_Thrumwolf.label>трумволк</GR_Thrumwolf.label>
+  <!-- EN:thrumwolf -->
+  <GR_Thrumwolf.description>Про научное сообщество часто говорят, что они слишком часто задаются вопросом «Возможно ли это сделать?» и недостаточно часто «А стоит ли это делать вообще?». Это нашло своё отражение в этом создании, сверххищнике, не имеющем себе равных, которому требуется целый лес для того, чтобы прокормить его в течение одного дня. И это было бы только частью проблемы, но трумволк был разработан в тандеме с трумкотом.\n\nГибрид-колосс с собачьими рецессивными генами. Крупный хищник, чей аппетит сравним разве что с его же свирепостью. Очень немногие колонии могут прокормить такого гибрида. Невероятно живучий быстрый и свирепый зверь, который будет охотиться по несколько раз в день и не побоится нападать на добычу в несколько раз крупнее самого себя.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак.</GR_Thrumwolf.description>
+  <!-- EN:There’s a saying about the scientific community, namely “your scientists were so preoccupied with whether they could, they didn’t stop to think if they should”. This is entirely relevant to this creature, a super predator with practically no equal, a single one of these is enough to require an entire rainforest to support their daily sustenance. If that wasn’t bad enough, they were made along with the Thrumbocat as part of a duo.\n\nA colossal hybrid with recessive canine genes. A large predator with an insane appetite with the necessary ferocity to support itself, very few colonies can support the diet of such a hybrid. Incredibly robust, fast and a terrifying ferocity, they will hunt multiple times a day and often go after prey much bigger than themselves.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. -->
+  <GR_Thrumwolf.tools.0.label>horn</GR_Thrumwolf.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumwolf.tools.2.label>left foot</GR_Thrumwolf.tools.2.label>
+  <!-- EN:left foot -->
+  <GR_Thrumwolf.tools.3.label>right foot</GR_Thrumwolf.tools.3.label>
+  <!-- EN:right foot -->
+  <GR_Thrumwolf.tools.4.label>head</GR_Thrumwolf.tools.4.label>
+  <!-- EN:head -->
+
+
+  <!-- Cat - Thrumbo -->
+
+  <GR_Thrumbocat.label>трумкот</GR_Thrumbocat.label>
+  <!-- EN:thrumbocat -->
+  <GR_Thrumbocat.description>Второй участник дуэта сверххищников, менее свиреп и силён, нежели трумволк, но не менее опасен из-за умения находить у жертвы горло и использовать комки шерсти, чтобы удушать добычу. Может быть это звучит не так впечатляюще, но представьте себе, как мокрый комок волос из сливного отверствия в вашем душе, но размером с кулак взрослого человека. Теперь представьте его у себя во рту. Тех же, кого трумкот любит, он будет тискать и ластиться к ним, при первой же возможности, не особо интересуясь их согласием.\n\nГибрид-колосс с кошачьими рецессивными генами. Крупный хищник с безумным аппетитом и привычкой к яростным атакам, лишающим жертву возможности дышать. Проворный и ласковоый, лучше всего подходит для биомов, которые могут его кпрокормить.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак.</GR_Thrumbocat.description>
+  <!-- EN:The other half of the super predator duo, along with the Thrumwolf, exchanging some ferocity and durability in exchange for going for the trachea and spitting suffocating hairballs. That might not sound that dangerous but imagine having a fistful of hair pulled from a shower drain smothering your mouth, and you’ll realise that’s still not disgusting enough. But for those that it appreciates, it will often pin them down and snuggle them given the chance.\n\nA colossal hybrid with recessive feline genes. A large predator with an insane appetite with a focus on ferocious attacks that restrict their prey’s breathing. Extremely agile with a soft spot for those it loves, best suited for biomes that support enough wildlife to sate its hunger.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. -->
+  <GR_Thrumbocat.tools.0.label>рог</GR_Thrumbocat.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumbocat.tools.2.label>левая стопа</GR_Thrumbocat.tools.2.label>
+  <!-- EN:left foot -->
+  <GR_Thrumbocat.tools.3.label>правая стопа</GR_Thrumbocat.tools.3.label>
+  <!-- EN:right foot -->
+  <GR_Thrumbocat.tools.4.label>голова</GR_Thrumbocat.tools.4.label>
+  <!-- EN:head -->
+
+
+  <!-- Thrumbo - Insectoid -->
+
+  <GR_Thrumbospider.label>трумбопаук</GR_Thrumbospider.label>
+  <!-- EN:thrumbospider -->
+  <GR_Thrumbospider.description>Остатки биологического оружия от давно исчезнувшей цивилизации. Их задачей было полное опустошение растительности на ограниченной территории. Судя по тем записям, которые всё же удалось восстановить, некоторые из местных племён активно сопротивлялись попыткам крупных корпораций по захвату их земель. А корпорации, осваивавшие эти территории намеревались снизить расходы. Со временем планету накрыла гуманитарная катастрофа, так как не было возможности остановить трумбопауков, пировавших содержимым продовольственных складов и фермерских участков.\n\nГибрид-колосс с рецессивными генами насекомых. Неторопливый и непробиваемый живой танк, обладающий некоторыми способностями к регенерации, трумбопаука можно было бы назвать неубиваемым, если бы не его неуёмный голод. Преуспевающее поселение наверное могло бы прокормить одного такого (если очень постарается) и навсегда забыть о проблеме вторжений извне\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак. Эти гибриды стерильны и не могут размножаться, даже если к ним был применён усилитель фертильности.</GR_Thrumbospider.description>
+  <!-- EN:A leftover bioweapon from a now extinct civilisation designed to completely eradicate biomes with dense vegetation. Records indicate that the local indigineous tribes were very resistant to corporate takeover and the megacorp in charge wanted to reduce profit losses. Eventually the planet starved as they were unable to stop these creatures from feasting on farmlands and food reserves.\n\nA colossal hybrid with recessive insectoid genes. A slow moving tank with limited regenerative capabilities, they are almost unkillable if it weren’t for their crippling hunger. As durable as a capital ship, any colony that could possibly support the diet of even a single one would be considered impervious to raids.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. They are always sterile and can't reproduce, even if a fertility booster is used to create them. -->
+  <GR_Thrumbospider.tools.1.label>голова</GR_Thrumbospider.tools.1.label>
+  <!-- EN:head -->
+
+
+  <!-- Reptile - Thrumbo -->
+
+  <GR_Thrumbolizard.label>трумбоящер</GR_Thrumbolizard.label>
+  <!-- EN:thrumbolizard -->
+  <GR_Thrumbolizard.description>Пожалуй самая удачная из всех попыток воссоздать фолькльорный образ дракона. Трумбоящеры способны выживать в самых высоких и самых низких температурах. Для полного соответствия образу им недостаёт двух вещей: пары перепончатых крыльев и привычки устраивать себе гнездо из груд золотых монет и украшений. А ещё тот факт, что трумбоящеры - травоядные. Впрочем, их травоядность компенсируется поистине чудовищным аппетитом по отношению к растениям, в том числе и деревьям.\n\nГибрид-колосс с рецессивными генами рептилий. Пасть с ядовитыми железами в сочетании с прочной, но гибкой чешуёй, покрывающей всё тело гибрида, делает его чрезвычайно опасным в бою. А если этого вам вдруг показалось мало, то трумбоящер ещё и способен выдохнуть облако ядовитого тумана и двигаться необычайно быстро для существа таких размеров.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак. Все гибриды-рептилии обладают широким диапазоном комфортных температур и обладают способностью к ядовитым атакам.</GR_Thrumbolizard.description>
+  <!-- EN:About as close as anyone has ever gotten in making a recreation of dragons from folklore. Capable of surviving in extreme cold or heat, the only thing really missing is a pair of wings and an innate desire to hoard piles of gold for a nest. That and the fact that it isn’t carnivorous, instead having an appetite for vegetables and wood fibres.\n\nA colossal hybrid with recessive reptile genes. With a mouth dripping with venom and tough, flexible scales covering the body, this hybrid makes for a nasty and incredibly durable combat hybrid. If that wasn’t enough, it can also breath out a fog of noxious fumes and move deceptively quickly.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. All reptile hybrids have good temperature tolerance ranges and venomous attacks. -->
+  <GR_Thrumbolizard.tools.0.label>рог</GR_Thrumbolizard.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumbolizard.tools.2.label>левая стопа</GR_Thrumbolizard.tools.2.label>
+  <!-- EN:left foot -->
+  <GR_Thrumbolizard.tools.3.label>правая стопа</GR_Thrumbolizard.tools.3.label>
+  <!-- EN:right foot -->
+  <GR_Thrumbolizard.tools.4.label>голова</GR_Thrumbolizard.tools.4.label>
+  <!-- EN:head -->
+  <GR_Thrumbolizard.verbs.0.label>ядовитое дыхание</GR_Thrumbolizard.verbs.0.label>
+  <!-- EN:poison breath -->
+
+
+  <!-- Rat - Thrumbo -->
+
+  <GR_Thrumborat.label>трубмокрыс</GR_Thrumborat.label>
+  <!-- EN:thrumborat -->
+  <GR_Thrumborat.description>По сути своей, является черезмерно крупным и умным грызуном, способным выкапывать норы для передвижения под землёй, так что даже ядерное оружие не сможет помочь избавиться от них. Проблема усугбляется ещё и тем, что их период гестации исчисляется в днях, а не неделях, так что потомство одной пары трумбокрысов способно обречь на голодную смерть средний аграрный мир.\n\nГибрид-колосс с рецессивными генами грызуна. Необычайно стойкие и плодовитые существа, при этом на удивление небольшие, учитывая их происхождение от трумбо. Трумбокрысы могут служить довольно неплохим живым щитом. Одна из самых слабых разновидностей гибридов-колоссов в отношении грубой силы, но это компенсируется впечатляющей выносливостью.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак. Трумбокрысы способны закапываться под землю, что делает их невосприимчивыми к атакам на протяжении некоторого времени.</GR_Thrumborat.description>
+  <!-- EN:Practically an overgrown and intelligent pest capable of tunnelling underground, so not even a nuke could clear an infestation. And it truly would be an infestation, as it has a gestation period measured in days rather than weeks, with a single breeding pair capable of wiping out an entire agricultural planet.\n\nA colossal hybrid with recessive rodent genes. Incredibly durable and fast breeding, this surprisingly small hybrid can work as a durable screening force. One of the weakest colossal hybrids in terms of attack power but very few can outlast its incredibly robust physique.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. Burrow underground: Thrumborats can burrow underground to make them almost immune to damage for a short while. -->
+  <GR_Thrumborat.tools.0.label>рог</GR_Thrumborat.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumborat.tools.2.label>левая лапа</GR_Thrumborat.tools.2.label>
+  <!-- EN:left paw -->
+  <GR_Thrumborat.tools.3.label>правая лапа</GR_Thrumborat.tools.3.label>
+  <!-- EN:right paw -->
+  <GR_Thrumborat.tools.4.label>голова</GR_Thrumborat.tools.4.label>
+  <!-- EN:head -->
+
+
+  <!-- Thrumbo - Horse -->
+
+  <GR_Thrumhorse.label>трумбоконь</GR_Thrumhorse.label>
+  <!-- EN:thrumhorse -->
+  <GR_Thrumhorse.description>Крайне удачное сочетание двух типов существ, которые сами по себе отличаются высокой адаптивностью и каждое из которых само по себе является лучшим другом любого всадника. И хотя в это может быть трудно поверить, исходя из их обычной скорости передвижения, но все иллюзии на этот счёт рассеиваются, стоит только оказаться в седле, когда этот гордая коняшка будет пересекать леса и болота, не замечая их, лишь бы заполучить заветный кусочек сахара, размером с кулак.\n\nГибрид-колосс с рецессивными лошадиными генами. Хотя они и обладают несколько иным индексом массы тела и распределением жира и мышц, по сравнению с их прародителем, форма и местоположение рога несколько вредит их эффективности в бою. Вместо этого они обладают более чем впечатляющей выносливостью, даже по сравнению с совершенствами. Лучший друг любого всадника, легко поддаётся дрессировке и обучению и способны нести впечатляющий объём поклажи (большую часть которой будет составлять еда).\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Все гибриды на основе лошадей более чем пригодны для того, чтобы быть вьючными животными для караванов. Каравану с такими животными требуется меньше времени для отдыха, так что они будут останавливаться на ночлег на время с 23:30 до 4 утра. Такие гибриды всегда будут доступны для прямого управления, даже если не оснащены контроллером. В бою этот гибрид имеет возможность совершить рывок в сторону цели и нанести серьёзный урон с помощью рога. Эта способность может быть использована каждые два часа.</GR_Thrumhorse.description>
+  <!-- EN:A very nice combination of two highly adaptive baseline creatures which arguably results in the best riding companion man could ask for. While this isn’t apparent in their speed, it definitely is so once a rider experiences the thundering beats of this horsey positively barreling through entire forests and marshland in order to earn its next sugar cube the size of a fist.\n\nA colossal hybrid with recessive equine genes. While they have a lower muscle-to-fat ratio compared to their progenitor, the overall placement and shape of the horn vastly reduces their combat efficiency. Instead, they more than make up for this shortfall with an incredible endurance even compared to paragons. An excellent riding companion that is easier to train and can even carry an acceptable amount of luggage, the majority of which contains feed.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; All equine hybrids are good for caravaning. A caravan with one of them needs a shorter resting period, only stopping to rest between 23:30 PM and 4 AM. Always starts as draftable, even if not using a controller booster to create it. Charge ability: when drafted, the player can use the charge ability to make the hybrid jump towards a target and cause massive damage with its horn to a single random body part. The ability can be triggered every 2 hours. -->
+  <GR_Thrumhorse.tools.0.label>рог</GR_Thrumhorse.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumhorse.tools.2.label>левое копыто</GR_Thrumhorse.tools.2.label>
+  <!-- EN:left foot -->
+  <GR_Thrumhorse.tools.3.label>правое копыто</GR_Thrumhorse.tools.3.label>
+  <!-- EN:right foot -->
+  <GR_Thrumhorse.tools.4.label>голова</GR_Thrumhorse.tools.4.label>
+  <!-- EN:head -->
+
+
+  <!-- Humanoid - Thrumbo -->
+
+  <GR_Thrumboman.label>трумболюд</GR_Thrumboman.label>
+  <!-- EN:thrumboman -->
+  <GR_Thrumboman.description>Давайте начистоту, мы все здесь хотим одного и того же - чтобы прирученные трумбо не поедали весь урожай ещё до того, как он созреет, пуская бумалопе под хвост все потраченные на его выращивание усилия. Жаль это говорить, но таких трумбо не существует. Но вместо этого мы сделали так, что этот самый трумбо сначала соберёт урожай, а потом уже будет его есть. Чаще всего. Если только это не деревья. В этом случае мы ничем не поможем.\n\nГибрид-колосс с рецессивными генами гуманоида. Значительно лучше поддаётся обучению и тренировке. Конкретно этот вид гибрида будет помогать поселению, собирая урожай и срезая обозначенные растения. Отличается необычной стройностью, учитывая сколько такой гибрид ест, поэтому особенно много материалов при разделывании его туши ждать не следует.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; Гуманоидные гибриды будут периодически общаться с поселенцами на разные темы. Это удовлетворяет потребность поселенцев в общении на 10% (так же, как и с другими типами развлечений, их эффективность будет снижаться от повторения). Если используется дополнение Ideology, то идеи в поселении будут влиять и на гуманоидных гибридов. У всех гибридов-колоссов снижена скорость атаки, но они обладают огромной физической силой и их тела естественным образом защищены от большей части атак. Трумболюды будут собирать урожай и вырубать растения по всей территории поселения.</GR_Thrumboman.description>
+  <!-- EN:>Look, we know what you want, a thrumbo that won’t eat your crops before they’ve harvested, thereby wasting entire seasons of growth for your most valuable plants. And we’re here to tell you it doesn’t exist. But we’ve gotten close in that this one will typically harvest your plants before it eats them for worse nutritional gain. Unless it’s trees, in which case we got nothing.\n\nA colossal hybrid with recessive humanoid genes. Considerably easier to train and maintain, this particular hybrid will help around the colony by cutting and harvesting designated plants. Unusually lean for how much it eats, it won’t provide much in butchering.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; Humanoid hybrids will periodically engage other colonists in conversation, talking about a variety of topics. This increases the social recreation needs of those they interact with by 10% (subject to diminishing returns like all joy types). If using Ideology, humanoid hybrids are subject to precepts. All colossal hybrids have very slow attacks, but hit very hard, and possess natural armor. Thrumbomen will obey orders to cut and harvest plants around the colony. -->
+  <GR_Thrumboman.tools.0.label>рог</GR_Thrumboman.tools.0.label>
+  <!-- EN:horn -->
+  <GR_Thrumboman.tools.2.label>левая стопа</GR_Thrumboman.tools.2.label>
+  <!-- EN:left foot -->
+  <GR_Thrumboman.tools.3.label>правая стопа</GR_Thrumboman.tools.3.label>
+  <!-- EN:right foot -->
+  <GR_Thrumboman.tools.4.label>голова</GR_Thrumboman.tools.4.label>
+  <!-- EN:head -->
+
+
+</LanguageData>

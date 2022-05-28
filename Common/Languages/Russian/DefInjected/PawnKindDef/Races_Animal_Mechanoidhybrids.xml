@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanoid - Bear -->
+
+  <GR_Mechabear.label>mechabear</GR_Mechabear.label>
+  <GR_Mechabear.labelPlural>mechabears</GR_Mechabear.labelPlural>
+  <GR_Mechabear.labelMale>male mechabear</GR_Mechabear.labelMale>
+  <GR_Mechabear.labelMalePlural>male mechabears</GR_Mechabear.labelMalePlural>
+  <GR_Mechabear.labelFemale>female mechabear</GR_Mechabear.labelFemale>
+  <GR_Mechabear.labelFemalePlural>female mechabears</GR_Mechabear.labelFemalePlural>
+
+
+  <!-- Mechanoid - Boomalope -->
+
+  <GR_Mechalope.label>mechalope</GR_Mechalope.label>
+  <GR_Mechalope.labelPlural>mechalopes</GR_Mechalope.labelPlural>
+  <GR_Mechalope.labelMale>male mechalope</GR_Mechalope.labelMale>
+  <GR_Mechalope.labelMalePlural>male mechalopes</GR_Mechalope.labelMalePlural>
+  <GR_Mechalope.labelFemale>female mechalope</GR_Mechalope.labelFemale>
+  <GR_Mechalope.labelFemalePlural>female mechalopes</GR_Mechalope.labelFemalePlural>
+
+
+  <!-- Mechanoid - Chicken -->
+
+  <GR_Mechachicken.label>mecha-chicken</GR_Mechachicken.label>
+  <GR_Mechachicken.labelPlural>mecha-chickens</GR_Mechachicken.labelPlural>
+  <GR_Mechachicken.labelMale>male mecha-chicken</GR_Mechachicken.labelMale>
+  <GR_Mechachicken.labelMalePlural>male mecha-chickens</GR_Mechachicken.labelMalePlural>
+  <GR_Mechachicken.labelFemale>female mecha-chicken</GR_Mechachicken.labelFemale>
+  <GR_Mechachicken.labelFemalePlural>female mecha-chickens</GR_Mechachicken.labelFemalePlural>
+
+
+  <!-- Mechanoid - Insectoid -->
+
+  <GR_Mechaspider.label>mechaspider</GR_Mechaspider.label>
+  <GR_Mechaspider.labelPlural>mechaspiders</GR_Mechaspider.labelPlural>
+  <GR_Mechaspider.labelMale>male mechaspider</GR_Mechaspider.labelMale>
+  <GR_Mechaspider.labelMalePlural>male mechaspiders</GR_Mechaspider.labelMalePlural>
+  <GR_Mechaspider.labelFemale>female mechaspider</GR_Mechaspider.labelFemale>
+  <GR_Mechaspider.labelFemalePlural>female mechaspiders</GR_Mechaspider.labelFemalePlural>
+
+
+  <!-- Mechanoid - Muffalo -->
+
+  <GR_Mechamuffalo.label>mecha-muffalo</GR_Mechamuffalo.label>
+  <GR_Mechamuffalo.labelPlural>mecha-muffalos</GR_Mechamuffalo.labelPlural>
+  <GR_Mechamuffalo.labelMale>male mecha-muffalo</GR_Mechamuffalo.labelMale>
+  <GR_Mechamuffalo.labelMalePlural>male mecha-muffalos</GR_Mechamuffalo.labelMalePlural>
+  <GR_Mechamuffalo.labelFemale>female mecha-muffalo</GR_Mechamuffalo.labelFemale>
+  <GR_Mechamuffalo.labelFemalePlural>female mecha-muffalos</GR_Mechamuffalo.labelFemalePlural>
+
+
+  <!-- Mechanoid - Rodent -->
+
+  <GR_Mecharat.label>mecha-rat</GR_Mecharat.label>
+  <GR_Mecharat.labelPlural>mecha-rats</GR_Mecharat.labelPlural>
+  <GR_Mecharat.labelMale>male mecha-rat</GR_Mecharat.labelMale>
+  <GR_Mecharat.labelMalePlural>male mecha-rats</GR_Mecharat.labelMalePlural>
+  <GR_Mecharat.labelFemale>female mecha-rat</GR_Mecharat.labelFemale>
+  <GR_Mecharat.labelFemalePlural>female mecha-rats</GR_Mecharat.labelFemalePlural>
+
+
+  <!-- Mechanoid - Reptile -->
+
+  <GR_Mechaturtle.label>mechaturtle</GR_Mechaturtle.label>
+  <GR_Mechaturtle.labelPlural>mechaturtles</GR_Mechaturtle.labelPlural>
+  <GR_Mechaturtle.labelMale>male mechaturtle</GR_Mechaturtle.labelMale>
+  <GR_Mechaturtle.labelMalePlural>male mechaturtles</GR_Mechaturtle.labelMalePlural>
+  <GR_Mechaturtle.labelFemale>female mechaturtle</GR_Mechaturtle.labelFemale>
+  <GR_Mechaturtle.labelFemalePlural>female mechaturtles</GR_Mechaturtle.labelFemalePlural>
+
+
+  <!-- Mechanoid - Wolf -->
+
+  <GR_Mechawolf.label>mechawolf</GR_Mechawolf.label>
+  <GR_Mechawolf.labelPlural>mechawolfs</GR_Mechawolf.labelPlural>
+  <GR_Mechawolf.labelMale>male mechawolf</GR_Mechawolf.labelMale>
+  <GR_Mechawolf.labelMalePlural>male mechawolfs</GR_Mechawolf.labelMalePlural>
+  <GR_Mechawolf.labelFemale>female mechawolf</GR_Mechawolf.labelFemale>
+  <GR_Mechawolf.labelFemalePlural>female mechawolfs</GR_Mechawolf.labelFemalePlural>
+
+
+  <!-- Mechanoid - Thrumbo -->
+
+  <GR_Mechathrumbo.label>mechathrumbo</GR_Mechathrumbo.label>
+  <GR_Mechathrumbo.labelPlural>mechathrumbos</GR_Mechathrumbo.labelPlural>
+  <GR_Mechathrumbo.labelMale>male mechathrumbo</GR_Mechathrumbo.labelMale>
+  <GR_Mechathrumbo.labelMalePlural>male mechathrumbos</GR_Mechathrumbo.labelMalePlural>
+  <GR_Mechathrumbo.labelFemale>female mechathrumbo</GR_Mechathrumbo.labelFemale>
+  <GR_Mechathrumbo.labelFemalePlural>female mechathrumbos</GR_Mechathrumbo.labelFemalePlural>
+
+
+  <!-- Mechanoid - Cat -->
+
+  <GR_Mechacat.label>mechacat</GR_Mechacat.label>
+  <GR_Mechacat.labelPlural>mechacats</GR_Mechacat.labelPlural>
+  <GR_Mechacat.labelMale>male mechacat</GR_Mechacat.labelMale>
+  <GR_Mechacat.labelMalePlural>male mechacats</GR_Mechacat.labelMalePlural>
+  <GR_Mechacat.labelFemale>female mechacat</GR_Mechacat.labelFemale>
+  <GR_Mechacat.labelFemalePlural>female mechacats</GR_Mechacat.labelFemalePlural>
+
+
+  <!-- Mechanoid - Horse -->
+
+  <GR_Mechahorse.label>mecha-horse</GR_Mechahorse.label>
+  <GR_Mechahorse.labelPlural>mecha-horses</GR_Mechahorse.labelPlural>
+  <GR_Mechahorse.labelMale>male mecha-horse</GR_Mechahorse.labelMale>
+  <GR_Mechahorse.labelMalePlural>male mecha-horses</GR_Mechahorse.labelMalePlural>
+  <GR_Mechahorse.labelFemale>female mecha-horse</GR_Mechahorse.labelFemale>
+  <GR_Mechahorse.labelFemalePlural>female mecha-horses</GR_Mechahorse.labelFemalePlural>
+
+
+  <!-- Mechanoid - Humanoid -->
+
+  <GR_Mechamime.label>mecha-mime</GR_Mechamime.label>
+  <GR_Mechamime.labelPlural>mecha-mimes</GR_Mechamime.labelPlural>
+  <GR_Mechamime.labelMale>male mecha-mime</GR_Mechamime.labelMale>
+  <GR_Mechamime.labelMalePlural>male mecha-mimes</GR_Mechamime.labelMalePlural>
+  <GR_Mechamime.labelFemale>female mecha-mime</GR_Mechamime.labelFemale>
+  <GR_Mechamime.labelFemalePlural>female mecha-mimes</GR_Mechamime.labelFemalePlural>
+
+
+</LanguageData>

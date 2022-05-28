@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_GreatApe.label>крупный примат</GR_GreatApe.label>
+  <GR_GreatApe.corePart.parts.0.customLabel>левая ключица</GR_GreatApe.corePart.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.1.customLabel>правая ключица</GR_GreatApe.corePart.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.8.customLabel>левое лёгкое</GR_GreatApe.corePart.parts.8.customLabel>
+  <GR_GreatApe.corePart.parts.9.customLabel>правая лёгкое</GR_GreatApe.corePart.parts.9.customLabel>
+  <GR_GreatApe.corePart.parts.10.customLabel>левая почка</GR_GreatApe.corePart.parts.10.customLabel>
+  <GR_GreatApe.corePart.parts.11.customLabel>правая почка</GR_GreatApe.corePart.parts.11.customLabel>
+  <GR_GreatApe.corePart.parts.13.parts.0.parts.1.customLabel>левый глаз</GR_GreatApe.corePart.parts.13.parts.0.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.13.parts.0.parts.2.customLabel>правый глаз</GR_GreatApe.corePart.parts.13.parts.0.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.13.parts.0.parts.3.customLabel>левое ухо</GR_GreatApe.corePart.parts.13.parts.0.parts.3.customLabel>
+  <GR_GreatApe.corePart.parts.13.parts.0.parts.4.customLabel>правое ухо</GR_GreatApe.corePart.parts.13.parts.0.parts.4.customLabel>
+  <GR_GreatApe.corePart.parts.14.customLabel>левое плечо</GR_GreatApe.corePart.parts.14.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.customLabel>левая рука</GR_GreatApe.corePart.parts.14.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.parts.0.customLabel>левая плечевая кость</GR_GreatApe.corePart.parts.14.parts.0.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.parts.1.customLabel>левая предплечье</GR_GreatApe.corePart.parts.14.parts.0.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.parts.2.customLabel>левая кисть</GR_GreatApe.corePart.parts.14.parts.0.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.0.customLabel>левый мизинец</GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.1.customLabel>левый безымянный палец</GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.2.customLabel>левый средний палец</GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.3.customLabel>левый указательный палец</GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.3.customLabel>
+  <GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.4.customLabel>левый большой палец</GR_GreatApe.corePart.parts.14.parts.0.parts.2.parts.4.customLabel>
+  <GR_GreatApe.corePart.parts.15.customLabel>правое плечо</GR_GreatApe.corePart.parts.15.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.customLabel>правая рука</GR_GreatApe.corePart.parts.15.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.parts.0.customLabel>правая плечевая кость</GR_GreatApe.corePart.parts.15.parts.0.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.parts.1.customLabel>правое предплечье</GR_GreatApe.corePart.parts.15.parts.0.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.parts.2.customLabel>правая кисть</GR_GreatApe.corePart.parts.15.parts.0.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>правый мизинец</GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>правый безымянный палец</GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>правый средний палец</GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>правый указательный палец</GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>
+  <GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>правый большой палец</GR_GreatApe.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>
+  <GR_GreatApe.corePart.parts.16.customLabel>левая нога</GR_GreatApe.corePart.parts.16.customLabel>
+  <GR_GreatApe.corePart.parts.16.parts.0.customLabel>левое бедро</GR_GreatApe.corePart.parts.16.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.16.parts.1.customLabel>левая голень</GR_GreatApe.corePart.parts.16.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.16.parts.2.customLabel>левая стопа</GR_GreatApe.corePart.parts.16.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.16.parts.2.parts.0.customLabel>мизинец левой ноги</GR_GreatApe.corePart.parts.16.parts.2.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.16.parts.2.parts.1.customLabel>безымянный палец левой</GR_GreatApe.corePart.parts.16.parts.2.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.16.parts.2.parts.2.customLabel>средний палец левой ноги</GR_GreatApe.corePart.parts.16.parts.2.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.16.parts.2.parts.3.customLabel>указательный палец левой ноги</GR_GreatApe.corePart.parts.16.parts.2.parts.3.customLabel>
+  <GR_GreatApe.corePart.parts.16.parts.2.parts.4.customLabel>большой палец левой ноги</GR_GreatApe.corePart.parts.16.parts.2.parts.4.customLabel>
+  <GR_GreatApe.corePart.parts.17.customLabel>правая нога</GR_GreatApe.corePart.parts.17.customLabel>
+  <GR_GreatApe.corePart.parts.17.parts.0.customLabel>правое бедро</GR_GreatApe.corePart.parts.17.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.17.parts.1.customLabel>правая голень</GR_GreatApe.corePart.parts.17.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.17.parts.2.customLabel>правая стопа</GR_GreatApe.corePart.parts.17.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.17.parts.2.parts.0.customLabel>мизинец правой ноги</GR_GreatApe.corePart.parts.17.parts.2.parts.0.customLabel>
+  <GR_GreatApe.corePart.parts.17.parts.2.parts.1.customLabel>безымянный палец правой</GR_GreatApe.corePart.parts.17.parts.2.parts.1.customLabel>
+  <GR_GreatApe.corePart.parts.17.parts.2.parts.2.customLabel>средний палец правой ноги</GR_GreatApe.corePart.parts.17.parts.2.parts.2.customLabel>
+  <GR_GreatApe.corePart.parts.17.parts.2.parts.3.customLabel>указательный палец правой ноги</GR_GreatApe.corePart.parts.17.parts.2.parts.3.customLabel>
+  <GR_GreatApe.corePart.parts.17.parts.2.parts.4.customLabel>большой палец правой ноги</GR_GreatApe.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

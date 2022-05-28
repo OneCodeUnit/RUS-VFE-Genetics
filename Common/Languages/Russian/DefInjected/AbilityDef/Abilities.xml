@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_DeathRay.label>орбитальный тепловой луч</GR_DeathRay.label>
+  <!-- EN: orbital heat ray -->
+  <GR_DeathRay.description>Перенаправляет спутник механоидов для ведения огня по выбранному месту.</GR_DeathRay.description>
+   <!-- EN: Redirects an orbital mechanoid satellite to fire upon a selected location. -->
+
+  <GR_SetTrap.label>установить химтопливную ловушку</GR_SetTrap.label>
+  <!-- EN: set chemfuel trap -->
+  <GR_SetTrap.description>Устанавливает мину-ловушку. На челопу она не сработает.</GR_SetTrap.description>
+  <!-- EN: Sets an explosive trap. The Manalope won't trigger it. -->
+
+  <GR_DetonateBomb.label>подорвать химтопливо</GR_DetonateBomb.label>
+   <!-- EN: detonate chemfuel -->
+  <GR_DetonateBomb.description>Удалённо взорвать химтопливо внутри животного. Взрыв нанесёт урон и самому животному.</GR_DetonateBomb.description>
+  <!-- EN: Remotely detonate the chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
+
+  <GR_VentHeatedExhaust.label>выпустить перегретый газ</GR_VentHeatedExhaust.label>
+  <!-- EN: vent heated exhaust -->
+  <GR_VentHeatedExhaust.description>Выпускает перегретый газ, накопившийся в результате внутренних процессов гибрида. Это создаёт вокруг гибрида волну перегретого воздуха, воздействующую на окружающее пространство, но не на самого гибрида.</GR_VentHeatedExhaust.description>
+<!-- EN: Vents the heated gasses produced by this mechanoid hybrid's internal processes. This creates a wave of superheated ait that will affect the surrounding tiles. It will not affect the hybrid. -->
+
+  <GR_DetonateAcid.label>подорвать кислотное химтопливо</GR_DetonateAcid.label>
+  <!-- EN: detonate acidic chemfuel -->
+  <GR_DetonateAcid.description>Удалённо взорвать кислотное химтопливо внутри животного. Взрыв нанесёт урон и самому животному.
+  </GR_DetonateAcid.description>
+<!-- EN: Remotely detonate the acidic chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion. -->
+
+  <GR_PoisonousCloud.label>выпустить ядовитое облако</GR_PoisonousCloud.label>
+  <!-- EN: release venomous cloud -->
+  <GR_PoisonousCloud.description>Выпускает облако ядовитого газа. На само животное это НЕ повлияет.</GR_PoisonousCloud.description>
+<!-- EN:  -->
+  <GR_DetonatePoison.label>подорвать ядовитое химтопливо</GR_DetonatePoison.label>
+  <!-- EN:  -->
+  <GR_DetonatePoison.description>Удалённо взорвать ядовитое химтопливо внутри животного. Взрыв нанесёт урон и самому животному.</GR_DetonatePoison.description>
+  <!-- EN:  -->
+
+  <GR_DetonateFrost.label>подорвать криотопливо</GR_DetonateFrost.label>
+  <!-- EN: detonate cryo chemfuel  -->
+  <GR_DetonateFrost.description>Удалённо взорвать криотопливо внутри животного. Взрыв нанесёт урон и самому животному.</GR_DetonateFrost.description>
+  <!-- EN: Remotely detonate the cryo chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion.-->
+
+  <GR_DetonateStun.label>подорвать оглушающее химтопливо</GR_DetonateStun.label>
+  <!-- EN: detonate stunning chemfuel -->
+  <GR_DetonateStun.description>Удалённо взорвать оглушающее химтопливо внутри животного. Взрыв нанесёт урон и самому животному.</GR_DetonateStun.description>
+  <!-- EN: Remotely detonate the stunning chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion.  -->
+
+  <GR_ChemfuelDischarge.label>химтопливный разряд</GR_ChemfuelDischarge.label>
+  <!-- EN: chemfuel discharge -->
+  <GR_ChemfuelDischarge.description>Удалённо взорвать химтопливо внутри животного. Взрыв нанесёт урон и самому животному.</GR_ChemfuelDischarge.description>
+  <!-- EN: Remotely detonate the chemfuel reservoirs of this creature. The animal will be affected and damaged by the resulting explosion.  -->
+
+  <GR_FragEggs.label>отложить осколочно-фугасные яйца</GR_FragEggs.label>
+  <!-- EN: lay frag eggs -->
+  <GR_FragEggs.description>Отложить несколько взрывающихся яиц. Взрыв нанесёт урон и самому животному.</GR_FragEggs.description>
+  <!-- EN: Lay several exploding eggs. The animal will be affected and damaged by the resulting explosion. -->
+
+  <GR_AdrenalineRush.label>выброс адреналина</GR_AdrenalineRush.label>
+  <!-- EN: adrenaline rush -->
+  <GR_AdrenalineRush.description>Позволяет существу некоторое время двигаться быстрее, но ценой усталости в течение примерно полусуток.</GR_AdrenalineRush.description>
+  <!-- EN: Causes the creature to move much faster for a while, at the cost of getting tired afterwards for almost half a day. -->
+
+  <GR_CatReflexes.label>кошачьи рефлексы</GR_CatReflexes.label>
+  <!-- EN: cat reflexes -->
+  <GR_CatReflexes.description>Делает существо более ловким, увеличивая его шансы увернуться от удара в рукопашном бою.</GR_CatReflexes.description>
+  <!-- EN: Makes the creature much more agile, improving its chance to dodge melee attacks even further. -->
+
+  <GR_InsectClouds.label>облако насекомых</GR_InsectClouds.label>
+  <!-- EN: insect clouds -->
+  <GR_InsectClouds.description>Окутывает существо облаком насекомых, которые будут атаковать любое приблизившееся существо, кроме образцов насекомых.</GR_InsectClouds.description>
+  <!-- EN: Spawns a cloud of drones surrounding this animal that will cut apart any creature, excluding all insectoid paragons. -->
+
+  <GR_Burrow.label>зарыться под землю</GR_Burrow.label>
+  <!-- EN: burrow underground -->
+  <GR_Burrow.description>Существо закапывает себя под землю, становясь на некоторое время намного более устойчивым к урону.</GR_Burrow.description>
+  <!-- EN: Sends the creature underground into burrowing mode, making it very resistant to damage for a while. -->
+
+  <GR_StampedeClouds.label>бегство</GR_StampedeClouds.label>
+  <!-- EN: stampede -->
+  <GR_StampedeClouds.description>Существо начинает двигаться значительно быстрее и двигаясь, поднимает облака пыли, которые скрывают его от дальнобойного оружия. Через некоторое время существо выдыхается и становится уставшим. </GR_StampedeClouds.description>
+  <!-- EN: Stampedes, moving faster and creating dust clouds that block line of view for projectile weapons. Gets the creature tired after a while. -->
+
+  <GR_KeenSenses.label>чутьё</GR_KeenSenses.label>
+  <!-- EN: keen senses -->
+  <GR_KeenSenses.description>Делает существо более внимательным к своему окружению, улучшает его боевые качества. (Влияет на зрение, шанс на удар и уровень сознания)</GR_KeenSenses.description>
+  <!-- EN: Makes the creature more aware of its surroundings, increasing its melee capacities (affects sight, hit chance and consciousness) -->
+
+  <GR_PackTactics.label>стайное поведение</GR_PackTactics.label>
+  <!-- EN: pack tactics -->
+  <GR_PackTactics.description>Привлечь находящихся поблизости муфаволков, чтобы стаей загнать добычу.</GR_PackTactics.description>
+  <!-- EN: Collaborate with other nearby muffalowolves to bring down prey. -->
+
+  <GR_ResearchDrive.label>исследовательский раж</GR_ResearchDrive.label>
+  <!-- EN: research drive -->
+  <GR_ResearchDrive.description>Предложить находящимся поблизости исследователям идеи, позволяя им осуществить прорыв в их работе.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt; «‎Коллеги, задумывались ли вы о том, чтобы отказаться от человечности и вернуться в обезьянность? Пища для размышлений.»</GR_ResearchDrive.description>
+  <!-- EN: Offer investigative insights to nearby researches, allowing them to more easily reach a breakthrough. Gameplay effect: Offer investigative insights to nearby researches, allowing them to more easily reach a breakthrough.-->
+
+
+</LanguageData>

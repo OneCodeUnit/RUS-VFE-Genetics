@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Human Hybrid Implants -->
+
+  <GR_BearClaws.label>имплант для гуманоида: медвежьи когти</GR_BearClaws.label>
+  <!-- EN:humanoid implant: bear claws -->
+
+  <GR_BearClaws.description>Переосмысление бионической Силовой Клешни. Этот имплант был специально выращен путём совмещения медвежьей и человеческой ДНК. Оснащает кисть руки невтягиваемыми медвежьими когтями.</GR_BearClaws.description>
+  <!-- EN:An improvement over the bionic Power Claw, these claws have been vat-grown with a mixture of human and bear DNA, and replace the subject's hand with versatile, non-retractable claws. -->
+
+  <GR_BearClaws.comps.1.tools.0.label>медвежьи когти</GR_BearClaws.comps.1.tools.0.label>
+  <!-- EN:bear claws -->
+
+
+  <GR_DiggingBearClaws.label>имплант для гуманоида: кротовьи лапы</GR_DiggingBearClaws.label>
+  <!-- EN:humanoid implant: digging mole claws -->
+
+  <GR_DiggingBearClaws.description>Уродливые, но сильные лопатовидные кисти рук, которые были изменены с тем, чтобы быть полезными при горных работах. Влияют на скорость и эффективность добычи руд.</GR_DiggingBearClaws.description>
+  <!-- EN:Grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield. -->
+
+  <GR_DiggingBearClaws.comps.1.tools.0.label>mole claws</GR_DiggingBearClaws.comps.1.tools.0.label>
+  <!-- EN:mole claws -->
+
+
+  <GR_BearMuscleTissue.label>имплант для гуманоида: медвежьи мышечные волокна</GR_BearMuscleTissue.label>
+  <!-- EN:humanoid implant: bear muscle tissue -->
+
+  <GR_BearMuscleTissue.description>Фрагменты мышечных волокон медведя, пересаженные на торс пациента, делают его сильнее и выносливее. Но из-за содержащегося в них генетического материала медведя, они усиливают рост волос на теле.</GR_BearMuscleTissue.description>
+  <!-- EN:Grafts of bear muscle tissue on the subject's torso increase overall strength and stamina. These grafts however tend to stimulate the production of an abundance of body hair. -->
+
+
+  <GR_HibernationModule.label>имплант для гуманоида: гибернационный модуль</GR_HibernationModule.label>
+  <!-- EN:humanoid implant: hibernation module -->
+
+  <GR_HibernationModule.description>Биочип, уменьшающий потребность во сне.</GR_HibernationModule.description>
+  <!-- EN:A biochip that modifies the brain to reduce the need for sleep. -->
+
+
+  <GR_Ovipositor.label>имплант для гуманоида: яйцеклад</GR_Ovipositor.label>
+  <!-- EN:humanoid implant: ovipositor -->
+
+  <GR_Ovipositor.description>О том, что вы зашли в своих научных изысканиях слишком далеко говорит то, что вы решаете имплантировать человеку яйцеклад. Это позволит поселенцу откладывать куриные яйца два раза в день. А ещё это чертовски больно. Да и просто фу.</GR_Ovipositor.description>
+  <!-- EN:You know you have gone too far in your scientific experiments when you are implanting a human being with an ovipositor. This will enable the colonist to lay chicken eggs twice a day. It hurts as hell, though. Also, yuck. -->
+
+
+  <GR_MuffaloMammaries.label>имплант для гуманоида: молочные железы муффало</GR_MuffaloMammaries.label>
+  <!-- EN:humanoid implant: muffalo mammaries -->
+
+  <GR_MuffaloMammaries.description>Имплантируя молочные железы муффало поселенцу... Стоп, что? Кто это вообще придумал? Так, ладно... В общем, это... Это позволит вам доить ваших поселенцев... Что за...</GR_MuffaloMammaries.description>
+  <!-- EN:By implanting muffalo mammaries into a colonist... Wait, what??? Who came up with this idea????? Anyway... this implant allows your colonist to be milked... What the... -->
+
+
+  <GR_MuffaloMuscles.label>имплант для гуманоида: усиленные мышцы муффало</GR_MuffaloMuscles.label>
+  <!-- EN:humanoid implant: muffalo strengthened muscles -->
+
+  <GR_MuffaloMuscles.description>Интеграция мышечных волокон муффало в мускулатуру пациента, позволяет значительно усилить его физическую силу, устойчивость к урону и максимально переносимый вес.</GR_MuffaloMuscles.description>
+  <!-- EN:By weaving muffalo muscle strands with the subject's muscular system, strength, resilience and carrying capacity are greatly increased. -->
+
+
+  <GR_MuffaloSkin.label>имплант для гуманоида: кожа муффало</GR_MuffaloSkin.label>
+  <!-- EN:humanoid implant: muffalo skin -->
+
+  <GR_MuffaloSkin.description>Синтетическая замена кожи на более прочную и обеспечивающую более надёжную защиту от низких температур. Также улучшает защиту от физического урона.</GR_MuffaloSkin.description>
+  <!-- EN:A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to low temperatures. -->
+
+
+  <GR_BoomalopeNodules.label>имплант для гуманоида: железы бумалопы</GR_BoomalopeNodules.label>
+  <!-- EN:humanoid implant: boomalope nodules -->
+
+  <GR_BoomalopeNodules.description>Кожные железы бумалопы могут быть внедрены в человеческий торс, вызывая мощный взрыв, если их носитель умрёт насильственной смертью.</GR_BoomalopeNodules.description>
+  <!-- EN:These skin nodules can be integrated in a human's torso, causing a huge explosion if the subjects dies violently. -->
+
+
+  <GR_ChemfuelStomach.label>имплант для гуманоида: химтопливный желудок</GR_ChemfuelStomach.label>
+  <!-- EN:humanoid implant: chemfuel stomach -->
+
+  <GR_ChemfuelStomach.description>Бионически усиленный желудок, в котором для ускорения пищеварительных процессов используется сочетание из желудочного сока и химтоплива.</GR_ChemfuelStomach.description>
+  <!-- EN:A reinforced bionic stomach that uses a combination of gastric acid and chemfuel to efficiently digest food. -->
+
+
+  <GR_ChemfuelHeart.label>имплант для гуманоида: химтопливное сердце</GR_ChemfuelHeart.label>
+  <!-- EN:humanoid implant: chemfuel heart -->
+
+  <GR_ChemfuelHeart.description>Бионически усиленное сердце, представляющее собой миниатюрный четырёхтактный двигатель внутреннего сгорания, потребляющий химтопливо в качестве горючего.</GR_ChemfuelHeart.description>
+  <!-- EN:A reinforced bionic heart that acts like a miniature 4-stroke internal combustion engine powered by chemfuel to pump blood through the body. -->
+
+
+  <GR_WolfMuscularFibers.label>имплант для гуманоида: волчьи связки</GR_WolfMuscularFibers.label>
+  <!-- EN:humanoid implant: wolf muscular fibers -->
+
+  <GR_WolfMuscularFibers.description>Нижние конечности субъекта могут быть усилены мышечными волокнами, взятыми у гибрида человека и волка. Таким образом субъект получает значительный прирост к физической силе и скорости передвижения.</GR_WolfMuscularFibers.description>
+  <!-- EN:The subject's legs can be modified by weaving hybrid human/wolf muscle fibers within the base tissue, giving her a significant strength and speed boost. -->
+
+
+  <GR_DevouringJaws.label>имплант для гуманоида: пожирающие челюсти</GR_DevouringJaws.label>
+  <!-- EN:humanoid implant: devouring jaws -->
+
+  <GR_DevouringJaws.description>Набор зубов усиленной конструкции. Спроектированы таким образом, чтобы позволять их владельцу за считанные мгновения пережёвывать практически любую пищу. Аккуратным этот процесс уже не будет..</GR_DevouringJaws.description>
+  <!-- EN:A set of improved teeth designed to rapidly chew and ingest any kind of food. Leaves kind of a mess, though... -->
+
+
+  <GR_NeuronReinforcement.label>имплант для гуманоида: усиленные нейроны</GR_NeuronReinforcement.label>
+  <!-- EN:humanoid implant: neuron reinforcement -->
+
+  <GR_NeuronReinforcement.description>Биочип, в котором использованы стволовые клетки животных. Позволяет усилить нейроны человека, отвечающие за когнитивные функции, а именно - способность к обучению и исследованиям.</GR_NeuronReinforcement.description>
+  <!-- EN:A biochip using animal stem cells to reinforce the natural abilities of human neurons, increasing learning and research speed. -->
+
+
+  <GR_MousePheromones.label>имплант для гуманоида: мышиные феромоны</GR_MousePheromones.label>
+  <!-- EN:humanoid implant: mouse pheromones -->
+
+  <GR_MousePheromones.description>Бионический сошнико-носовой орган, позволяющий субъекту осуществлять общение с другими животными при помощи феромонов. Положительно влияет на шанс успешного приручения и тренировки.</GR_MousePheromones.description>
+  <!-- EN:A bionic vomeronasal organ that allows the subject pheromonal communication with other animals, increasing the chance of taming and training them successfully. -->
+
+
+  <GR_MoleratNerveDampener.label>имплант для гуманоида: кротокрысиный нейроподавитель</GR_MoleratNerveDampener.label>
+  <!-- EN:humanoid implant: mole-rat nerve dampener -->
+
+  <GR_MoleratNerveDampener.description>Биочип, подавляющий болевую чувствительность. Позволяет субъекту легче перенести травматический шок.</GR_MoleratNerveDampener.description>
+  <!-- EN:A biochip that reduces pain sensitivity, allowing the subject to survive pain shock. -->
+
+
+  <GR_BunnyEars.label>имплант для гуманоида: заячье ухо</GR_BunnyEars.label>
+  <!-- EN:humanoid implant: bunny ear -->
+
+  <GR_BunnyEars.description>Это огромное заячье ухо обеспечивает великолепную остроту слуха. Идеально для анимешных девочек.</GR_BunnyEars.description>
+  <!-- EN:This huge leporid ear gives amazing enhanced hearing. Also, super kawaii! -->
+
+
+  <GR_InsectoidAntennae.label>имплант для гуманоида: антенна насекомого</GR_InsectoidAntennae.label>
+  <!-- EN:humanoid implant: insectoid antennae -->
+
+  <GR_InsectoidAntennae.description>Эти чувствительные отростки, взятые у гибридов человека и насекомого могут быть вживлены на голову субъекта, изменяя то, как он будет воспринимать окружающий мир. Могут вызывать сенсорную перегрузку из-за того, как окружающая действительность будет восприниматься.</GR_InsectoidAntennae.description>
+  <!-- EN:These hybrid humanoid / insectoid feeling appendages can be implanted in a subject's head, completely modifying the way the subject "sees" and feels the surrounding world. The experience may be slightly overwhelming due to sensorial overload. -->
+
+
+  <GR_CompoundEye.label>имплант для гуманоида: фасеточный глаз насекомого</GR_CompoundEye.label>
+  <!-- EN:humanoid implant: compound insectoid eye -->
+
+  <GR_CompoundEye.description>Этот зрительный орган, взятый у гибрида насекомого и человека, обеспечивает возможность зрения в значительно более широком диапазоне, по сравнению с обычным человеческим глазом, в значительной степени изменяя то, как субъект будет воспринимать окружающий мир.</GR_CompoundEye.description>
+  <!-- EN:This hybrid humanoid / insectoid eye provides improved vision in a wide range of different wavelengths, including those usually outside the human range, completely modifying the way the subject perceives his surroundings. -->
+
+
+  <GR_CatEye.label>имплант для гуманоида: кошачий глаз</GR_CatEye.label>
+  <!-- EN:humanoid implant: cat eye -->
+
+  <GR_CatEye.description>Этот зрительный орган, взятый у гибрида человека и представителя вида кошачьих позволяет улучшить зрение ночью ценой некоторой близорукости на улице и в дневное время. Идеально для поселенцев-сов.</GR_CatEye.description>
+  <!-- EN:This hybrid humanoid / feline eye provides improved night vision, at the expense of a certain short-sightedness outside and during the day. Ideal for nyctophile colonists. -->
+
+
+  <GR_PsychicDampeners.label>имплант для гуманоида: психоподавитель</GR_PsychicDampeners.label>
+  <!-- EN:humanoid implant: psychic dampeners -->
+
+  <GR_PsychicDampeners.description>Искуственный слухойо орган, который также подавляет псионические эманации, делая субъекта невосприимчивым к псионическим атакам механоидов.</GR_PsychicDampeners.description>
+  <!-- EN:Artificial hearing aids that block psychic emanations, providing considerable resistance to mechanoids' psychic attacks. -->
+
+
+  <GR_KidneyToxicFilters.label>имплант для гуманоида: почечные фильтры</GR_KidneyToxicFilters.label>
+  <!-- EN:humanoid implant: kidney toxic filters -->
+
+  <GR_KidneyToxicFilters.description>Эта биоэлектронная искуственная почка позволяет в значительной степени усилить фильтрацию крови, благодаря использованию в своей конструкции тканей насекомых. Также этот имплант усиливает устойчивость субъекта к различным токсинам.</GR_KidneyToxicFilters.description>
+  <!-- EN: -->
+
+
+  <GR_HumanThrumboHorn.label>имплант для гуманоида: рог трумбо</GR_HumanThrumboHorn.label>
+  <!-- EN:humanoid implant: thrumbo horn -->
+
+  <GR_HumanThrumboHorn.description>Генетически изменённый рог трумбо, который может быть установлен на лобную кость субъекта. Какой ужас.</GR_HumanThrumboHorn.description>
+  <!-- EN:A genetically modified thrumbo horn that can be implanted in a subject's forehead. Nasty. -->
+
+  <GR_HumanThrumboHorn.comps.1.tools.0.label>рог трумбо</GR_HumanThrumboHorn.comps.1.tools.0.label>
+  <!-- EN:thrumbo horn -->
+
+
+  <GR_ThrumboSkin.label>имплант для гуманоида: кожа трумбо</GR_ThrumboSkin.label>
+  <!-- EN:humanoid implant: thrumbo skin -->
+
+  <GR_ThrumboSkin.description>Синтетическая кожа, по своим термоизоляционным и защитным характеристикам намного превосходящая человеческую.</GR_ThrumboSkin.description>
+  <!-- EN:A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a lot of defense and makes the subject more resistant to extremes of temperature. -->
+
+
+  <GR_VenomousFangs.label>имплант для гуманоида: ядовитые клыки</GR_VenomousFangs.label>
+  <!-- EN:humanoid implant: venomous fangs -->
+
+  <GR_VenomousFangs.description>Этот имплант оснащает ротовую полость субъекта парой клыков с ядовитыми железами. Полезно в бою, неудобно в быту.</GR_VenomousFangs.description>
+  <!-- EN:This hybrid implant substitutes the subject's jaw with a set of venomous fangs. Useful in combat, but not very comfortable. -->
+
+  <GR_VenomousFangs.comps.1.tools.0.label>ядовитые клыки</GR_VenomousFangs.comps.1.tools.0.label>
+  <!-- EN:venomous fangs -->
+
+
+  <GR_IguanaScales.label>имплант для гуманоида: чешуя игуаны</GR_IguanaScales.label>
+  <!-- EN:humanoid implant: iguana scales -->
+
+  <GR_IguanaScales.description>Синтетическая кожа, намного толще человеческой и лучше защищает от жары. Также имеет сравнительно неплохие защитные характеристики.</GR_IguanaScales.description>
+  <!-- EN:A synthetic skin substitute that is much thicker and a much better insulator than human skin. This provides a measure of defense but, more importantly, makes the subject more resistant to high temperatures. -->
+
+
+
+</LanguageData>

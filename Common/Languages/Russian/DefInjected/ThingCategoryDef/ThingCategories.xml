@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_GeneticMaterial.label>genetic materials</GR_GeneticMaterial.label>
+  <!-- EN:genetic materials -->
+  <GR_GeneticMaterialTierOne.label>genetic materials (tier 1)</GR_GeneticMaterialTierOne.label>
+  <!-- EN:genetic materials (tier 1) -->
+  <GR_GeneticMaterialTierTwoOrThree.label>genetic materials (tiers 2 and 3)</GR_GeneticMaterialTierTwoOrThree.label>
+  <!-- EN:genetic materials (tiers 2 and 3) -->
+  <GR_GenomeExcavators.label>genome excavators</GR_GenomeExcavators.label>
+  <!-- EN:genome excavators -->
+  <GR_Incubators.label>growth cells</GR_Incubators.label>
+  <!-- EN:growth cells -->
+  <GR_Genoframes.label>genoframes</GR_Genoframes.label>
+  <!-- EN:genoframes -->
+  <GR_Boosters.label>boosters</GR_Boosters.label>
+  <!-- EN:boosters -->
+  <GR_Corpses.label>hybrid and paragon corpses</GR_Corpses.label>
+  <!-- EN:hybrid and paragon corpses -->
+  <GR_HumanoidCorpses.label>трупы гуманоидных гибридов</GR_HumanoidCorpses.label>
+  <!-- EN:humanoid hybrid corpses -->
+  <GR_ImplantCategory.label>импланты для гибридов</GR_ImplantCategory.label>
+  <!-- EN:hybrid implants -->
+
+
+</LanguageData>

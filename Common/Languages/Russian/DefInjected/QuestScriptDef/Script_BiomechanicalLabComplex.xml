@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->The biomechanical lab beacon managed to decode the strange radio signals emanating from inside the strange mechanoid chip, revealing the coordinates of a lab complex not far from [map_definite]. This site seems to have been better hidden than the abandoned labs we have been exploring lately.\n\nThe beacon also revealed the original function of the lab complex: infusing paragon hybrids with reconstructive mechanites to somehow increase their power. Perhaps we should travel to the site with some of these hybrids.</li>
+  -->
+  <GR_OpportunitySite_BiomechanicalLab.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Аварийный маяк биомеханической лаборатории расшифровал сингал, исходящий из странного чипа механоидов, и раскрыл своё местонахождение неподалёку от [map_definite]. Судя по всему, это место было намного лучше спрятано от посторонних, чем исследованные ранее лаборатории.\n\nПомимо этого, маяк раскрыл информацию о предназначении этой лаборатории — улучшение и усиление гибридов механитами. Возможно, будет полезно взять несколько гибридов с собой.</li>
+  </GR_OpportunitySite_BiomechanicalLab.questDescriptionRules.rulesStrings>
+  <!-- EN:
+		<li>questName(priority=1)->[journey] the [adjectiveLab] [ruins]</li>
+       
+		<li>journey->Mission to</li>
+		<li>journey->Exploration of</li>
+		<li>journey->Investigation of</li>
+		<li>journey->Research into</li>
+		<li>adjectiveLab->Mysterious</li>
+		<li>adjectiveLab->Hidden</li>
+		<li>adjectiveLab->Concealed</li>
+		<li>adjectiveLab->Secret</li>
+		<li>adjectiveLab->Camouflaged</li>
+		<li>ruins->biomechanical lab</li>      
+		<li>ruins->biomechanical complex</li>      
+		<li>ruins->mechanoid installation</li>
+  -->
+  <GR_OpportunitySite_BiomechanicalLab.questNameRules.rulesStrings>
+		<li>questName(priority=1)->[journey] [adjectiveLab] [ruins]</li>
+		<li>journey->Экспедиция в</li>
+		<li>journey->Миссия в</li>
+		<li>journey->Исследование</li>
+		<li>journey->Расследование в</li>
+		<li>journey->Поиски в</li>
+		<li>adjectiveLab->скрытой</li>
+		<li>adjectiveLab->секретной</li>
+		<li>adjectiveLab->загадочной</li>
+		<li>adjectiveLab->потайной</li>
+		<li>adjectiveLab->замаскированной</li>
+		<li>ruins->биомеханической лаборатории</li>      
+		<li>ruins->биомеханическом комплексе</li>
+		<li>ruins->базе механоидов</li>
+  </GR_OpportunitySite_BiomechanicalLab.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <GR_OpportunitySite_BiomechanicalLab.LetterLabelQuestExpired.slateRef>Время задания истекло: [resolvedQuestName]</GR_OpportunitySite_BiomechanicalLab.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the biomechanical lab has been scavenged by others. The quest [resolvedQuestName] has expired. -->
+  <GR_OpportunitySite_BiomechanicalLab.LetterTextQuestExpired.slateRef>Судя по перехваченным сообщениям, покинутую биомеханическую лабораторию кто-то уже разграбил. Время, отведённое для задания [resolvedQuestName], истекло.</GR_OpportunitySite_BiomechanicalLab.LetterTextQuestExpired.slateRef>
+
+</LanguageData>

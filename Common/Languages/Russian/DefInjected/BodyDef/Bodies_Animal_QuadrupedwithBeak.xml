@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GR_QuadrupedAnimalWithBeak.label>четвероногое существо с клювом</GR_QuadrupedAnimalWithBeak.label>
+  <!-- EN: quadruped animal with beak -->
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.3.customLabel>левое лёгкое</GR_QuadrupedAnimalWithBeak.corePart.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.4.customLabel>правое лёгкое</GR_QuadrupedAnimalWithBeak.corePart.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.5.customLabel>левая почка</GR_QuadrupedAnimalWithBeak.corePart.parts.5.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.6.customLabel>правая почка</GR_QuadrupedAnimalWithBeak.corePart.parts.6.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.1.customLabel>левый глаз</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.1.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.2.customLabel>правый глаз</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.2.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.3.customLabel>левое ухо</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.3.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.4.customLabel>правое ухо</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.4.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.9.customLabel>левая передняя нога</GR_QuadrupedAnimalWithBeak.corePart.parts.9.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.9.parts.0.customLabel>левая передняя лапа</GR_QuadrupedAnimalWithBeak.corePart.parts.9.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.10.customLabel>правая передняя нога</GR_QuadrupedAnimalWithBeak.corePart.parts.10.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.10.parts.0.customLabel>правая передняя лапа</GR_QuadrupedAnimalWithBeak.corePart.parts.10.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.11.customLabel>левая задняя нога</GR_QuadrupedAnimalWithBeak.corePart.parts.11.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.11.parts.0.customLabel>левая задняя лапа</GR_QuadrupedAnimalWithBeak.corePart.parts.11.parts.0.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.12.customLabel>правая задняя нога</GR_QuadrupedAnimalWithBeak.corePart.parts.12.customLabel>
+  <GR_QuadrupedAnimalWithBeak.corePart.parts.12.parts.0.customLabel>правая задняя лапа</GR_QuadrupedAnimalWithBeak.corePart.parts.12.parts.0.customLabel>
+
+
+</LanguageData>

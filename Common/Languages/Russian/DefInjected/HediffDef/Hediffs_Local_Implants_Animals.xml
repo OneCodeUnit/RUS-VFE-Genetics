@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Implants -->
+
+  <GR_AnimalControlHediff.label>контрольный элемент</GR_AnimalControlHediff.label>
+  <!-- EN:animal controller -->
+  <GR_AnimalControlHediff.description>Это существо было генетически оснащено контрольным элементом</GR_AnimalControlHediff.description>
+  <!-- EN:This creature was genetically modified with a controller booster. -->
+
+
+  <!-- Legs -->
+
+  <GR_BearLeg.label>протез для животного: медвежья лапа</GR_BearLeg.label>
+  <!-- EN:animal Implant: bear leg -->
+  <GR_BearLeg.description>Протез ноги, усиленный мышечной тканью медведя и оснащённый мощной медвежьей лапой. Даёт возможность наносить сокрушающие удары в ближнем бою.</GR_BearLeg.description>
+  <!-- EN:A prosthetic animal leg strengthened with bear muscles, and ending in a powerful bear claw that adds a powerful melee attack. -->
+  <GR_BearLeg.comps.1.tools.0.label>протез для животного: медвежья лапа</GR_BearLeg.comps.1.tools.0.label>
+  <!-- EN:animal Implant: bear leg -->
+
+  <GR_LizardLeg.label>протез для животного: нога ящера</GR_LizardLeg.label>
+  <!-- EN:animal Implant: lizard leg -->
+  <GR_LizardLeg.description>Бионическая нога, покрытая прочной чешуёй рептилии.</GR_LizardLeg.description>
+  <!-- EN:A bionic animal leg reinforced with tough lizard skin. -->
+  <GR_LizardLeg.comps.1.tools.0.label>протез для животного: нога ящера</GR_LizardLeg.comps.1.tools.0.label>
+  <!-- EN:animal Implant: lizard leg -->
+
+  <GR_ThrumboLeg.label>протез для животного: слоновья нога</GR_ThrumboLeg.label>
+  <!-- EN:animal Implant: elephant leg -->
+  <GR_ThrumboLeg.description>Бионический протез ноги, усиленный мышечными волокнами слона.</GR_ThrumboLeg.description>
+  <!-- EN:A bionic animal leg reinforced with muscle tissue from a powerful elephant. -->
+  <GR_ThrumboLeg.comps.1.tools.0.label>протез для животного: слоновья нога</GR_ThrumboLeg.comps.1.tools.0.label>
+  <!-- EN:animal Implant: elephant leg -->
+
+
+  <!-- Tails -->
+
+  <GR_CatTail.label>протез для животного: кошачий хвост</GR_CatTail.label>
+  <!-- EN:animal Implant: cat tail -->
+  <GR_CatTail.description>Хвостовой имплант, в котором используются кошачий генетический материал. Может служить заменой повреждённому или утраченному хвосту. Этот имплант не может заместить здоровый хвост.</GR_CatTail.description>
+  <!-- EN:A tail implant that uses genetic splicing with feline genes to substitute a broken or missing tail. This implant is not meant to replace a healthy tail. -->
+
+  <GR_ScytherTail.label>протез для животного: хвост жнеца</GR_ScytherTail.label>
+  <!-- EN:animal Implant: scyther tail -->
+  <GR_ScytherTail.description>Данный имплант создаётся вживлением клинка жнеца в ткани хвоста животного.</GR_ScytherTail.description>
+  <!-- EN:A scyther tail created by attaching a scyther blade to an animal's tail. -->
+  <GR_ScytherTail.comps.1.tools.0.label>протез для животного: хвост жнеца</GR_ScytherTail.comps.1.tools.0.label>
+  <!-- EN:animal Implant: scyther tail -->
+
+  <GR_MechaTail.label>протез для животного: усиленный хвост</GR_MechaTail.label>
+  <!-- EN:animal Implant: reinforced tail -->
+  <GR_MechaTail.description>Улучшенный хвост, значительно сильнее обычного.</GR_MechaTail.description>
+  <!-- EN:An advanced animal tail, even more powerful than a natural one. -->
+  <GR_MechaTail.comps.1.tools.0.label>протез для животного: усиленный хвост</GR_MechaTail.comps.1.tools.0.label>
+  <!-- EN:animal Implant: reinforced tail -->
+
+
+  <!-- Eyes -->
+
+  <GR_CanidEye.label>протез для животного: собачий глаз</GR_CanidEye.label>
+  <!-- EN:animal Implant: canid eye -->
+  <GR_CanidEye.description>Зрительный имплант, основанный на использовании генетического материала псовых. Служит заменой повреждённого или утраченного глаза, но не здорового органа зрения.</GR_CanidEye.description>
+  <!-- EN:>An eye implant that uses genetic splicing with canid genes to give an old (or damaged) eye decent vision. This implant is not meant to replace healthy eyes. -->
+
+  <GR_InsectileEye.label>протез для животного: глаз насекомого</GR_InsectileEye.label>
+  <!-- EN:animal Implant: insectile eye -->
+  <GR_InsectileEye.description>Бионический имплант, представляющий собой фасеточный глаз насекомого. По сравнению с обычным глазом, фасеточные глаза предоставляют больший угол зрения и могут отслеживать быстро движущиеся объекты.</GR_InsectileEye.description>
+  <!-- EN:A bionic implant which gives the creature compound insectile eyes. Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement. -->
+
+  <GR_ThrumboEye.label>протез для животного: бионический глаз трумбо</GR_ThrumboEye.label>
+  <!-- EN:animal Implant: bionic thrumbo eye -->
+  <GR_ThrumboEye.description>Бионический глаз, оснащённый особыми фоторецепторами, присутствующими в зрительных органах трумбо.</GR_ThrumboEye.description>
+  <!-- EN:A bionic eye reinforced with specialized photoreceptors from a powerful thrumbo. -->
+
+
+  <!-- Ears -->
+
+  <GR_RodentEar.label>протез для животного: ухо грызуна</GR_RodentEar.label>
+  <!-- EN:animal Implant: rodent ear -->
+  <GR_RodentEar.description>Слуховой имплант, в основе которого заложен генетический материал грызунов. Используется для замены повреждённого или утраченного уха. Не может быть использован для замены здорового слухового органа.</GR_RodentEar.description>
+  <!-- EN:An ear implant that uses genetic splicing with rodent genes to give an old (or damaged) ear decent hearing. This implant is not meant to replace healthy ears. -->
+
+  <GR_MothTympanalOrgan.label>протез для животного: тимпанальный орган мотылька</GR_MothTympanalOrgan.label>
+  <!-- EN:animal Implant: moth tympanal organ -->
+  <GR_MothTympanalOrgan.description>Бионический имплант, добавляющий тимпанальный орган мотылька в ухо животного. Мотыльки способны воспринимать крайне высокочастотные звуки, например даже выше чем те, которые издают летучие мыши.</GR_MothTympanalOrgan.description>
+  <!-- EN:A bionic implant adding a moth tympanal organ to the creature's ear. Moths can hear sounds of a higher frequency than any bat can produce. -->
+
+  <GR_MechaReceptors.label>протез для животного: слуховой орган слона</GR_MechaReceptors.label>
+  <!-- EN:animal Implant: elephant auditory receptor -->
+  <GR_MechaReceptors.description>Этот слуховой орган слона способен улавливать широкий диапазон частот.</GR_MechaReceptors.description>
+  <!-- EN:This elephant auditory receptor can scan a really wide band of frequencies. -->
+
+
+  <!-- Noses -->
+
+  <GR_RodentNose.label>протез для животного: нос грызуна</GR_RodentNose.label>
+  <!-- EN:animal Implant: rodent nose -->
+  <GR_RodentNose.description>Имплант, в основе которого лежит генетический материал грызуна. Позволяет вернуть утраченный или повреждённый орган восприятия запахов. Не может служить заменой здорового органа.</GR_RodentNose.description>
+  <!-- EN:An implant that uses genetic splicing with rodent genes to give an old (or damaged) nose decent smelling. This implant is not meant to replace healthy noses. Can't be installed on birds and insects. -->
+
+  <GR_InsectoidPheromones.label>протез для животного: феромоны насекомых</GR_InsectoidPheromones.label>
+  <!-- EN:animal Implant: insectoid pheromones -->
+  <GR_InsectoidPheromones.description>В основе импланта находится генетический материал насекомых, улучшающий обоняние рецепиента. Не может быть имплантирован птицам и (что иронично) насекомым.</GR_InsectoidPheromones.description>
+  <!-- EN:An implant that uses genetic splicing with insectoid genes to give the ability to detect pheromones, thus improving the olfactory system. Can't be installed on birds and (ironically) insects. -->
+
+  <GR_MiniatureThrumboHorn.label>протез для животного: миниатюрный рог трумбо</GR_MiniatureThrumboHorn.label>
+  <!-- EN: -->
+  <GR_MiniatureThrumboHorn.description>Бионический имплант, представляющий собой уменьшеннную копию рога трумбо. Имплантируется на место носа животного. Данный имплант позволяет существу дышать и обладает обонятельными рецепторами и позволяет наносить удары в ближнем бою. Птицам, насекомым и существам, уже обладающим аналогичным рогом нельзя вживить данный имплант.</GR_MiniatureThrumboHorn.description>
+  <!-- EN:A bionic implant adding a small thrumbo horn where the creature's nose used to be. This implant acts as a nose, allowing the creature to breathe and smell, and can be used by the creature in melee. Birds, insects, and creatures that already have a thrumbo horn don't have enough space on their skull to install this implant. -->
+  <GR_MiniatureThrumboHorn.comps.1.tools.0.label>протез для животного: миниатюрный рог трумбо</GR_MiniatureThrumboHorn.comps.1.tools.0.label>
+  <!-- EN:animal Implant: miniature thrumbo horn -->
+
+
+  <!-- Jaws -->
+
+  <GR_WolfJaws.label>протез для животного: волчьи клыки</GR_WolfJaws.label>
+  <!-- EN:animal Implant: wolf fangs -->
+  <GR_WolfJaws.description>Имплант, в основе которого лежит генетический материал волка. Может быть использован для замены повреждённой или утраченной челюсти на волчью. Не может быть использован для замены здоровой части тела.</GR_WolfJaws.description>
+  <!-- EN:An implant that uses genetic splicing with wolf genes to give an old (or damaged) jaw decent functioning. This implant is not meant to replace healthy jaws. -->
+
+  <GR_InsectMandibles.label>протез для животного: жвалы насекомого</GR_InsectMandibles.label>
+  <!-- EN:animal Implant: insect mandibles -->
+  <GR_InsectMandibles.description>Бионические жвалы, подобные тем, что можно увидеть у насекомых. Влияют на способность к взаимодействию с предметами и на скорость поглощения еды, а также являются грозным оружием.</GR_InsectMandibles.description>
+  <!-- EN:A bionic implant adding insect mandibles to the creature's face. Insect mandibles improve manipulation and eating, while also working as an offensive weapon -->
+  <GR_InsectMandibles.comps.1.tools.0.label>жвалы насекомого</GR_InsectMandibles.comps.1.tools.0.label>
+  <!-- EN:animal Implant: insect mandibles -->
+
+  <GR_ThrumboJaws.label>протез для животного: бионические челюсти трумбо</GR_ThrumboJaws.label>
+  <!-- EN:animal Implant: bionic thrumbo jaws -->
+  <GR_ThrumboJaws.description>Бионические челюсти трумбо. Эти существа питаются деревьями, что само по себе уже говорит о силе их челюстей.</GR_ThrumboJaws.description>
+  <!-- EN:A bionic implant adding thrumbo jaws to the creature's mouth. These creatures devour trees, so you can imagine their jaws are up to the task. -->
+  <GR_ThrumboJaws.comps.1.tools.0.label>протез для животного: бионические челюсти трумбо</GR_ThrumboJaws.comps.1.tools.0.label>
+  <!-- EN:animal Implant: bionic thrumbo jaws -->
+
+
+  <!-- Spines -->
+
+  <GR_MuffaloSpine.label>протез для животного: хребет муффало</GR_MuffaloSpine.label>
+  <!-- EN:animal Implant: muffalo spine -->
+  <GR_MuffaloSpine.description>Протез позвоночника, в основе которого лежит генетический материал муффало. Позволяет обеспечить нормальное функционирование утраченного или повреждённого позвоночника. Не может служить заменой здоровому органу.</GR_MuffaloSpine.description>
+  <!-- EN:A spine implant that uses genetic splicing with muffalo genes to give an old (or damaged) spine decent functioning. This implant is not meant to replace healthy spines. -->
+
+  <GR_CrocodileSpine.label>протез для животного: позвоночник крокодила</GR_CrocodileSpine.label>
+  <!-- EN:animal Implant: crocodile spine -->
+  <GR_CrocodileSpine.description>Бионический позвоночник, своей структурой повторяющий мощный хребет крокодила.</GR_CrocodileSpine.description>
+  <!-- EN:A bionic implant adding a sturdy crocodile spine to the creature's skeletal system. -->
+
+  <GR_MechaSpine.label>протез для животного: укреплённый бионический позвоночник</GR_MechaSpine.label>
+  <!-- EN:animal Implant: reinforced bionic spine -->
+  <GR_MechaSpine.description>Бионический позвоночник, структурно укреплённый пласталью и оснащённый активными механитами.</GR_MechaSpine.description>
+  <!-- EN:A bionic implant adding a plasteel structure with active mechanites to the creature's skeletal system. -->
+
+
+  <!-- Brains -->
+
+  <GR_ChickenBrains.label>протез для животного: мозг курицы</GR_ChickenBrains.label>
+  <!-- EN:animal Implant: chicken brains -->
+  <GR_ChickenBrains.description>Имплант использующий мозговые клетки курицы для восстановления повреждённых нейронных связей. Предназначен для созданий по каким-либор причинам лишённых мозга.</GR_ChickenBrains.description>
+  <!-- EN:An implant that uses chicken brain tissue to patch damaged neurological pathways. This implant is intended for brain-dead creatures. -->
+
+  <GR_MonitorLizardBrain.label>имплант для животного: мозг варана</GR_MonitorLizardBrain.label>
+  <!-- EN:animal Implant: monitor lizard brain -->
+  <GR_MonitorLizardBrain.description>Мозговой имплант, в основе которого находятся нейронные цепочки из мозга варана. Эта высокоразвитая рептилия обладает крайне высокой скоростью рефлексов.</GR_MonitorLizardBrain.description>
+  <!-- EN:A bionic implant using monitor lizard brain tissue. This highly intelligent reptile has very quick reflexes. -->
+
+  <GR_ThrumboBrain.label>имплант для животного: искусственный мозг трумбо</GR_ThrumboBrain.label>
+  <!-- EN:animal Implant: bionic thrumbo brain -->
+  <GR_ThrumboBrain.description>Мозговой имплант, в основе которого находятся нейронные цепочки из мозга трумбо. Потрясающий интеллект и скорость рефлексов.</GR_ThrumboBrain.description>
+  <!-- EN:A bionic brain implant using thrumbo neural tissue. Superb intelligence and reflexes. -->
+
+
+  <!-- Hearts -->
+
+  <GR_BoomalopeHeart.label>имплант для животного: сердце бумалопы</GR_BoomalopeHeart.label>
+  <!-- EN:animal Implant: boomalope heart -->
+  <GR_BoomalopeHeart.description>Имплант, использующий химтопливо для циркуляции крови в теле животного. Предназначен для замены больного сердца, поскольку он менее эффективен, нежели здоровое сердце.</GR_BoomalopeHeart.description>
+  <!-- EN:An implant that uses chemfuel to pump blood through the animal's body. This implant is intended for creatures whose heart is failing catastrophically, since it is less efficient than a natural heart. -->
+
+  <GR_ChitinousHeart.label>имплант для животного: хитиновое сердце</GR_ChitinousHeart.label>
+  <!-- EN:animal Implant: chitinous heart -->
+  <GR_ChitinousHeart.description>Бионическое сердце, оснащённое хитиновой оболочкой для защиты от внешних воздействий. Это сердце способно выдержать не один удар, прошу прощения за каламбур. Это последний. Честно.</GR_ChitinousHeart.description>
+  <!-- EN:A bionic heart implant using a reinforced shell of insectoid chitin for protection. This is a heart designed to take a beating. Pun intended, but it's the last one, I promise. -->
+
+  <GR_MechaHeart.label>протез для животного: усиленное бионическое сердце</GR_MechaHeart.label>
+  <!-- EN:animal Implant: reinforced bionic heart -->
+  <GR_MechaHeart.description>Бионический протез сердца, усиленный активными механитами.</GR_MechaHeart.description>
+  <!-- EN:A bionic heart strengthened by the action of active mechanites. -->
+
+
+  <!-- Lung -->
+
+  <GR_MuffaloLung.label>протез для животного: лёгкое муффало</GR_MuffaloLung.label>
+  <!-- EN:animal Implant: muffalo lung -->
+  <GR_MuffaloLung.description>Имплант, в основе которого заложен генетический материал муффало. Улучшает способность существа к дыханию.</GR_MuffaloLung.description>
+  <!-- EN:An implant that uses muffalo genes to increase breathing capacity. -->
+
+
+  <!-- Liver -->
+
+  <GR_BearLiver.label>протез для животного: медвежья печень</GR_BearLiver.label>
+  <!-- EN:animal Implant: bear liver -->
+  <GR_BearLiver.description>Имплант, в основе которого находятся гены медведя, позволяющие усилить функцию печени. Особенно полезен для этих куриц-алкоголиков.</GR_BearLiver.description>
+  <!-- EN:An implant that uses bear genes to improve function of the liver. Specially useful for those alcoholic chickens. -->
+
+
+  <!-- Kidney -->
+
+  <GR_ChickenKidney.label>протез для животного: куриная печень</GR_ChickenKidney.label>
+  <!-- EN:animal Implant: chicken kidney -->
+  <GR_ChickenKidney.description>Имплант, в основе которого находится генетический материал курицы. Улучшает функцию печени. У птиц большая печень. Ага. Теперь вы знаете больше.</GR_ChickenKidney.description>
+  <!-- EN:An implant that uses chicken genes to improve function of the kidney. Birds have large kidneys. Yep, you learned that today. -->
+
+
+  <!-- Stomach -->
+
+  <GR_BoomalopeStomach.label>протез для животного: желудок бумалопы</GR_BoomalopeStomach.label>
+  <!-- EN:animal Implant: boomalope stomach -->
+  <GR_BoomalopeStomach.description>В основе этого импланта лежит генетический материал бумалопы. что позволяет улучшить функцию желудка у животного.</GR_BoomalopeStomach.description>
+  <!-- EN: An implant that uses boomalope genes to improve function of the stomach.<-->
+
+
+</LanguageData>

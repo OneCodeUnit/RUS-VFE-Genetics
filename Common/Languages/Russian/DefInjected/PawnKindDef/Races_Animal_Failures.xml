@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Fleshling -->
+
+  <GR_Fleshling.label>fleshling</GR_Fleshling.label>
+  <GR_Fleshling.labelPlural>fleshlings</GR_Fleshling.labelPlural>
+  <GR_Fleshling.labelMale>male fleshling</GR_Fleshling.labelMale>
+  <GR_Fleshling.labelMalePlural>male fleshlings</GR_Fleshling.labelMalePlural>
+  <GR_Fleshling.labelFemale>female fleshling</GR_Fleshling.labelFemale>
+  <GR_Fleshling.labelFemalePlural>female fleshlings</GR_Fleshling.labelFemalePlural>
+
+
+  <!-- Aberrant Fleshbeast -->
+
+  <GR_AberrantFleshbeast.label>aberrant fleshbeast</GR_AberrantFleshbeast.label>
+  <GR_AberrantFleshbeast.labelPlural>aberrant fleshbeasts</GR_AberrantFleshbeast.labelPlural>
+  <GR_AberrantFleshbeast.labelMale>male aberrant fleshbeast</GR_AberrantFleshbeast.labelMale>
+  <GR_AberrantFleshbeast.labelMalePlural>male aberrant fleshbeasts</GR_AberrantFleshbeast.labelMalePlural>
+  <GR_AberrantFleshbeast.labelFemale>female aberrant fleshbeast</GR_AberrantFleshbeast.labelFemale>
+  <GR_AberrantFleshbeast.labelFemalePlural>female aberrant fleshbeasts</GR_AberrantFleshbeast.labelFemalePlural>
+
+
+  <!-- Flesh Monstrosity -->
+
+  <GR_FleshMonstrosity.label>flesh monstrosity</GR_FleshMonstrosity.label>
+  <GR_FleshMonstrosity.labelPlural>flesh monstrositys</GR_FleshMonstrosity.labelPlural>
+  <GR_FleshMonstrosity.labelMale>male flesh monstrosity</GR_FleshMonstrosity.labelMale>
+  <GR_FleshMonstrosity.labelMalePlural>male flesh monstrositys</GR_FleshMonstrosity.labelMalePlural>
+  <GR_FleshMonstrosity.labelFemale>female flesh monstrosity</GR_FleshMonstrosity.labelFemale>
+  <GR_FleshMonstrosity.labelFemalePlural>female flesh monstrositys</GR_FleshMonstrosity.labelFemalePlural>
+
+
+  <!-- Flesh Growth -->
+
+  <GR_FleshGrowth.label>flesh growth</GR_FleshGrowth.label>
+  <GR_FleshGrowth.labelPlural>flesh growths</GR_FleshGrowth.labelPlural>
+  <GR_FleshGrowth.labelMale>male flesh growth</GR_FleshGrowth.labelMale>
+  <GR_FleshGrowth.labelMalePlural>male flesh growths</GR_FleshGrowth.labelMalePlural>
+  <GR_FleshGrowth.labelFemale>female flesh growth</GR_FleshGrowth.labelFemale>
+  <GR_FleshGrowth.labelFemalePlural>female flesh growths</GR_FleshGrowth.labelFemalePlural>
+
+
+  <!-- Flesh Flies -->
+
+  <GR_FleshFlies.label>flesh flies</GR_FleshFlies.label>
+  <GR_FleshFlies.labelPlural>flesh fliess</GR_FleshFlies.labelPlural>
+  <GR_FleshFlies.labelMale>male flesh flies</GR_FleshFlies.labelMale>
+  <GR_FleshFlies.labelMalePlural>male flesh fliess</GR_FleshFlies.labelMalePlural>
+  <GR_FleshFlies.labelFemale>female flesh flies</GR_FleshFlies.labelFemale>
+  <GR_FleshFlies.labelFemalePlural>female flesh fliess</GR_FleshFlies.labelFemalePlural>
+
+
+</LanguageData>

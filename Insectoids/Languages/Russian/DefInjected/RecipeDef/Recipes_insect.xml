@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: recombine drone genome -->
+  <GR_RecombineDroneGenome.label>рекомбинировать геном трутня</GR_RecombineDroneGenome.label>
+  <!-- EN: Recombine normal insectoid genetic material to get specialized Drone Genomes. -->
+  <GR_RecombineDroneGenome.description>Рекомбинировать обычный генетический материал инсектоида для получения специализированного генома трутня.</GR_RecombineDroneGenome.description>
+  <!-- EN: Recombining Drone Genome -->
+  <GR_RecombineDroneGenome.jobString>Рекомбинирует геном трутня</GR_RecombineDroneGenome.jobString>
+  
+  <!-- EN: recombine warrior genome -->
+  <GR_RecombineWarriorGenome.label>рекомбинировать геном воина</GR_RecombineWarriorGenome.label>
+  <!-- EN: Recombine normal insectoid genetic material to get specialized warrior Genomes. -->
+  <GR_RecombineWarriorGenome.description>Рекомбинировать обычный генетический материал инсектоида для получения специализированного генома воина.</GR_RecombineWarriorGenome.description>
+  <!-- EN: Recombining warrior Genome -->
+  <GR_RecombineWarriorGenome.jobString>Рекомбинирует геном воина</GR_RecombineWarriorGenome.jobString>
+  
+  <!-- EN: recombine royal genome -->
+  <GR_RecombineRoyalGenome.label>рекомбинировать геном монарха</GR_RecombineRoyalGenome.label>
+  <!-- EN: Recombine normal insectoid genetic material to get specialized royal Genomes. -->
+  <GR_RecombineRoyalGenome.description>Рекомбинировать обычный генетический материал инсектоида для получения специализированного генома монарха.</GR_RecombineRoyalGenome.description>
+  <!-- EN: Recombining royal Genome -->
+  <GR_RecombineRoyalGenome.jobString>Рекомбинирует геном монарха</GR_RecombineRoyalGenome.jobString>
+  
+</LanguageData>
