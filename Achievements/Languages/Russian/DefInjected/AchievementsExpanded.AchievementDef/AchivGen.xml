@@ -56,11 +56,84 @@
   <!-- EN: Hatch a Paragon creature -->
   <GR_AchievementTopOfTheClass.description>Создать образцовое существо</GR_AchievementTopOfTheClass.description>
 
+  <!-- EN: I'm doing my part -->
+  <GR_AchievementImDoingMyPart.label>do</GR_AchievementImDoingMyPart.label>
+  <!-- EN: Hatch a Tier 2 Insectoid Hybrid -->
+  <GR_AchievementImDoingMyPart.description>do</GR_AchievementImDoingMyPart.description>
 
+  <!-- EN: Lizard People -->
+  <GR_AchievementLizardPeople.label>do</GR_AchievementLizardPeople.label>
+  <!-- EN: Hatch a Tier 2 Reptilian Hybrid -->
+  <GR_AchievementLizardPeople.description>do</GR_AchievementLizardPeople.description>
 
+  <!-- EN: Derby -->
+  <GR_AchievementDerby.label>do</GR_AchievementDerby.label>
+  <!-- EN: Hatch a Tier 2 Equine Hybrid -->
+  <GR_AchievementDerby.description>do</GR_AchievementDerby.description>
 
+  <!-- EN: Smarter Than You -->
+  <GR_AchievementSmarterThanYou.label>do</GR_AchievementSmarterThanYou.label>
+  <!-- EN: Hatch a Tier 3 Thrumbo Hybrid -->
+  <GR_AchievementSmarterThanYou.description>do</GR_AchievementSmarterThanYou.description>
 
+  <!-- EN: We Have the Technology -->
+  <GR_AchievementWeHaveTheTechnology.label>do</GR_AchievementWeHaveTheTechnology.label>
+  <!-- EN: Convert a paragon into a Mechanoid Hybrid -->
+  <GR_AchievementWeHaveTheTechnology.description>do</GR_AchievementWeHaveTheTechnology.description>
 
+  <!-- EN: Task Failed Successfully -->
+  <GR_AchievementTaskFailedSuccessfully.label>do</GR_AchievementTaskFailedSuccessfully.label>
+  <!-- EN: Hatch an Aberrant Fleshbeast in an experiment gone wrong -->
+  <GR_AchievementTaskFailedSuccessfully.description>do</GR_AchievementTaskFailedSuccessfully.description>
 
+  <!-- EN: Homemade Thrumboians -->
+  <GR_AchievementHomemadeThrumboians.label>do</GR_AchievementHomemadeThrumboians.label>
+  <!-- EN: Install a Thrumbo horn humanoid implant -->
+  <GR_AchievementHomemadeThrumboians.description>do</GR_AchievementHomemadeThrumboians.description>
 
+  <!-- EN: Premium Warcrimes -->
+  <GR_AchievementPremiumWarcrimes.label>do</GR_AchievementPremiumWarcrimes.label>
+  <!-- EN: Have a single pawn with muffalo mammaries and an ovipositor -->
+  <GR_AchievementPremiumWarcrimes.description>do</GR_AchievementPremiumWarcrimes.description>
+
+  <!-- EN: Yippee-ki-kawaii, motherfucker! -->
+  <GR_AchievementKawaii.label>do</GR_AchievementKawaii.label>
+  <!-- EN: Install two bunny ear implants in a single pawn -->
+  <GR_AchievementKawaii.description>do</GR_AchievementKawaii.description>
+
+  <!-- EN: Pole Position -->
+  <GR_AchievementPolePosition.label>do</GR_AchievementPolePosition.label>
+  <!-- EN: Install a total of 6 elephant legs on a single animal -->
+  <GR_AchievementPolePosition.description>do</GR_AchievementPolePosition.description>
+
+  <!-- EN: Warm and Fuzzy -->
+  <GR_AchievementWarmAndFuzzy.label>do</GR_AchievementWarmAndFuzzy.label>
+  <!-- EN: Craft any item out of Luxuriant Hybrid Wool -->
+  <GR_AchievementWarmAndFuzzy.description>do</GR_AchievementWarmAndFuzzy.description>
+
+  <!-- EN: M'lizard -->
+  <GR_AchievementMlizard.label>do</GR_AchievementMlizard.label>
+  <!-- EN: Craft a cowboy hat out of hybrid scales -->
+  <GR_AchievementMlizard.description>do</GR_AchievementMlizard.description>
+
+  <!-- EN: Doubling It Up -->
+  <GR_AchievementMixingItUp.label>do</GR_AchievementMixingItUp.label>
+  <!-- EN: Use a Recombinator to get a template genome -->
+  <GR_AchievementMixingItUp.description>do</GR_AchievementMixingItUp.description>
+
+  <!-- EN: Chipping it up -->
+  <GR_AchievementChipping.label>do</GR_AchievementChipping.label>
+  <!-- EN: Acquire a mechanoid chip from an abandoned lab -->
+  <GR_AchievementChipping.description>do</GR_AchievementChipping.description>
+
+  <!-- EN: Superior Technology -->
+  <GR_AchievementSuperiorTech.label>do</GR_AchievementSuperiorTech.label>
+  <!-- EN: Acquire an archotech genome excavator from an abandoned lab -->
+  <GR_AchievementSuperiorTech.description>do</GR_AchievementSuperiorTech.description>
+
+  <!-- EN: One 'Pede To Rule Them All -->
+  <GR_AchievementOnePedeToRuleThemAll.label>do</GR_AchievementOnePedeToRuleThemAll.label>
+  <!-- EN: Create an Archotech Centipede and win the game -->
+  <GR_AchievementOnePedeToRuleThemAll.description>do</GR_AchievementOnePedeToRuleThemAll.description>
+  
 </LanguageData>

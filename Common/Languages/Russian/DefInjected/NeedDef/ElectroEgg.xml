@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- GR_ElectroEgg addiction -->
-
   <GR_ElectroEgg.label>активные механиты</GR_ElectroEgg.label>
   <!-- EN:active mechanites -->
   <GR_ElectroEgg.description>Из-за зависимости от механитов, во избежание симптомов ломки этому персонажу требуется регулярно поглощать яйца механоидов, производимые меха-курицами.</GR_ElectroEgg.description>
   <!-- EN:Because of an active mechanites addiction, this person needs to regularly consume mechanoid eggs, produced by mecha-chickens, to avoid withdrawal symptoms. -->
-
 
 </LanguageData>

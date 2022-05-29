@@ -1,16 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Misc -->
-
   <GR_CrackedConcrete.label>потрескавшийся бетон</GR_CrackedConcrete.label>
   <!-- EN:cracked concrete -->
-  <GR_CrackedConcrete.description>Неровный бетон. Частично разрушен из-за недостатка ремонта.</GR_CrackedConcrete.description>
+  <GR_CrackedConcrete.description>Неровный бетон. Частично разрушен из-за того, тут некому следить за полом.</GR_CrackedConcrete.description>
   <!-- EN:Rough concrete. Broken due to lack of maintenance. -->
 
-  <GR_PavedTile.label>проржавевшая лабораторная плитка</GR_PavedTile.label>
+  <GR_PavedTile.label>ржавая лабораторная плитка</GR_PavedTile.label>
   <!-- EN:rusted laboratory tile -->
-  <GR_PavedTile.description>Проржавевшая металлическая плитка</GR_PavedTile.description>
+  <GR_PavedTile.description>Ржавая металлическая плитка</GR_PavedTile.description>
   <!-- EN:Rusted metallic tiles. -->
 
   <GR_PavedTileClean.label>лабораторная плитка</GR_PavedTileClean.label>
@@ -20,18 +18,17 @@
 
   <GR_WhiteTile.label>белая лабораторная плитка</GR_WhiteTile.label>
   <!-- EN:white laboratory tile -->
-  <GR_WhiteTile.description>Чистые белые плитки.</GR_WhiteTile.description>
+  <GR_WhiteTile.description>Чистая белая плитка.</GR_WhiteTile.description>
   <!-- EN:White clean tiles. -->
 
-  <GR_MechTile.label>лабораторная плитка механоидов</GR_MechTile.label>
+  <GR_MechTile.label>плитка механоидной лаборатории</GR_MechTile.label>
   <!-- EN:mech laboratory tile -->
-  <GR_MechTile.description>Лабораторная плитка механоидов.</GR_MechTile.description>
+  <GR_MechTile.description>Плитка механоидной лаборатории.</GR_MechTile.description>
   <!-- EN:Mech lab tiles. -->
 
-  <GR_RustedMechTile.label>проржавевшая лабораторная плитка механоидов</GR_RustedMechTile.label>
+  <GR_RustedMechTile.label>ржавая плитка механоидной лаборатории</GR_RustedMechTile.label>
   <!-- EN:rusted mech laboratory tile -->
-  <GR_RustedMechTile.description>Проржавевшая лабораторная плитка механоидов.</GR_RustedMechTile.description>
+  <GR_RustedMechTile.description>Ржавая плитка механоидной лаборатории.</GR_RustedMechTile.description>
   <!-- EN:Rusted mech lab tiles. -->
-
 
 </LanguageData>

@@ -1,37 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GR_DoBillsGenetics.label>works at genetics table</GR_DoBillsGenetics.label>
-  <GR_DoBillsGenetics.verb>extract genetic materials</GR_DoBillsGenetics.verb>
-  <GR_DoBillsGenetics.gerund>extracting genetic material at</GR_DoBillsGenetics.gerund>
+  <!-- EN: works at genetics table -->
+  <GR_DoBillsGenetics.label>работать за генетическим столом</GR_DoBillsGenetics.label>
+  <!-- EN: extract genetic materials -->
+  <GR_DoBillsGenetics.verb>извлекать генетический материалы</GR_DoBillsGenetics.verb>
+  <!-- EN: extracting genetic material at -->
+  <GR_DoBillsGenetics.gerund>извлекать генетический материалы</GR_DoBillsGenetics.gerund>
 
-  <GR_DoBillsTissueGrinder.label>works at tissue grinder</GR_DoBillsTissueGrinder.label>
-  <GR_DoBillsTissueGrinder.verb>grinding tissues</GR_DoBillsTissueGrinder.verb>
-  <GR_DoBillsTissueGrinder.gerund>grinding tissues at</GR_DoBillsTissueGrinder.gerund>
+  <!-- EN: works at tissue grinder -->
+  <GR_DoBillsTissueGrinder.label>работать за тканерубкой</GR_DoBillsTissueGrinder.label>
+  <!-- EN: grinding tissues -->
+  <GR_DoBillsTissueGrinder.verb>измельчать трупы</GR_DoBillsTissueGrinder.verb>
+  <!-- EN: grinding tissues at -->
+  <GR_DoBillsTissueGrinder.gerund>измельчать трупы</GR_DoBillsTissueGrinder.gerund>
 
-  <GR_DoBillsGeneticsTinkeringTable.label>works at genetics tinkering table</GR_DoBillsGeneticsTinkeringTable.label>
-  <GR_DoBillsGeneticsTinkeringTable.verb>tinkering</GR_DoBillsGeneticsTinkeringTable.verb>
-  <GR_DoBillsGeneticsTinkeringTable.gerund>tinkering at</GR_DoBillsGeneticsTinkeringTable.gerund>
+  <!-- EN: works at genetics tinkering table -->
+  <GR_DoBillsGeneticsTinkeringTable.label>работать за генетической мастерской</GR_DoBillsGeneticsTinkeringTable.label>
+  <!-- EN: tinkering -->
+  <GR_DoBillsGeneticsTinkeringTable.verb>работать, используя мастерскую</GR_DoBillsGeneticsTinkeringTable.verb>
+  <!-- EN: tinkering at -->
+  <GR_DoBillsGeneticsTinkeringTable.gerund>работать, используя мастерскую</GR_DoBillsGeneticsTinkeringTable.gerund>
 
-  <GR_DoBillsGeneRecombinator.label>works at gene recombinator</GR_DoBillsGeneRecombinator.label>
-  <GR_DoBillsGeneRecombinator.verb>recombining genes</GR_DoBillsGeneRecombinator.verb>
-  <GR_DoBillsGeneRecombinator.gerund>recombining genes at</GR_DoBillsGeneRecombinator.gerund>
+  <!-- EN: works at gene recombinator -->
+  <GR_DoBillsGeneRecombinator.label>работать за геномным рекомбинатором</GR_DoBillsGeneRecombinator.label>
+  <!-- EN: recombining genes -->
+  <GR_DoBillsGeneRecombinator.verb>рекомбинировать гены</GR_DoBillsGeneRecombinator.verb>
+  <!-- EN: recombining genes at -->
+  <GR_DoBillsGeneRecombinator.gerund>рекомбинировать гены</GR_DoBillsGeneRecombinator.gerund>
 
-  <GR_DoBillsVat.label>works at tissue growing vat</GR_DoBillsVat.label>
-  <GR_DoBillsVat.verb>growing tissues</GR_DoBillsVat.verb>
-  <GR_DoBillsVat.gerund>growing tissues at</GR_DoBillsVat.gerund>
+  <!-- EN: works at tissue growing vat -->
+  <GR_DoBillsVat.label>работать за чаном тканей</GR_DoBillsVat.label>
+  <!-- EN: growing tissues -->
+  <GR_DoBillsVat.verb>выращивать ткани</GR_DoBillsVat.verb>
+  <!-- EN: growing tissues at -->
+  <GR_DoBillsVat.gerund>выращивать ткани</GR_DoBillsVat.gerund>
 
-  <GR_InsertIngredients.label>bringing ingredients</GR_InsertIngredients.label>
-  <GR_InsertIngredients.verb>bring ingredients to</GR_InsertIngredients.verb>
-  <GR_InsertIngredients.gerund>bringing ingredients to</GR_InsertIngredients.gerund>
+  <!-- EN: bringing ingredients -->
+  <GR_InsertIngredients.label>приносить ингридиенты</GR_InsertIngredients.label>
+  <!-- EN: bring ingredients to -->
+  <GR_InsertIngredients.verb>нести ингридиенты к</GR_InsertIngredients.verb>
+  <!-- EN: bringing ingredients to -->
+  <GR_InsertIngredients.gerund>нести ингридиенты к</GR_InsertIngredients.gerund>
 
-  <GR_ArchotechDNAExtraction.label>bringing animals to extraction</GR_ArchotechDNAExtraction.label>
-  <GR_ArchotechDNAExtraction.verb>bring animal to</GR_ArchotechDNAExtraction.verb>
-  <GR_ArchotechDNAExtraction.gerund>bringing animal to</GR_ArchotechDNAExtraction.gerund>
+  <!-- EN: bringing animals to extraction -->
+  <GR_ArchotechDNAExtraction.label>приносить животное на извлечение</GR_ArchotechDNAExtraction.label>
+  <!-- EN: bring animal to -->
+  <GR_ArchotechDNAExtraction.verb>нести животное к</GR_ArchotechDNAExtraction.verb>
+  <!-- EN: bringing animal to -->
+  <GR_ArchotechDNAExtraction.gerund>нести животное к</GR_ArchotechDNAExtraction.gerund>
 
-  <GR_ParagonConversion.label>bringing paragon to convert</GR_ParagonConversion.label>
-  <GR_ParagonConversion.verb>bring paragon to</GR_ParagonConversion.verb>
-  <GR_ParagonConversion.gerund>bringing paragon to</GR_ParagonConversion.gerund>
-
+  <!-- EN: bringing paragon to convert -->
+  <GR_ParagonConversion.label>приносить совершенство на преобразование</GR_ParagonConversion.label>
+  <!-- EN: bring paragon to -->
+  <GR_ParagonConversion.verb>нести совершенство к</GR_ParagonConversion.verb>
+  <!-- EN: bringing paragon to -->
+  <GR_ParagonConversion.gerund>нести совершенство к</GR_ParagonConversion.gerund>
 
 </LanguageData>

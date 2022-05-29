@@ -1,46 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Human Hybrid Implants -->
-
   <GR_BearClaws.label>имплант для гуманоида: медвежьи когти</GR_BearClaws.label>
   <!-- EN:humanoid implant: bear claws -->
-
-  <GR_BearClaws.description>Переосмысление бионической Силовой Клешни. Этот имплант был специально выращен путём совмещения медвежьей и человеческой ДНК. Оснащает кисть руки невтягиваемыми медвежьими когтями.</GR_BearClaws.description>
+  <GR_BearClaws.description>Переосмысление бионических силовых когтей. Этот имплант был специально выращен путём совмещения медвежьей и человеческой ДНК. Оснащает кисть руки невтягиваемыми медвежьими когтями.</GR_BearClaws.description>
   <!-- EN:An improvement over the bionic Power Claw, these claws have been vat-grown with a mixture of human and bear DNA, and replace the subject's hand with versatile, non-retractable claws. -->
-
   <GR_BearClaws.comps.1.tools.0.label>медвежьи когти</GR_BearClaws.comps.1.tools.0.label>
   <!-- EN:bear claws -->
 
 
   <GR_DiggingBearClaws.label>имплант для гуманоида: кротовьи лапы</GR_DiggingBearClaws.label>
   <!-- EN:humanoid implant: digging mole claws -->
-
-  <GR_DiggingBearClaws.description>Уродливые, но сильные лопатовидные кисти рук, которые были изменены с тем, чтобы быть полезными при горных работах. Влияют на скорость и эффективность добычи руд.</GR_DiggingBearClaws.description>
+  <GR_DiggingBearClaws.description>Уродливые, но сильные лопатовидные кисти рук, которые были изменены для того, чтобы быть полезными при горных работах. Влияют на скорость и эффективность добычи руд.</GR_DiggingBearClaws.description>
   <!-- EN:Grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield. -->
-
-  <GR_DiggingBearClaws.comps.1.tools.0.label>mole claws</GR_DiggingBearClaws.comps.1.tools.0.label>
+  <GR_DiggingBearClaws.comps.1.tools.0.label>кротовьи лапы</GR_DiggingBearClaws.comps.1.tools.0.label>
   <!-- EN:mole claws -->
 
 
   <GR_BearMuscleTissue.label>имплант для гуманоида: медвежьи мышечные волокна</GR_BearMuscleTissue.label>
   <!-- EN:humanoid implant: bear muscle tissue -->
-
   <GR_BearMuscleTissue.description>Фрагменты мышечных волокон медведя, пересаженные на торс пациента, делают его сильнее и выносливее. Но из-за содержащегося в них генетического материала медведя, они усиливают рост волос на теле.</GR_BearMuscleTissue.description>
   <!-- EN:Grafts of bear muscle tissue on the subject's torso increase overall strength and stamina. These grafts however tend to stimulate the production of an abundance of body hair. -->
 
 
   <GR_HibernationModule.label>имплант для гуманоида: гибернационный модуль</GR_HibernationModule.label>
   <!-- EN:humanoid implant: hibernation module -->
-
   <GR_HibernationModule.description>Биочип, уменьшающий потребность во сне.</GR_HibernationModule.description>
   <!-- EN:A biochip that modifies the brain to reduce the need for sleep. -->
 
 
   <GR_Ovipositor.label>имплант для гуманоида: яйцеклад</GR_Ovipositor.label>
   <!-- EN:humanoid implant: ovipositor -->
-
-  <GR_Ovipositor.description>О том, что вы зашли в своих научных изысканиях слишком далеко говорит то, что вы решаете имплантировать человеку яйцеклад. Это позволит поселенцу откладывать куриные яйца два раза в день. А ещё это чертовски больно. Да и просто фу.</GR_Ovipositor.description>
+  <GR_Ovipositor.description>О том, что вы зашли в своих научных изысканиях слишком далеко говорит уже то, что вы решаете имплантировать человеку яйцеклад. Это позволит поселенцу откладывать куриные яйца два раза в день. А ещё это чертовски больно. Да и просто фу.</GR_Ovipositor.description>
   <!-- EN:You know you have gone too far in your scientific experiments when you are implanting a human being with an ovipositor. This will enable the colonist to lay chicken eggs twice a day. It hurts as hell, though. Also, yuck. -->
 
 

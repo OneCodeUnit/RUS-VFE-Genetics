@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
-
   <GR_GeneticReseach.label>Генетические исследования</GR_GeneticReseach.label>
-  <!-- EN:>Genetic Research -->
-
+  <!-- EN: Genetic Research -->
 
 </LanguageData>

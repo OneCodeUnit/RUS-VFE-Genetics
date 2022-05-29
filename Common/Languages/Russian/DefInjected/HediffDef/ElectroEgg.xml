@@ -8,9 +8,6 @@
   <GR_ElectroEggHigh.labelNoun>воздействие механитов</GR_ElectroEggHigh.labelNoun>
   <!-- EN:an active mechanites high -->
 
-
-  <!-- GR_ElectroEgg addiction -->
-
   <GR_ElectroEggTolerance.label>толерантность к механитам</GR_ElectroEggTolerance.label>
   <!-- EN: active mechanites tolerance -->
   <GR_ElectroEggTolerance.description>Выработавшаяся толерантность к воздействию механитов. Чем сильнее эта толерантность, тем больше механитов потребуется для достижения того же эффекта.</GR_ElectroEggTolerance.description>
@@ -19,10 +16,9 @@
   <GR_ElectroEggAddiction.label>зависимость от механитов</GR_ElectroEggAddiction.label>
   <!-- EN: active mechanites addiction -->
 
-  <GR_ElectroEggAddiction.description>Физиологическая зависимость от действующих механитов. Долгосрочное присутствие действующих механитов в организме вызвало нейрологическое привыкание на клеточном уровне, таким образом мозг реципиента не может нормально функционировать без регулярно поступающих свежих доз механитов. \n При их отсутствии же, у реципиента возникает абстинентный синдром. Впрочем, длительное отсутствие поступления свежих механитов позволяет побороть зависимость. </GR_ElectroEggAddiction.description>
-<!-- EN: A chemical addiction to active mechanites. Long-term presence of active mechanites has caused neurological adaptations at the cellular level, so the brain can no longer function properly without them.
-\nWithout regular doses of active mechanites, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
+  <GR_ElectroEggAddiction.description>Физиологическая зависимость от действующих механитов. Долгосрочное присутствие действующих механитов в организме вызвало нейрологическое привыкание на клеточном уровне, из-за чего мозг реципиента не может нормально функционировать без регулярно поступающих свежих доз механитов.\n\nПерерыв в регулярном получении механитов вызовет абстинентный синдром — ломку. Длительное воздержание поможет мозгу вернуться к нормальному состоянию и избавиться от зависимости.</GR_ElectroEggAddiction.description>
+  <!-- EN: A chemical addiction to active mechanites. Long-term presence of active mechanites has caused neurological adaptations at the cellular level, so the brain can no longer function properly without them.\n\nWithout regular doses of active mechanites, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
   <GR_ElectroEggAddiction.stages.1.label>ломка</GR_ElectroEggAddiction.stages.1.label>
-<!-- EN: withdrawal -->
+  <!-- EN: withdrawal -->
 
 </LanguageData>
