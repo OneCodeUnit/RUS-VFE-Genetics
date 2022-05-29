@@ -1,2 +1,43 @@
-# RUS-VFE-Genetics
-Перевод мода Vanilla Genetics Expanded
+##  Перевод мода [Vanilla Genetics Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2801160906)
+
+### Прогресс                      (перевод/проверка)
++ AbilityDef                      (+/-)
++ BodyDef                         (+/-)
++ BodyPartDef                     (+/+)
++ BodyPartGroupDef                (+/+)
++ ChemicalDef                     (+/+)
++ DamageDef                       (+/-)
++ DesignationCategoryDef          (+/+)
++ FactionDef                      (+/+)
++ HediffDef                       (+/-)
++ IncidentDef                     (+/+)
++ InteractionDef                  (+/+)
++ JobDef                          (+/+)
++ KeyBindingCategoryDef           (-/-)
++ MVCF.ModDef                     (-/-)
++ NeedDef                         (+/+)
++ PawnKindDef                     (-/-)
++ QuestScriptDef                  (+/+)
++ RecipeDef                       (-/-)
++ ResearchProjectDef              (-/-)
++ ResearchTabDef                  (+/+)
++ RoomRoleDef                     (+/+)
++ SitePartDef                     (+/+)
++ TaleDef                         (+/+)
++ TerrainDef                      (+/+)
++ ThingCategoryDef                (-/-)
++ ThingDef                        (-/-)
++ ThoughtDef                      (-/-)
++ ToolCapacityDef                 (-/-)
++ TraderKindDef                   (-/-)
++ VFECore.Abilities.AbilityDef    (-/-)
++ VFECore.ExpandableProjectileDef (-/-)
++ WorkGiverDef                    (+/+)
++ WorkTypeDef                     (+/+)
++ Keyed                           (-/-)
++ Патчи                           Переведено 4 из 89 файлов
++ More Lab Stuff                  Файлы включены
+
+Подробности, инструкции и координация на [дискорд сервере](https://discord.gg/Xmbwmgh) в соответствующем канале.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">лицензии Creative Commons «Attribution-NonCommercial-ShareAlike» («Атрибуция-Некоммерчески-СохранениеУсловий») 4.0 Всемирная</a>.
