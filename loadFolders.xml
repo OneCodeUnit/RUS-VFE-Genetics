@@ -1,7 +1,8 @@
 ﻿<loadFolders>
 	<v1.3>
     <li>Common</li>
-    <li IfModActive="VanillaExpanded.VChemfuelE">Chemfuel</li>
+	  <li IfModActive="VanillaExpanded.VChemfuelE">Chemfuel</li>
+    <li IfModActive="VanillaExpanded.VGeneticsEMoreLabStuff">MLS</li>
     <li IfModActive="vanillaexpanded.achievements">Achievements</li>
     <li IfModActive="OskarPotocki.VFE.Insectoid">Insectoids</li>
 
