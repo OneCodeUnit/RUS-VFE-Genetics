@@ -59,27 +59,27 @@
   <!-- EN: I'm doing my part -->
   <GR_AchievementImDoingMyPart.label>do</GR_AchievementImDoingMyPart.label>
   <!-- EN: Hatch a Tier 2 Insectoid Hybrid -->
-  <GR_AchievementImDoingMyPart.description>do</GR_AchievementImDoingMyPart.description>
+  <GR_AchievementImDoingMyPart.description>Создать гибрид инсектоида II класса</GR_AchievementImDoingMyPart.description>
 
   <!-- EN: Lizard People -->
-  <GR_AchievementLizardPeople.label>do</GR_AchievementLizardPeople.label>
+  <GR_AchievementLizardPeople.label>Рептилоиды</GR_AchievementLizardPeople.label>
   <!-- EN: Hatch a Tier 2 Reptilian Hybrid -->
-  <GR_AchievementLizardPeople.description>do</GR_AchievementLizardPeople.description>
+  <GR_AchievementLizardPeople.description>Создать гибрид рептилии II класса</GR_AchievementLizardPeople.description>
 
   <!-- EN: Derby -->
-  <GR_AchievementDerby.label>do</GR_AchievementDerby.label>
+  <GR_AchievementDerby.label>Дерби</GR_AchievementDerby.label>
   <!-- EN: Hatch a Tier 2 Equine Hybrid -->
-  <GR_AchievementDerby.description>do</GR_AchievementDerby.description>
+  <GR_AchievementDerby.description>Создать лошадиный гибрид II класса</GR_AchievementDerby.description>
 
   <!-- EN: Smarter Than You -->
-  <GR_AchievementSmarterThanYou.label>do</GR_AchievementSmarterThanYou.label>
+  <GR_AchievementSmarterThanYou.label>Умнее тебя</GR_AchievementSmarterThanYou.label>
   <!-- EN: Hatch a Tier 3 Thrumbo Hybrid -->
-  <GR_AchievementSmarterThanYou.description>do</GR_AchievementSmarterThanYou.description>
+  <GR_AchievementSmarterThanYou.description>Создать гибрид трумбо III класса</GR_AchievementSmarterThanYou.description>
 
   <!-- EN: We Have the Technology -->
   <GR_AchievementWeHaveTheTechnology.label>do</GR_AchievementWeHaveTheTechnology.label>
   <!-- EN: Convert a paragon into a Mechanoid Hybrid -->
-  <GR_AchievementWeHaveTheTechnology.description>do</GR_AchievementWeHaveTheTechnology.description>
+  <GR_AchievementWeHaveTheTechnology.description>Преобразовать образцовое существо в гибрида механоида</GR_AchievementWeHaveTheTechnology.description>
 
   <!-- EN: Task Failed Successfully -->
   <GR_AchievementTaskFailedSuccessfully.label>do</GR_AchievementTaskFailedSuccessfully.label>
