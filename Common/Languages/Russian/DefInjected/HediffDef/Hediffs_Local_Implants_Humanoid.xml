@@ -19,7 +19,7 @@
   <GR_DiggingBearClaws.description>Уродливые, но сильные лопатовидные кисти рук, которые были изменены с тем, чтобы быть полезными при горных работах. Влияют на скорость и эффективность добычи руд.</GR_DiggingBearClaws.description>
   <!-- EN:Grotesque but powerful hand blades that have been modified to be used in mining operations, increasing both speed and yield. -->
 
-  <GR_DiggingBearClaws.comps.1.tools.0.label>mole claws</GR_DiggingBearClaws.comps.1.tools.0.label>
+  <GR_DiggingBearClaws.comps.1.tools.0.label>кротовьи лапы</GR_DiggingBearClaws.comps.1.tools.0.label>
   <!-- EN:mole claws -->
 
 
@@ -152,7 +152,7 @@
   <GR_PsychicDampeners.label>имплант для гуманоида: психоподавитель</GR_PsychicDampeners.label>
   <!-- EN:humanoid implant: psychic dampeners -->
 
-  <GR_PsychicDampeners.description>Искуственный слухойо орган, который также подавляет псионические эманации, делая субъекта невосприимчивым к псионическим атакам механоидов.</GR_PsychicDampeners.description>
+  <GR_PsychicDampeners.description>Искуственный слуховой орган, который также подавляет псионические эманации, делая субъекта невосприимчивым к псионическим атакам механоидов.</GR_PsychicDampeners.description>
   <!-- EN:Artificial hearing aids that block psychic emanations, providing considerable resistance to mechanoids' psychic attacks. -->
 
 
@@ -160,7 +160,7 @@
   <!-- EN:humanoid implant: kidney toxic filters -->
 
   <GR_KidneyToxicFilters.description>Эта биоэлектронная искуственная почка позволяет в значительной степени усилить фильтрацию крови, благодаря использованию в своей конструкции тканей насекомых. Также этот имплант усиливает устойчивость субъекта к различным токсинам.</GR_KidneyToxicFilters.description>
-  <!-- EN: -->
+  <!-- EN:This is a bioelectronic kidney prosthesis that greatly improves the efficiency of the subject's kidney by using insectoid tissue, providing resistance to toxic substances. -->
 
 
   <GR_HumanThrumboHorn.label>имплант для гуманоида: рог трумбо</GR_HumanThrumboHorn.label>
